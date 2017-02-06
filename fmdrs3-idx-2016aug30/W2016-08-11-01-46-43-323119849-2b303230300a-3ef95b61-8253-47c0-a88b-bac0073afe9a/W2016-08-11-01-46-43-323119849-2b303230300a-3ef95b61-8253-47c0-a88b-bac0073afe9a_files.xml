@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="archive.org-download-Snydsnap_Youtube_Archive-2016-08-10-988b2486-meta.warc.gz" source="original">
+    <mtime>1470872810</mtime>
+    <size>4675</size>
+    <md5>96da459e43b08d2dd83f01b09cc498c7</md5>
+    <crc32>e86bb1e0</crc32>
+    <sha1>851af1ed1d7e91289984d8be19ecce178c3ad54b</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-11-01-46-43-323119849-2b303230300a-3ef95b61-8253-47c0-a88b-bac0073afe9a_meta.xml" source="original">
+    <mtime>1470872826</mtime>
+    <size>838</size>
+    <md5>06aaf046106a097cf81c45d3368ce3b1</md5>
+    <crc32>d851c8ad</crc32>
+    <sha1>6f6c692c3d67b4823fa8d9bc58da18af1671ae3b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-11-01-46-43-323119849-2b303230300a-3ef95b61-8253-47c0-a88b-bac0073afe9a_meta.sqlite" source="original">
+    <mtime>1470872821</mtime>
+    <size>8192</size>
+    <md5>ea4d5d088b8ead9e61a4793365c8600b</md5>
+    <crc32>2a997a92</crc32>
+    <sha1>a9b663f27cd3d22fe68def6391c3ba7874fbea0a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="archive.org-download-Snydsnap_Youtube_Archive-2016-08-10-988b2486-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>archive.org-download-Snydsnap_Youtube_Archive-2016-08-10-988b2486-meta.warc.gz</original>
+    <mtime>1470872830</mtime>
+    <size>47</size>
+    <md5>d0c9f86dfdc20362126f7eee28f47903</md5>
+    <crc32>3a30a28b</crc32>
+    <sha1>d2a6f5f47aa15aeae264f971b453667d1fa0e445</sha1>
+  </file>
+  <file name="W2016-08-11-01-46-43-323119849-2b303230300a-3ef95b61-8253-47c0-a88b-bac0073afe9a.cdx.gz" source="original">
+    <mtime>1470872842</mtime>
+    <size>47</size>
+    <md5>3435c4e209f1f29e9e46edeeddf813a6</md5>
+    <crc32>8efa1f1e</crc32>
+    <sha1>96d12a63b75ccfc05bcef55cbecec4339ed83ae2</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-11-01-46-43-323119849-2b303230300a-3ef95b61-8253-47c0-a88b-bac0073afe9a.cdx.idx" source="original">
+    <mtime>1470872842</mtime>
+    <size>94</size>
+    <md5>8d65940327e992cc28ddd0a15ce47db1</md5>
+    <crc32>fdb35faf</crc32>
+    <sha1>077079e82e14486ed1ca90129ffb50be959e6713</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-11-01-46-43-323119849-2b303230300a-3ef95b61-8253-47c0-a88b-bac0073afe9a_archive.torrent" source="metadata">
+    <btih>243cc67a031b8284e458c0b1eda85e86efadbedd</btih>
+    <mtime>1470872843</mtime>
+    <size>3034</size>
+    <md5>b0f17c6d4d96b57a3a2cf16816e1ee5a</md5>
+    <crc32>d0984541</crc32>
+    <sha1>c6e6e2435f3629f91ccb0270117e1219c0efe6d3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-11-01-46-43-323119849-2b303230300a-3ef95b61-8253-47c0-a88b-bac0073afe9a_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ba855a739225d33f68bf5c354cadb7d2</md5>
+  </file>
+</files>

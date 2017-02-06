@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.american.edu-sis-jis-upload-3RoethkeF11.pdf-2016-08-02-861b5913-00000.warc.gz" source="original">
+    <mtime>1470465264</mtime>
+    <size>158026</size>
+    <md5>e3cb513522936b3ce72d9df20144b6dd</md5>
+    <crc32>816ba95f</crc32>
+    <sha1>6bf0ed601be09311f9d756adc783d798f5773363</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-06-08-34-18-315567542-2b303230300a-16f2c165-6739-4fc0-b01e-fad739db6252_meta.xml" source="original">
+    <mtime>1470465282</mtime>
+    <size>838</size>
+    <md5>c121acad4e428b673cf04ca606f690e1</md5>
+    <crc32>d1844363</crc32>
+    <sha1>eb6ee3451208b785b18926629bff204838942f49</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-06-08-34-18-315567542-2b303230300a-16f2c165-6739-4fc0-b01e-fad739db6252_meta.sqlite" source="original">
+    <mtime>1470465277</mtime>
+    <size>8192</size>
+    <md5>c8766c3ad5e54ea4839a63c4217a1f54</md5>
+    <crc32>79417246</crc32>
+    <sha1>df3a9224fefb058f067aa363c58450cf7e2e5be7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.american.edu-sis-jis-upload-3RoethkeF11.pdf-2016-08-02-861b5913-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.american.edu-sis-jis-upload-3RoethkeF11.pdf-2016-08-02-861b5913-00000.warc.gz</original>
+    <mtime>1470465286</mtime>
+    <size>271</size>
+    <md5>3b1e5776f39804271b26b1742edd8521</md5>
+    <crc32>049a01c4</crc32>
+    <sha1>4bdbe3104938611b5f2ddc8ef44307945482ab41</sha1>
+  </file>
+  <file name="W2016-08-06-08-34-18-315567542-2b303230300a-16f2c165-6739-4fc0-b01e-fad739db6252.cdx.idx" source="original">
+    <mtime>1470465297</mtime>
+    <size>95</size>
+    <md5>e71099953f90859db32e5d5289ac4272</md5>
+    <crc32>8c85286d</crc32>
+    <sha1>be13367e5086005bd168fdf514e8a04ffebfc010</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-06-08-34-18-315567542-2b303230300a-16f2c165-6739-4fc0-b01e-fad739db6252.cdx.gz" source="original">
+    <mtime>1470465297</mtime>
+    <size>271</size>
+    <md5>bd9a3b2af22c29c72c5dd5a8aad003ed</md5>
+    <crc32>adbc60e7</crc32>
+    <sha1>24faa35266940469375da5354896fe5e14a1b7c6</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-06-08-34-18-315567542-2b303230300a-16f2c165-6739-4fc0-b01e-fad739db6252_archive.torrent" source="metadata">
+    <btih>da4244603d2392db24ed0c3f90dc3c66f385b7ba</btih>
+    <mtime>1470465298</mtime>
+    <size>3044</size>
+    <md5>b8f277b71ab8009fa484daf4ba749f2c</md5>
+    <crc32>2f1cd53f</crc32>
+    <sha1>8fbe32540d8a7164dfafb4fcf714bcbb0b466f53</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-06-08-34-18-315567542-2b303230300a-16f2c165-6739-4fc0-b01e-fad739db6252_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>05aa6000c58bf2e3de2507a34ad297a0</md5>
+  </file>
+</files>

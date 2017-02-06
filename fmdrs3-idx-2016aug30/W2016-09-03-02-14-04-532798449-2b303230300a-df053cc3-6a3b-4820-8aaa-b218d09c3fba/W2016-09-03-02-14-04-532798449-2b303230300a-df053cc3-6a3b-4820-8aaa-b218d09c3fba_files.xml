@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="en.wikipedia.org-wiki-Special-Contributions-Goldenshimmer-2016-09-02-6c0a14d9-00000.warc.gz" source="original">
+    <mtime>1472861659</mtime>
+    <size>400295</size>
+    <md5>2c67129c9d886eb0f3e5681ce52518e2</md5>
+    <crc32>2bd6ee27</crc32>
+    <sha1>3f9e7962ba66b4ca479531d0e4582779940b309c</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-09-03-02-14-04-532798449-2b303230300a-df053cc3-6a3b-4820-8aaa-b218d09c3fba_meta.sqlite" source="original">
+    <mtime>1472861672</mtime>
+    <size>11264</size>
+    <md5>2375cd0dde8ef9f8305cb5e6144d9360</md5>
+    <crc32>c6ee5d06</crc32>
+    <sha1>af8c054c57cba76daf1e5272875a138c873c5fa2</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-09-03-02-14-04-532798449-2b303230300a-df053cc3-6a3b-4820-8aaa-b218d09c3fba_meta.xml" source="original">
+    <mtime>1472861680</mtime>
+    <size>1415</size>
+    <format>Metadata</format>
+    <md5>be0297a69c4dada21510ef27dfa11d8a</md5>
+    <crc32>29c3b656</crc32>
+    <sha1>c892ad8af1e9181712748e63eba94edda3e4f329</sha1>
+  </file>
+  <file name="en.wikipedia.org-wiki-Special-Contributions-Goldenshimmer-2016-09-02-6c0a14d9-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>en.wikipedia.org-wiki-Special-Contributions-Goldenshimmer-2016-09-02-6c0a14d9-00000.warc.gz</original>
+    <mtime>1472861683</mtime>
+    <size>6022</size>
+    <md5>d51b159d22ef0cd19f3f7fab52fa477a</md5>
+    <crc32>e3d78d48</crc32>
+    <sha1>db1fc4371fe97615a66836c95ac17dbac85b1718</sha1>
+  </file>
+  <file name="W2016-09-03-02-14-04-532798449-2b303230300a-df053cc3-6a3b-4820-8aaa-b218d09c3fba.cdx.gz" source="original">
+    <mtime>1472861695</mtime>
+    <size>5874</size>
+    <md5>c1d06fcd790b256e102c552feb9162ce</md5>
+    <crc32>e0eafccd</crc32>
+    <sha1>cd7df2c2996012fe35be677cdeacf7a2b263dbef</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-09-03-02-14-04-532798449-2b303230300a-df053cc3-6a3b-4820-8aaa-b218d09c3fba.cdx.idx" source="original">
+    <mtime>1472861695</mtime>
+    <size>96</size>
+    <md5>282f57a3c4aeb430040882c8e0f62a48</md5>
+    <crc32>fb4c6718</crc32>
+    <sha1>4810fe1fd2a25e8b19c1a67013e70fcc10720fdb</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-09-03-02-14-04-532798449-2b303230300a-df053cc3-6a3b-4820-8aaa-b218d09c3fba_archive.torrent" source="metadata">
+    <btih>4b481d1df6832280ba4c19b98f92a93a8002cf41</btih>
+    <mtime>1472861695</mtime>
+    <size>3068</size>
+    <md5>0e5f2af5acd84a9a8d0bbb292c2ecdb3</md5>
+    <crc32>bcc7f833</crc32>
+    <sha1>77b20a785f9730e9fff64deda8c195a8897af403</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-09-03-02-14-04-532798449-2b303230300a-df053cc3-6a3b-4820-8aaa-b218d09c3fba_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>bdaf6e9f229b6900d31fab21995cf043</md5>
+  </file>
+</files>

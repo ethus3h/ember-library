@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="en.wikipedia.org-wiki-Deezer-2016-08-22-c353a945-meta.warc.gz" source="original">
+    <mtime>1471835934</mtime>
+    <size>5956</size>
+    <md5>b47b52d175493a171afa3d691ff7c77e</md5>
+    <crc32>aabe1577</crc32>
+    <sha1>da89b67afa788aa4d405aaac7ffadf95ca4d41c9</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-22-05-18-48-101041947-2b303230300a-2eb02c35-6772-4822-8b3f-8bf56f11ebb3_meta.xml" source="original">
+    <mtime>1471835951</mtime>
+    <size>838</size>
+    <md5>552320a07c9e22aa999a4a1435b43de6</md5>
+    <crc32>79685257</crc32>
+    <sha1>b4d392d13b861551d89c279f7f7144a8f0fb8e31</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-22-05-18-48-101041947-2b303230300a-2eb02c35-6772-4822-8b3f-8bf56f11ebb3_meta.sqlite" source="original">
+    <mtime>1471835946</mtime>
+    <size>8192</size>
+    <md5>1336da0abf1b790e5ad11002e0456e15</md5>
+    <crc32>2b623a7e</crc32>
+    <sha1>b42af845b25f3bc1a29820d913998595d3f2d6e2</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="en.wikipedia.org-wiki-Deezer-2016-08-22-c353a945-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>en.wikipedia.org-wiki-Deezer-2016-08-22-c353a945-meta.warc.gz</original>
+    <mtime>1471835956</mtime>
+    <size>47</size>
+    <md5>f7d02f600a04cdb86f952e988e22a045</md5>
+    <crc32>38f07666</crc32>
+    <sha1>66c4d34de30806f6ea9e54b49ee3699c3a4c02cc</sha1>
+  </file>
+  <file name="W2016-08-22-05-18-48-101041947-2b303230300a-2eb02c35-6772-4822-8b3f-8bf56f11ebb3.cdx.gz" source="original">
+    <mtime>1471835966</mtime>
+    <size>47</size>
+    <md5>3e934000c359348fcc7f32ba53603cdf</md5>
+    <crc32>81266a2a</crc32>
+    <sha1>ea5d130ed1b0ad28da3d702ed35ac4bf359b39bf</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-22-05-18-48-101041947-2b303230300a-2eb02c35-6772-4822-8b3f-8bf56f11ebb3.cdx.idx" source="original">
+    <mtime>1471835966</mtime>
+    <size>94</size>
+    <md5>c872bd240cd0a72744d281e142d7e4f2</md5>
+    <crc32>06dd95f4</crc32>
+    <sha1>99ada0bf08397d6b6e35e60cc5e089b2ec630b01</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-22-05-18-48-101041947-2b303230300a-2eb02c35-6772-4822-8b3f-8bf56f11ebb3_archive.torrent" source="metadata">
+    <btih>7d6090bedfd1a81fdb36826e6f939030b4c8d6a9</btih>
+    <mtime>1471835967</mtime>
+    <size>2998</size>
+    <md5>90b9162421ad856a51b1d51bd41fe782</md5>
+    <crc32>16a80190</crc32>
+    <sha1>976fca78383bed42dfbf0a00b0caa5f8f49731e4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-22-05-18-48-101041947-2b303230300a-2eb02c35-6772-4822-8b3f-8bf56f11ebb3_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fd5b263dbaf8122274a8599cdb631523</md5>
+  </file>
+</files>

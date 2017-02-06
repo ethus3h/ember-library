@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="maccosmeticsonlines.webs.com-2016-08-15-a2e9a5e6-00000.warc.gz" source="original">
+    <mtime>1471310600</mtime>
+    <size>256325</size>
+    <md5>7d7279c53bf497ba559d57762f8d3867</md5>
+    <crc32>8e1a9205</crc32>
+    <sha1>e5ba0172c9d9c757bb6900a29582a8e473db00e5</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-16-03-23-07-065190271-2b303230300a-e1ac9d0f-0c35-41e5-9d89-5ab928c50797_meta.sqlite" source="original">
+    <mtime>1471310612</mtime>
+    <size>8192</size>
+    <md5>d22e589f0ab3f64ebc7bd7b96141d2c6</md5>
+    <crc32>6184e311</crc32>
+    <sha1>efc1a2c2c16307fe158ec042fbdc444abe3439e3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-16-03-23-07-065190271-2b303230300a-e1ac9d0f-0c35-41e5-9d89-5ab928c50797_meta.xml" source="original">
+    <mtime>1471310617</mtime>
+    <size>838</size>
+    <md5>81ef892fd1f2162024b9c3059d7d6d49</md5>
+    <crc32>130f47b0</crc32>
+    <sha1>fc7e666d5af6660175a6cd54c5d0fa9f95de1eaf</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="maccosmeticsonlines.webs.com-2016-08-15-a2e9a5e6-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>maccosmeticsonlines.webs.com-2016-08-15-a2e9a5e6-00000.warc.gz</original>
+    <mtime>1471310621</mtime>
+    <size>449</size>
+    <md5>c1001ea31d4f88c521266a9816fbcce2</md5>
+    <crc32>e182624a</crc32>
+    <sha1>ccc0b54c17d1fe2551f36d335d8ce22a68583de7</sha1>
+  </file>
+  <file name="W2016-08-16-03-23-07-065190271-2b303230300a-e1ac9d0f-0c35-41e5-9d89-5ab928c50797.cdx.idx" source="original">
+    <mtime>1471310632</mtime>
+    <size>95</size>
+    <md5>b3a89cf8527744d9ee38e3971b967fe4</md5>
+    <crc32>f380d82f</crc32>
+    <sha1>70ac844b327a4cb4e5af0b32ea87fb4358f6b7c0</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-16-03-23-07-065190271-2b303230300a-e1ac9d0f-0c35-41e5-9d89-5ab928c50797.cdx.gz" source="original">
+    <mtime>1471310632</mtime>
+    <size>449</size>
+    <md5>369b3f1b719546642e4dcfb03ea83127</md5>
+    <crc32>c5fc1f19</crc32>
+    <sha1>0daeadda3e0e5f20ac03f538de8d90eea1e268eb</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-16-03-23-07-065190271-2b303230300a-e1ac9d0f-0c35-41e5-9d89-5ab928c50797_archive.torrent" source="metadata">
+    <btih>1cb739fce9e94188468da1f5590f183c89fb2666</btih>
+    <mtime>1471310632</mtime>
+    <size>3006</size>
+    <md5>5bea1753aaba2ec094baac0963de200c</md5>
+    <crc32>9b69acff</crc32>
+    <sha1>393791368d6b0d89a221a725c21ed5b2db44f561</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-16-03-23-07-065190271-2b303230300a-e1ac9d0f-0c35-41e5-9d89-5ab928c50797_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>475d220e121c643b186eec74c782b2af</md5>
+  </file>
+</files>

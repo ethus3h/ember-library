@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="en.wikipedia.org-wiki-Prelude_to_Axanar-2016-08-13-ff85bc72-meta.warc.gz" source="original">
+    <mtime>1471141027</mtime>
+    <size>5978</size>
+    <md5>a66a95820f740391ad4b5d70f28d0d66</md5>
+    <crc32>e1dd6c68</crc32>
+    <sha1>6ac27d12b9868b446ac4bc0bb64e5382b8ea2f33</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-14-04-17-00-888615188-2b303230300a-0ecb4330-18d5-4843-b5ea-db5cd6913571_meta.sqlite" source="original">
+    <mtime>1471141039</mtime>
+    <size>8192</size>
+    <md5>d1035890a293ff8d0378f55197b972c7</md5>
+    <crc32>d0139cb3</crc32>
+    <sha1>ad651feb56204c976ff53052769b1f0d94a3cd4c</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-14-04-17-00-888615188-2b303230300a-0ecb4330-18d5-4843-b5ea-db5cd6913571_meta.xml" source="original">
+    <mtime>1471141043</mtime>
+    <size>838</size>
+    <md5>816a938ad189600982ff7e4060146e37</md5>
+    <crc32>c5fde8b5</crc32>
+    <sha1>ac4999e71e5f21a9758e3ac27f75cf457945cff5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="en.wikipedia.org-wiki-Prelude_to_Axanar-2016-08-13-ff85bc72-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>en.wikipedia.org-wiki-Prelude_to_Axanar-2016-08-13-ff85bc72-meta.warc.gz</original>
+    <mtime>1471141047</mtime>
+    <size>47</size>
+    <md5>5fae53b9a028eda8d5e339374b318831</md5>
+    <crc32>984b06a5</crc32>
+    <sha1>75a75ca498d4fa0d6baf125208ef74672609d8a1</sha1>
+  </file>
+  <file name="W2016-08-14-04-17-00-888615188-2b303230300a-0ecb4330-18d5-4843-b5ea-db5cd6913571.cdx.idx" source="original">
+    <mtime>1471141057</mtime>
+    <size>94</size>
+    <md5>e6f6102a3d27e0b59dff43d8484e9f1b</md5>
+    <crc32>488dcc88</crc32>
+    <sha1>3acb1cbe001f27455ffbb14b87d637cc42e7491b</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-14-04-17-00-888615188-2b303230300a-0ecb4330-18d5-4843-b5ea-db5cd6913571.cdx.gz" source="original">
+    <mtime>1471141057</mtime>
+    <size>47</size>
+    <md5>71b6aef148d89ea39c594fbd1cda870f</md5>
+    <crc32>5303105f</crc32>
+    <sha1>0c137d18f73ee369f97faa3457a80c4780490373</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-14-04-17-00-888615188-2b303230300a-0ecb4330-18d5-4843-b5ea-db5cd6913571_archive.torrent" source="metadata">
+    <btih>a10a48b36266ba220f7b4e22913ccbe78929ce13</btih>
+    <mtime>1471141058</mtime>
+    <size>3022</size>
+    <md5>0d754b319f8da4657b1714d1f28f5559</md5>
+    <crc32>ee5d0355</crc32>
+    <sha1>3e20a37d80fc4cb3c37f116136cf9ce0caaccf03</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-14-04-17-00-888615188-2b303230300a-0ecb4330-18d5-4843-b5ea-db5cd6913571_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a15376c81c50d93d12e2eeff727e97b5</md5>
+  </file>
+</files>

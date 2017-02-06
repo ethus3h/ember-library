@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-22-05-16-43-708903143-2b303230300a-90536c6c-e357-40e3-be28-9aac58c42bad_meta.sqlite" source="original">
+    <mtime>1471835826</mtime>
+    <size>8192</size>
+    <md5>e6c63d9d686b1067dff2156923638af9</md5>
+    <crc32>b2f05af0</crc32>
+    <sha1>94e619876d885db1e99550e2fe38a749e70a5744</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-22-05-16-43-708903143-2b303230300a-90536c6c-e357-40e3-be28-9aac58c42bad_meta.xml" source="original">
+    <mtime>1471835830</mtime>
+    <size>838</size>
+    <md5>0a4d24fb32f6c0be6dc7aa9ac0914ad6</md5>
+    <crc32>4b330766</crc32>
+    <sha1>75a0775c3f5bb95a9acec32721375eeffd430468</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="twitter.com-ahl-status-753254488123727873-2016-08-21-a2c05900-00000.warc.gz" source="original">
+    <mtime>1471835811</mtime>
+    <size>2516876</size>
+    <md5>0ada5a561742efd83ae61ec226042209</md5>
+    <crc32>72df7f0e</crc32>
+    <sha1>6a4d5fa3e7518f57d099f740dd90a37bf3db455b</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="twitter.com-ahl-status-753254488123727873-2016-08-21-a2c05900-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>twitter.com-ahl-status-753254488123727873-2016-08-21-a2c05900-00000.warc.gz</original>
+    <mtime>1471835834</mtime>
+    <size>5758</size>
+    <md5>ef726059bf265ac2971ce7c77c0404e8</md5>
+    <crc32>2417ba58</crc32>
+    <sha1>9117be8f360dff170f024a6c757f220249eaa473</sha1>
+  </file>
+  <file name="W2016-08-22-05-16-43-708903143-2b303230300a-90536c6c-e357-40e3-be28-9aac58c42bad.cdx.gz" source="original">
+    <mtime>1471835844</mtime>
+    <size>5619</size>
+    <md5>ea0e469c53366bbedcf9996678664f40</md5>
+    <crc32>43b193df</crc32>
+    <sha1>0bb481eb4ea752e98590ecf3937c4421dec042a6</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-22-05-16-43-708903143-2b303230300a-90536c6c-e357-40e3-be28-9aac58c42bad.cdx.idx" source="original">
+    <mtime>1471835844</mtime>
+    <size>96</size>
+    <md5>c28de7fb7405218debadcf93bada2057</md5>
+    <crc32>5b6290d3</crc32>
+    <sha1>c4a7cf6aa77c69f7797deeae2c34203c3c8cd7c2</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-22-05-16-43-708903143-2b303230300a-90536c6c-e357-40e3-be28-9aac58c42bad_archive.torrent" source="metadata">
+    <btih>7b966c850e29d0836e5362007b85d8d18c6fcac9</btih>
+    <mtime>1471835845</mtime>
+    <size>3116</size>
+    <md5>0d369638bce880fe083bd5f3b03b456b</md5>
+    <crc32>5cc99a68</crc32>
+    <sha1>72630a9926fc5067bf1fd8d0bf495c11ddf47065</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-22-05-16-43-708903143-2b303230300a-90536c6c-e357-40e3-be28-9aac58c42bad_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>77ccee64ed8705e551f5ebd80f0f8f52</md5>
+  </file>
+</files>

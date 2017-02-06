@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="fortune.com-2016-08-22-trump-media-company-2016-08-24-5044c1b3-00000.warc.gz" source="original">
+    <mtime>1472059262</mtime>
+    <size>5593904</size>
+    <md5>6ce01ae7fdbceb5f7c07b7c94a3703ab</md5>
+    <crc32>f3702051</crc32>
+    <sha1>e5cd5d1823c780e0abbc5b392717b9c3cbe1c87a</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-24-19-20-54-660241841-2b303230300a-64faf6ea-2779-4c65-9996-b51b2194f23f_meta.xml" source="original">
+    <mtime>1472059283</mtime>
+    <size>838</size>
+    <md5>3d3c11875840cf7a3027186f4ee64396</md5>
+    <crc32>0cad1d33</crc32>
+    <sha1>30431978a418a3c3164951988d681efd750d695f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-24-19-20-54-660241841-2b303230300a-64faf6ea-2779-4c65-9996-b51b2194f23f_meta.sqlite" source="original">
+    <mtime>1472059279</mtime>
+    <size>8192</size>
+    <md5>db356cd70b4d03dc5fbb7993c3ae0a13</md5>
+    <crc32>23f2b03e</crc32>
+    <sha1>495c1da686e54563991a9908d643f0599bf4eea8</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="fortune.com-2016-08-22-trump-media-company-2016-08-24-5044c1b3-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>fortune.com-2016-08-22-trump-media-company-2016-08-24-5044c1b3-00000.warc.gz</original>
+    <mtime>1472059292</mtime>
+    <size>11808</size>
+    <md5>dba240fb1e44a489639dff8537eb6b6a</md5>
+    <crc32>14d328d2</crc32>
+    <sha1>3ddbea6f613d14e56e8760e208f197d5c4b8f4f9</sha1>
+  </file>
+  <file name="W2016-08-24-19-20-54-660241841-2b303230300a-64faf6ea-2779-4c65-9996-b51b2194f23f.cdx.idx" source="original">
+    <mtime>1472059304</mtime>
+    <size>97</size>
+    <md5>5f99371c0b1386dacacb666217bf3652</md5>
+    <crc32>7e3a9888</crc32>
+    <sha1>39e734dd88d610700966c55acc4b36a9ff00f497</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-24-19-20-54-660241841-2b303230300a-64faf6ea-2779-4c65-9996-b51b2194f23f.cdx.gz" source="original">
+    <mtime>1472059304</mtime>
+    <size>11623</size>
+    <md5>e391452e3945932b5254d9c0e6ea1500</md5>
+    <crc32>9a7d4d4a</crc32>
+    <sha1>128dde2291de63c12445e3704d756d54818dd9a9</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-24-19-20-54-660241841-2b303230300a-64faf6ea-2779-4c65-9996-b51b2194f23f_archive.torrent" source="metadata">
+    <btih>81f70fbcef2cf759574559b82c43fe051b2de79b</btih>
+    <mtime>1472059304</mtime>
+    <size>3240</size>
+    <md5>d4574e37713b57f4fae5db028a5f1077</md5>
+    <crc32>3aad0c83</crc32>
+    <sha1>9abcb5e794278b79450928bf06c091ce8a9af407</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-24-19-20-54-660241841-2b303230300a-64faf6ea-2779-4c65-9996-b51b2194f23f_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c4cc940893884e489b915745529dde78</md5>
+  </file>
+</files>

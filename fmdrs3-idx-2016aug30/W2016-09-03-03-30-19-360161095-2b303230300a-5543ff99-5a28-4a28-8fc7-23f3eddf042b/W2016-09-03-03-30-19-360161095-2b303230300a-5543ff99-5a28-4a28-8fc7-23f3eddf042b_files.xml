@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="theoatmeal.com-comics-unhappy-2016-09-02-bf072601-00000.warc.gz" source="original">
+    <mtime>1472866228</mtime>
+    <size>9730715</size>
+    <md5>358126c18e7f8a1facdc8d1dc2efae5e</md5>
+    <crc32>f516ae0f</crc32>
+    <sha1>db60d1d926614e6be412e8bae6bf7d82cb346c41</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-09-03-03-30-19-360161095-2b303230300a-5543ff99-5a28-4a28-8fc7-23f3eddf042b_meta.sqlite" source="original">
+    <mtime>1472866241</mtime>
+    <size>11264</size>
+    <md5>e4b50bf551b807016b4247e47d9134c2</md5>
+    <crc32>a6aba621</crc32>
+    <sha1>f96331a2722256082bee827fe9cb536d7e9958b7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-09-03-03-30-19-360161095-2b303230300a-5543ff99-5a28-4a28-8fc7-23f3eddf042b_meta.xml" source="original">
+    <mtime>1472866251</mtime>
+    <size>1329</size>
+    <format>Metadata</format>
+    <md5>0e51be6d2c58e95a33557833165dd86c</md5>
+    <crc32>019d04db</crc32>
+    <sha1>e658313816d4d567562af684aefe3aa280074e0d</sha1>
+  </file>
+  <file name="theoatmeal.com-comics-unhappy-2016-09-02-bf072601-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>theoatmeal.com-comics-unhappy-2016-09-02-bf072601-00000.warc.gz</original>
+    <mtime>1472866257</mtime>
+    <size>46185</size>
+    <md5>3290ec1410258812d33e97f4cae6d5e8</md5>
+    <crc32>2f51f85b</crc32>
+    <sha1>94344078a7fa808d238c4295e1dea13a735e01cb</sha1>
+  </file>
+  <file name="W2016-09-03-03-30-19-360161095-2b303230300a-5543ff99-5a28-4a28-8fc7-23f3eddf042b.cdx.idx" source="original">
+    <mtime>1472866269</mtime>
+    <size>97</size>
+    <md5>742728b5199f5d6c97531528a95ba1e7</md5>
+    <crc32>c51d4bb9</crc32>
+    <sha1>838aab648bcac3d6e5c333ac3532df65f4ffa592</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-09-03-03-30-19-360161095-2b303230300a-5543ff99-5a28-4a28-8fc7-23f3eddf042b.cdx.gz" source="original">
+    <mtime>1472866269</mtime>
+    <size>45093</size>
+    <md5>31daabbd7da2c9cbefce8dadafeffaf8</md5>
+    <crc32>6014baf8</crc32>
+    <sha1>9ccdd3ec1226c93ad4746701985955b0a077842a</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-09-03-03-30-19-360161095-2b303230300a-5543ff99-5a28-4a28-8fc7-23f3eddf042b_archive.torrent" source="metadata">
+    <btih>c6ee1c1381c0aaa4c727deb25484b914ac9d9ba1</btih>
+    <mtime>1472866270</mtime>
+    <size>3376</size>
+    <md5>f7442073fb9305745b534192b01bc8af</md5>
+    <crc32>e15a2bef</crc32>
+    <sha1>fda457d898ef82d672a3c0dc5c787a4a33643bcb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-09-03-03-30-19-360161095-2b303230300a-5543ff99-5a28-4a28-8fc7-23f3eddf042b_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9cdaf13f3e25cdb7f010100ca3eb59a8</md5>
+  </file>
+</files>

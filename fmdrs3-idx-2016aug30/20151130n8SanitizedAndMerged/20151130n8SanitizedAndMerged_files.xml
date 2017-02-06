@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="(2015-11-30n8) sanitized and merged.txt" source="original">
+    <mtime>1448887270</mtime>
+    <size>980628</size>
+    <md5>e714112b21cef5acdc42afc6603e7d28</md5>
+    <crc32>de235bc3</crc32>
+    <sha1>8ac1a57ea1a6d7a7be97e41232a56e1cd0f0b0d4</sha1>
+    <format>Text</format>
+  </file>
+  <file name="20151130n8SanitizedAndMerged_meta.sqlite" source="original">
+    <mtime>1448887286</mtime>
+    <size>9216</size>
+    <md5>951be1dd0114ca1870e3f17716fbe8b2</md5>
+    <crc32>d3eab8e0</crc32>
+    <sha1>6de81ace93bde11796a2ec8b8e8cf297a2a5f2b2</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="20151130n8SanitizedAndMerged_meta.xml" source="original">
+    <mtime>1448887298</mtime>
+    <size>933</size>
+    <format>Metadata</format>
+    <md5>5595d42fef329946dd256b90cc5d8c3f</md5>
+    <crc32>7ca4fad0</crc32>
+    <sha1>d786e1075b75a40b6fa280f40f1b23c59d83938c</sha1>
+  </file>
+  <file name="20151130n8SanitizedAndMerged_archive.torrent" source="metadata">
+    <btih>f7471117ac3064f4cd86b9e27c98cb3760c49ae6</btih>
+    <mtime>1448887300</mtime>
+    <size>1836</size>
+    <md5>e3bcc95ab998eda7d0f6834e96b9246d</md5>
+    <crc32>3d9f3fc6</crc32>
+    <sha1>9259a80cee0f843fe82d4095f035e16dfdbb93ad</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="20151130n8SanitizedAndMerged_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ce95522a78ea69bee0a21753454371db</md5>
+  </file>
+</files>

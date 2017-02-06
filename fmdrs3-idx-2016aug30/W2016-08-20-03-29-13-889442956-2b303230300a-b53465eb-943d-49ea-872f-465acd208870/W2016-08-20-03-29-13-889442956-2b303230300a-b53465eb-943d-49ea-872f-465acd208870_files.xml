@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-20-03-29-13-889442956-2b303230300a-b53465eb-943d-49ea-872f-465acd208870_meta.xml" source="original">
+    <mtime>1471656577</mtime>
+    <size>838</size>
+    <md5>dc3be13bcce8384ccc192e80d470df59</md5>
+    <crc32>7bc9f6dc</crc32>
+    <sha1>59427e876ba1076ba8fcaa031578546a2821ea54</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-20-03-29-13-889442956-2b303230300a-b53465eb-943d-49ea-872f-465acd208870_meta.sqlite" source="original">
+    <mtime>1471656572</mtime>
+    <size>8192</size>
+    <md5>25c3c350c25bb907e1c1e47b86cb5f6a</md5>
+    <crc32>27307d45</crc32>
+    <sha1>173f6536aa75297b44506969e2efdae42f1ee75f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="google.com-search-q=rubber+duck-2016-08-20-0a8fc5a9-00000.warc.gz" source="original">
+    <mtime>1471656560</mtime>
+    <size>461080</size>
+    <md5>6eb718015f7ffb7b0f2f506d00ca2c62</md5>
+    <crc32>fda04218</crc32>
+    <sha1>09e975d7c1509750645956066a8a974a1c099390</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="google.com-search-q=rubber+duck-2016-08-20-0a8fc5a9-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>google.com-search-q=rubber+duck-2016-08-20-0a8fc5a9-00000.warc.gz</original>
+    <mtime>1471656584</mtime>
+    <size>1881</size>
+    <md5>0265a37cad1c773a5f0c802f250f4fc0</md5>
+    <crc32>9d3dbb7a</crc32>
+    <sha1>c846effe6a41dcc86fb5171584b11a7cb6738f81</sha1>
+  </file>
+  <file name="W2016-08-20-03-29-13-889442956-2b303230300a-b53465eb-943d-49ea-872f-465acd208870.cdx.idx" source="original">
+    <mtime>1471656597</mtime>
+    <size>96</size>
+    <md5>9e819170a52c556c1eba9a3eb6895f69</md5>
+    <crc32>dc2d07fd</crc32>
+    <sha1>fa1c416067a63bde28f2ec99b17a7989c1bb3ebd</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-20-03-29-13-889442956-2b303230300a-b53465eb-943d-49ea-872f-465acd208870.cdx.gz" source="original">
+    <mtime>1471656597</mtime>
+    <size>1859</size>
+    <md5>e3edaa15660e840f9c5db2943061b094</md5>
+    <crc32>448d9f62</crc32>
+    <sha1>469f6a783043f5ba29a9be147d7998b688998404</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-20-03-29-13-889442956-2b303230300a-b53465eb-943d-49ea-872f-465acd208870_archive.torrent" source="metadata">
+    <btih>a8391797b0344683760b90b9f3db606d5bf922c4</btih>
+    <mtime>1471656598</mtime>
+    <size>3014</size>
+    <md5>a983e1561e4cf5e88c132192528858c0</md5>
+    <crc32>9fb1b922</crc32>
+    <sha1>7b11911907a668b791f1b3198c8b95e7c6cd1da8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-20-03-29-13-889442956-2b303230300a-b53465eb-943d-49ea-872f-465acd208870_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0a0a6715e9db6e08eca5d00b164bc86f</md5>
+  </file>
+</files>

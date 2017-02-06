@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="codex.wordpress.org-Moving_WordPress-2016-08-29-90b4e094-00000.warc.gz" source="original">
+    <mtime>1472448238</mtime>
+    <size>805972</size>
+    <md5>d479297595622f05d5e0ffc76b40e7c5</md5>
+    <crc32>d66aa0b3</crc32>
+    <sha1>3af46731baae0560213eef26982c73e246c3b4de</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-29-07-23-51-246609547-2b303230300a-6c43e5e1-51ef-40d8-b9b9-3c1ed8b71b44_meta.xml" source="original">
+    <mtime>1472448254</mtime>
+    <size>838</size>
+    <md5>5714b6dbf9e591a76c0cd66906efdbbc</md5>
+    <crc32>27a14a9c</crc32>
+    <sha1>685aaaf2b17d72a4adb369ab9aa9af7e3a49c325</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-29-07-23-51-246609547-2b303230300a-6c43e5e1-51ef-40d8-b9b9-3c1ed8b71b44_meta.sqlite" source="original">
+    <mtime>1472448249</mtime>
+    <size>8192</size>
+    <md5>4c829b939a1930ebc14b02dbc937f816</md5>
+    <crc32>487a7a9b</crc32>
+    <sha1>3bcbc3069252db9fd0b8ce91604a7a65862aaa34</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="codex.wordpress.org-Moving_WordPress-2016-08-29-90b4e094-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>codex.wordpress.org-Moving_WordPress-2016-08-29-90b4e094-00000.warc.gz</original>
+    <mtime>1472448258</mtime>
+    <size>5419</size>
+    <md5>44d445e60efa7d3d5710d12f7493806b</md5>
+    <crc32>55e48667</crc32>
+    <sha1>3cc35b5b556b26974d1023639618a4236bcfa47d</sha1>
+  </file>
+  <file name="W2016-08-29-07-23-51-246609547-2b303230300a-6c43e5e1-51ef-40d8-b9b9-3c1ed8b71b44.cdx.gz" source="original">
+    <mtime>1472448269</mtime>
+    <size>5312</size>
+    <md5>f828c1c2b7756be23f829cba4c28910a</md5>
+    <crc32>4c495343</crc32>
+    <sha1>8a8cfd7afb50f028515bcc0ee9cda419daff1135</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-29-07-23-51-246609547-2b303230300a-6c43e5e1-51ef-40d8-b9b9-3c1ed8b71b44.cdx.idx" source="original">
+    <mtime>1472448269</mtime>
+    <size>96</size>
+    <md5>afe99b9f2b533c8a4f205ce3a5b47d61</md5>
+    <crc32>dc923795</crc32>
+    <sha1>0db674d56ad4ca92a6a2981985ec480aedc66026</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-29-07-23-51-246609547-2b303230300a-6c43e5e1-51ef-40d8-b9b9-3c1ed8b71b44_archive.torrent" source="metadata">
+    <btih>6ba0a99fa57d2e64fd91a3a1c7736c5f75f06c1b</btih>
+    <mtime>1472448269</mtime>
+    <size>3044</size>
+    <md5>7ab1d9088a1b56388f900280e0558a23</md5>
+    <crc32>c9e4e529</crc32>
+    <sha1>497fd6e65c687be876449dac1eabbc1b7b4f6cc0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-29-07-23-51-246609547-2b303230300a-6c43e5e1-51ef-40d8-b9b9-3c1ed8b71b44_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c0783cd76d0f0653fe60b6242d382bb7</md5>
+  </file>
+</files>

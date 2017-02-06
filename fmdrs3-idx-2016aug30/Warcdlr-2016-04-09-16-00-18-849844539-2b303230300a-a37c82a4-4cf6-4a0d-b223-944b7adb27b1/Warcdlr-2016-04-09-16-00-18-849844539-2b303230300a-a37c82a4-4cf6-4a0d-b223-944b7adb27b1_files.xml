@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Warcdlr-2016-04-09-16-00-18-849844539-2b303230300a-a37c82a4-4cf6-4a0d-b223-944b7adb27b1_meta.sqlite" source="original">
+    <mtime>1460210438</mtime>
+    <size>8192</size>
+    <md5>0abc38e64c5269a98a51991e3371f0b4</md5>
+    <crc32>a03b615d</crc32>
+    <sha1>978b73cf342c9e76a48298ec17f24d4aa163e42e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.snake.net-people-paul-kells-2015-11-02-20ebaee6-00000.warc.gz" source="original">
+    <mtime>1460210426</mtime>
+    <size>2603482</size>
+    <md5>bb3f4bf94a9271dd60c3989148ccba2d</md5>
+    <crc32>8ca8ae51</crc32>
+    <sha1>8d9e5f289ee7eea595807ee68f4567fcac898a06</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-04-09-16-00-18-849844539-2b303230300a-a37c82a4-4cf6-4a0d-b223-944b7adb27b1_meta.xml" source="original">
+    <mtime>1460210447</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>3d4f6cbf81f011e8d53f33c43a9c172d</md5>
+    <crc32>8bfaae09</crc32>
+    <sha1>91a5ca3b89f39f888dddf234c4782f1ef4e7a9fe</sha1>
+  </file>
+  <file name="www.snake.net-people-paul-kells-2015-11-02-20ebaee6-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.snake.net-people-paul-kells-2015-11-02-20ebaee6-00000.warc.gz</original>
+    <mtime>1460210450</mtime>
+    <size>1742</size>
+    <md5>152e0577b22ad1c95a28e2c3a208dbaa</md5>
+    <crc32>6c1bfb6a</crc32>
+    <sha1>0b2859d1d23ffd304118bb21779b0b32180ddd3c</sha1>
+  </file>
+  <file name="Warcdlr-2016-04-09-16-00-18-849844539-2b303230300a-a37c82a4-4cf6-4a0d-b223-944b7adb27b1.cdx.gz" source="original">
+    <mtime>1460210462</mtime>
+    <size>1717</size>
+    <md5>f214b32d8cbcf9e879096dda04631cea</md5>
+    <crc32>29b718f4</crc32>
+    <sha1>089e4675a0dc46ea6e864411287750725bc66a88</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-04-09-16-00-18-849844539-2b303230300a-a37c82a4-4cf6-4a0d-b223-944b7adb27b1.cdx.idx" source="original">
+    <mtime>1460210462</mtime>
+    <size>103</size>
+    <md5>6a729192672fef9f11a814f5459fb57b</md5>
+    <crc32>92d31889</crc32>
+    <sha1>e4474e1e54a528d3c4edb26af81d52909a11dd36</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-04-09-16-00-18-849844539-2b303230300a-a37c82a4-4cf6-4a0d-b223-944b7adb27b1_archive.torrent" source="metadata">
+    <btih>da090c3eca6918215acec7676dca4df7a104fc84</btih>
+    <mtime>1460210463</mtime>
+    <size>3174</size>
+    <md5>baf79c37d260de540de95dc59dcc322c</md5>
+    <crc32>dee65cfb</crc32>
+    <sha1>17dfac2e69befdf79e8f1f7d4309496faf6e540e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-04-09-16-00-18-849844539-2b303230300a-a37c82a4-4cf6-4a0d-b223-944b7adb27b1_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>93236a4ede44ccaeb91e476080e364ea</md5>
+  </file>
+</files>

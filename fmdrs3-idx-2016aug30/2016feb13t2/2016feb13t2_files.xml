@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="2016feb13t2_meta.sqlite" source="original">
+    <mtime>1455400938</mtime>
+    <size>9216</size>
+    <md5>30adf1a9212652ab06577a29fa4f7b0f</md5>
+    <crc32>dbc3e154</crc32>
+    <sha1>8477d4f40fd0006da5ea6455881eb90bfba93fbb</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="_88070638_e04be408-22ac-487b-bdb7-c6dbd46d65d8.jpg" source="original">
+    <mtime>1455400926</mtime>
+    <size>23829</size>
+    <md5>1e8e0942cda466cba9eaa9649a901dc7</md5>
+    <crc32>d966c9d4</crc32>
+    <sha1>10c67321f25c538712ec3f9c0e492699541b418e</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="2016feb13t2_meta.xml" source="original">
+    <mtime>1455400945</mtime>
+    <size>896</size>
+    <format>Metadata</format>
+    <md5>6ba10ed3afb555589e24c3e8200d9602</md5>
+    <crc32>17ab5563</crc32>
+    <sha1>6972d6c53459678d372ac700cae004769e08d525</sha1>
+  </file>
+  <file name="_88070638_e04be408-22ac-487b-bdb7-c6dbd46d65d8_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>_88070638_e04be408-22ac-487b-bdb7-c6dbd46d65d8.jpg</original>
+    <mtime>1455400948</mtime>
+    <size>2730</size>
+    <md5>f3fdd233efa16e5c20715571e1b67a71</md5>
+    <crc32>966bf413</crc32>
+    <sha1>ae04d96fa6bfc065648e2139d732c62cc4534d4a</sha1>
+  </file>
+  <file name="2016feb13t2_archive.torrent" source="metadata">
+    <btih>0436c3827d85e2ceefa16e066fd01e414759bd3a</btih>
+    <mtime>1455400954</mtime>
+    <size>1880</size>
+    <md5>96cfbda30d90d9cef41d4798cda01323</md5>
+    <crc32>8931ca04</crc32>
+    <sha1>90de4fa8942277e5a58c9bae46e049c190e518c6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="2016feb13t2_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a20970d37c060511691b3a92877704d8</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Warcdlr-2016-03-26-15-24-46-787837731-2b303130300a-a66a0701-cad4-420f-8c32-54472e11ed24_meta.sqlite" source="original">
+    <mtime>1459002309</mtime>
+    <size>8192</size>
+    <md5>8301d6c27e53c5ed7b615af043628714</md5>
+    <crc32>fc1b278e</crc32>
+    <sha1>c40a1e374624931f587004c6d3bea6ac5d844cf3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.alibris.co.uk-search-books-isbn-1883650143-2016-03-25-12ad5d92-meta.warc.gz" source="original">
+    <mtime>1459002294</mtime>
+    <size>18048</size>
+    <md5>d59c55a92bf3d2b095adfc6f8a9b8ddc</md5>
+    <crc32>1d67cd5b</crc32>
+    <sha1>cacb2b3e949c4c1c05d4b55f86a73d27b931fa65</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-15-24-46-787837731-2b303130300a-a66a0701-cad4-420f-8c32-54472e11ed24_meta.xml" source="original">
+    <mtime>1459002318</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>51e04a0b14ff16f2115b71e006ea49da</md5>
+    <crc32>fa0149e7</crc32>
+    <sha1>849ef58363fd39fb9a20341a934e268ba358ecf2</sha1>
+  </file>
+  <file name="www.alibris.co.uk-search-books-isbn-1883650143-2016-03-25-12ad5d92-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.alibris.co.uk-search-books-isbn-1883650143-2016-03-25-12ad5d92-meta.warc.gz</original>
+    <mtime>1459002325</mtime>
+    <size>47</size>
+    <md5>019495661a9a5f310cbdbe4c72fc8985</md5>
+    <crc32>48bab8b1</crc32>
+    <sha1>959cb7ecd9e9dcc6e13f27a7321c80f977f8bb2c</sha1>
+  </file>
+  <file name="Warcdlr-2016-03-26-15-24-46-787837731-2b303130300a-a66a0701-cad4-420f-8c32-54472e11ed24.cdx.idx" source="original">
+    <mtime>1459002335</mtime>
+    <size>101</size>
+    <md5>dc6645272c3647dd20b02e1435a12a1b</md5>
+    <crc32>ea6b2267</crc32>
+    <sha1>fc112acbdea14f9705cc87a3df582df6e5a8434d</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-15-24-46-787837731-2b303130300a-a66a0701-cad4-420f-8c32-54472e11ed24.cdx.gz" source="original">
+    <mtime>1459002335</mtime>
+    <size>47</size>
+    <md5>b74107f40d39fe92c7ed809ef0b7f352</md5>
+    <crc32>f16ca4fd</crc32>
+    <sha1>f483f4fbeb2435a3cfe9e58e5b59afe40bdcbbe5</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-15-24-46-787837731-2b303130300a-a66a0701-cad4-420f-8c32-54472e11ed24_archive.torrent" source="metadata">
+    <btih>43c9066dcb4103b3fe25ef27c2d2fa9aea6f90a5</btih>
+    <mtime>1459002336</mtime>
+    <size>3115</size>
+    <md5>00ac7ef8d2fcfa8d9cd99824281dc9e4</md5>
+    <crc32>54d50c93</crc32>
+    <sha1>4d3a2cbdfb548b4aa64799ca0e914bce1dccccf4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-15-24-46-787837731-2b303130300a-a66a0701-cad4-420f-8c32-54472e11ed24_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>93b3fa31c17b2d2b702e415b4b75c900</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Warcdlr-2016-03-25-14-37-14-301203530-2b303130300a-ecd7541b-8131-48ce-b322-b26f5682c246_meta.sqlite" source="original">
+    <mtime>1458913057</mtime>
+    <size>8192</size>
+    <md5>0bc467d412cd5f7b1adfb4fa46f4a0a9</md5>
+    <crc32>707f0f51</crc32>
+    <sha1>db7239c5ae72155bb7a355dfbb585c15687bad20</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="github.com-metabrainz-musicbrainz-server-pull-258-issuecomment-200001369-2016-03-23-19690993-meta.warc.gz" source="original">
+    <mtime>1458913042</mtime>
+    <size>6056</size>
+    <md5>8837fad3db3b660d1e1756513ce60de2</md5>
+    <crc32>4b0dda4d</crc32>
+    <sha1>087b936207d8ea14c1297cfede0df996d2f3e5a0</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-03-25-14-37-14-301203530-2b303130300a-ecd7541b-8131-48ce-b322-b26f5682c246_meta.xml" source="original">
+    <mtime>1458913065</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>5d73d9c1153ce6a4ed4c50f47b1b9e0a</md5>
+    <crc32>d3ec0b2e</crc32>
+    <sha1>b17922b44ba8b15d6099bd0ceefa89f595174876</sha1>
+  </file>
+  <file name="github.com-metabrainz-musicbrainz-server-pull-258-issuecomment-200001369-2016-03-23-19690993-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>github.com-metabrainz-musicbrainz-server-pull-258-issuecomment-200001369-2016-03-23-19690993-meta.warc.gz</original>
+    <mtime>1458913068</mtime>
+    <size>47</size>
+    <md5>795ca7426f5fef4b06d9d884cdd84b40</md5>
+    <crc32>5f766c53</crc32>
+    <sha1>8fd06c3278ead9a6e1d0d278e7eebf0bf135b90e</sha1>
+  </file>
+  <file name="Warcdlr-2016-03-25-14-37-14-301203530-2b303130300a-ecd7541b-8131-48ce-b322-b26f5682c246.cdx.idx" source="original">
+    <mtime>1458913090</mtime>
+    <size>101</size>
+    <md5>9b57e4ec443caff21d57de4cb929de69</md5>
+    <crc32>7e894ce9</crc32>
+    <sha1>b3d6c2a00ffbde727f627734c21fc826582adcbb</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-25-14-37-14-301203530-2b303130300a-ecd7541b-8131-48ce-b322-b26f5682c246.cdx.gz" source="original">
+    <mtime>1458913090</mtime>
+    <size>47</size>
+    <md5>9b819ad6f426354378726cf9599ba4a4</md5>
+    <crc32>6b2bbd84</crc32>
+    <sha1>401d9d4f513019d8bed5c02d8dba5dfc30d1a597</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-25-14-37-14-301203530-2b303130300a-ecd7541b-8131-48ce-b322-b26f5682c246_archive.torrent" source="metadata">
+    <btih>261ce47220b916d5cd2571a2647f92e010a61087</btih>
+    <mtime>1458913091</mtime>
+    <size>3168</size>
+    <md5>5b95fd398b7777a639d226b286944806</md5>
+    <crc32>01a96914</crc32>
+    <sha1>d4b0c2a4a25c1470eb69a6dd0b58b1f11b797b9e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-03-25-14-37-14-301203530-2b303130300a-ecd7541b-8131-48ce-b322-b26f5682c246_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8e3419a855362d4706539890ffc19243</md5>
+  </file>
+</files>

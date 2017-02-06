@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="conv2016feb02try2.mp3" source="original">
+    <mtime>1454442936</mtime>
+    <size>6542176</size>
+    <md5>4141d418a8c08fa5723098de7e8cc366</md5>
+    <crc32>9a8700f0</crc32>
+    <sha1>3b06a1589ab37befc417583a9da28bf3520cf075</sha1>
+    <format>VBR MP3</format>
+    <length>163.53</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="90bde695-74f7-40e8-8b4b-d34ad1435f23-2016.02.02.20.55.25.196634866-2b303130300a_meta.sqlite" source="original">
+    <mtime>1454442955</mtime>
+    <size>6144</size>
+    <md5>d6090be4e0ee90941eb85b44f7d2dbd7</md5>
+    <crc32>369c2b12</crc32>
+    <sha1>b1dde042698ff5c5f475513639a2dcef36a15844</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="90bde695-74f7-40e8-8b4b-d34ad1435f23-2016.02.02.20.55.25.196634866-2b303130300a_meta.xml" source="original">
+    <mtime>1454442964</mtime>
+    <size>743</size>
+    <format>Metadata</format>
+    <md5>b185b609fc418f83c18bef5baaa38032</md5>
+    <crc32>732b8b00</crc32>
+    <sha1>20bd5f88db5b80ff43b10fe2c7689d8312114a4d</sha1>
+  </file>
+  <file name="conv2016feb02try2_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>conv2016feb02try2.mp3</original>
+    <mtime>1454443006</mtime>
+    <size>23292</size>
+    <md5>58a019913bb9d88b2fb3d3d16d335641</md5>
+    <crc32>78eeab2f</crc32>
+    <sha1>41a0ec33d2887ababf8288b3dcda703448909901</sha1>
+  </file>
+  <file name="conv2016feb02try2_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>conv2016feb02try2_esslow.json.gz</original>
+    <mtime>1454443029</mtime>
+    <size>1898</size>
+    <md5>ec9b6dbd4bef4c492873a293448b0abb</md5>
+    <crc32>cac9f321</crc32>
+    <sha1>d61f5181044e800f369e91234faee948e061423a</sha1>
+  </file>
+  <file name="conv2016feb02try2.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>conv2016feb02try2.mp3</original>
+    <mtime>1454443013</mtime>
+    <size>29280</size>
+    <md5>0a30dd4b1facb0e8ddd6dd0394a1ce9b</md5>
+    <crc32>6e08e408</crc32>
+    <sha1>a642297534558548fe992acde9e77e5722220d96</sha1>
+  </file>
+  <file name="conv2016feb02try2_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>conv2016feb02try2.mp3</original>
+    <mtime>1454442987</mtime>
+    <size>294228</size>
+    <md5>22db239e1d97cec775bf38e18b4b7ed4</md5>
+    <crc32>8e40fb0b</crc32>
+    <sha1>f35d54c9a5f4609b84f5118a5b20c2753151b33c</sha1>
+  </file>
+  <file name="conv2016feb02try2.png" source="derivative">
+    <format>PNG</format>
+    <original>conv2016feb02try2.mp3</original>
+    <mtime>1454442984</mtime>
+    <size>6132</size>
+    <md5>609e645746302b8bac5b794354f7a841</md5>
+    <crc32>6dcf05ef</crc32>
+    <sha1>1a01cfb3af9546c35501427d6d2498b003e20a1a</sha1>
+  </file>
+  <file name="conv2016feb02try2.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>conv2016feb02try2.mp3</original>
+    <mtime>1454442975</mtime>
+    <size>1893268</size>
+    <md5>170014f7736b0afba421cd00474e024b</md5>
+    <crc32>00848f94</crc32>
+    <sha1>f8e34c578722d5891674db6b65c1547238cec32c</sha1>
+    <length>163.5</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="90bde695-74f7-40e8-8b4b-d34ad1435f23-2016.02.02.20.55.25.196634866-2b303130300a_archive.torrent" source="metadata">
+    <btih>8f43bb87c3ef19e36dd079b781429eec914a7ecd</btih>
+    <mtime>1454443038</mtime>
+    <size>3664</size>
+    <md5>0c98a6c32800efe56d9b11e35423b00d</md5>
+    <crc32>5c584c80</crc32>
+    <sha1>489cf4b9ac94afc9a9a1878f84cc034c40f573f2</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="90bde695-74f7-40e8-8b4b-d34ad1435f23-2016.02.02.20.55.25.196634866-2b303130300a_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>01026437ed99fe81c3ca6fb5de9ef62e</md5>
+  </file>
+</files>

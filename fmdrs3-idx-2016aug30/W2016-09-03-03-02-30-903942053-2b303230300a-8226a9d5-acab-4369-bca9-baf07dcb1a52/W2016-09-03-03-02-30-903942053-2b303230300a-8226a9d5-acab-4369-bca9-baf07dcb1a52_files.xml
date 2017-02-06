@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="en.wikipedia.org-wiki-Charlie_Hebdo-2015_attack-2016-09-02-081d79d9-meta.warc.gz" source="original">
+    <mtime>1472864558</mtime>
+    <size>6130</size>
+    <md5>257323a5eff8ef895bd5eb597717751a</md5>
+    <crc32>20ef1634</crc32>
+    <sha1>a4e6dddfa2aa5b13e567beb857c88e119ad63d18</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-09-03-03-02-30-903942053-2b303230300a-8226a9d5-acab-4369-bca9-baf07dcb1a52_meta.sqlite" source="original">
+    <mtime>1472864569</mtime>
+    <size>11264</size>
+    <md5>59da7459f4fa6b27209f574af0682b01</md5>
+    <crc32>eaef8bc6</crc32>
+    <sha1>2278d445c1b54e5ad73205f2664bbd6dd539e648</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-09-03-03-02-30-903942053-2b303230300a-8226a9d5-acab-4369-bca9-baf07dcb1a52_meta.xml" source="original">
+    <mtime>1472864577</mtime>
+    <size>1382</size>
+    <format>Metadata</format>
+    <md5>e00c4150dbdcad33f7a5e0cd7939722b</md5>
+    <crc32>817fa78e</crc32>
+    <sha1>5b132ddd98d392abca05534aa63a2f7347ecb67e</sha1>
+  </file>
+  <file name="en.wikipedia.org-wiki-Charlie_Hebdo-2015_attack-2016-09-02-081d79d9-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>en.wikipedia.org-wiki-Charlie_Hebdo-2015_attack-2016-09-02-081d79d9-meta.warc.gz</original>
+    <mtime>1472864580</mtime>
+    <size>47</size>
+    <md5>c18c254ba9095eaaa73f5c6df837fd90</md5>
+    <crc32>b2cf3586</crc32>
+    <sha1>c014b467d1737bcc3e8cd4742fb1b442beeb1b09</sha1>
+  </file>
+  <file name="W2016-09-03-03-02-30-903942053-2b303230300a-8226a9d5-acab-4369-bca9-baf07dcb1a52.cdx.gz" source="original">
+    <mtime>1472864590</mtime>
+    <size>47</size>
+    <md5>d46d69d8a879a59fe5dcfb6d16ba13f5</md5>
+    <crc32>0b1929ca</crc32>
+    <sha1>1ffddae3b2f98d0b4840e6357ef04a59e09b28a4</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-09-03-03-02-30-903942053-2b303230300a-8226a9d5-acab-4369-bca9-baf07dcb1a52.cdx.idx" source="original">
+    <mtime>1472864590</mtime>
+    <size>94</size>
+    <md5>c7a0698191a9a80d9fce7109ebd75b85</md5>
+    <crc32>4d513c13</crc32>
+    <sha1>dba3674809971a53c7c5b5340ad0bdb8981018ee</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-09-03-03-02-30-903942053-2b303230300a-8226a9d5-acab-4369-bca9-baf07dcb1a52_archive.torrent" source="metadata">
+    <btih>072e664a9f129c56837467b711c55c705c3963ec</btih>
+    <mtime>1472864591</mtime>
+    <size>3040</size>
+    <md5>4f1f695edc397aad586acb83ddda7df5</md5>
+    <crc32>4b390920</crc32>
+    <sha1>b1686a0f3475e4205a870e429ffda068ea95380f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-09-03-03-02-30-903942053-2b303230300a-8226a9d5-acab-4369-bca9-baf07dcb1a52_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>83c5a1af83914f823c3fb860193cdb7a</md5>
+  </file>
+</files>

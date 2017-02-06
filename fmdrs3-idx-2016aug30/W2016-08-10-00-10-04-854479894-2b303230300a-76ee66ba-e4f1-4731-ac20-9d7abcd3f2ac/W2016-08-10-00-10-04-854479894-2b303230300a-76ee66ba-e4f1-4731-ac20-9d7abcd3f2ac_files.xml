@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="upload.wikimedia.org-wikipedia-commons-archive-6-60-20130817074824-Edward_Snowden-2.jpg-2016-08-09-40273bc9-meta.warc.gz" source="original">
+    <mtime>1470780613</mtime>
+    <size>3264</size>
+    <md5>7abd2a9f2756d6ea6c9ef984db57510f</md5>
+    <crc32>9366c8d3</crc32>
+    <sha1>d6039dcfca81289d5f75f19b9ceeb317d2f046f6</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-10-00-10-04-854479894-2b303230300a-76ee66ba-e4f1-4731-ac20-9d7abcd3f2ac_meta.sqlite" source="original">
+    <mtime>1470780628</mtime>
+    <size>9216</size>
+    <md5>2fa462e2a1d9ddae30c8ad633597fe54</md5>
+    <crc32>69734402</crc32>
+    <sha1>6f7aa0aa3249fe41cd9e2b830e2c48058cabd73a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-10-00-10-04-854479894-2b303230300a-76ee66ba-e4f1-4731-ac20-9d7abcd3f2ac_meta.xml" source="original">
+    <mtime>1470780633</mtime>
+    <size>838</size>
+    <md5>a6dacfb43f5369baf5cc8209b31b9f54</md5>
+    <crc32>efdf3173</crc32>
+    <sha1>3f4e6f85d2f85493b394ed7eb40dfe8106ddc6aa</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="upload.wikimedia.org-wikipedia-commons-archive-6-60-20130817074824-Edward_Snowden-2.jpg-2016-08-09-40273bc9-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>upload.wikimedia.org-wikipedia-commons-archive-6-60-20130817074824-Edward_Snowden-2.jpg-2016-08-09-40273bc9-meta.warc.gz</original>
+    <mtime>1470819422</mtime>
+    <size>47</size>
+    <md5>1b6468e0d04f722dbdd96e92eb6999a5</md5>
+    <crc32>5217cea6</crc32>
+    <sha1>18908d6326e3a9a10b9da18989ab5447dd0bcdd9</sha1>
+  </file>
+  <file name="W2016-08-10-00-10-04-854479894-2b303230300a-76ee66ba-e4f1-4731-ac20-9d7abcd3f2ac.cdx.gz" source="original">
+    <mtime>1470828995</mtime>
+    <size>47</size>
+    <md5>4b144bc3112a44bfe480e46acf6ea7a9</md5>
+    <crc32>56bec0f2</crc32>
+    <sha1>9e0f2a5c08ea61e920943d53eb50b03a8983b3dd</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-10-00-10-04-854479894-2b303230300a-76ee66ba-e4f1-4731-ac20-9d7abcd3f2ac.cdx.idx" source="original">
+    <mtime>1470828995</mtime>
+    <size>94</size>
+    <md5>e2e7daf258e8613b4a99135ba7adc6dd</md5>
+    <crc32>0442448b</crc32>
+    <sha1>ba59bc8d85480d83feb9dfe181f404efdafce34d</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-10-00-10-04-854479894-2b303230300a-76ee66ba-e4f1-4731-ac20-9d7abcd3f2ac_archive.torrent" source="metadata">
+    <btih>006395cfb13214dedcf6fbbe6477391dba17d60d</btih>
+    <mtime>1470828995</mtime>
+    <size>3118</size>
+    <md5>4e6a16edc254732843a512c147ca672e</md5>
+    <crc32>03b5dae6</crc32>
+    <sha1>03bfeda82d13c3692aac463e019b1835217f0692</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-10-00-10-04-854479894-2b303230300a-76ee66ba-e4f1-4731-ac20-9d7abcd3f2ac_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ba1feb238c63ad994b202fdb7baea44a</md5>
+  </file>
+</files>

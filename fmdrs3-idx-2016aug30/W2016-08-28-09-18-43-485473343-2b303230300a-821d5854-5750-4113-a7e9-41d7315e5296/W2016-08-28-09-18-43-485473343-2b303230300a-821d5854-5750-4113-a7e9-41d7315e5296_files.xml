@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="mediaschool.indiana.edu-profile--p=sellers-2016-08-26-294b86f3-meta.warc.gz" source="original">
+    <mtime>1472368731</mtime>
+    <size>6919</size>
+    <md5>94535e10ccf9f2ab77f5e3519336528c</md5>
+    <crc32>4fe8f7d4</crc32>
+    <sha1>39f35d2ba793f7276b8ec0638231c273a2ffbd71</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-28-09-18-43-485473343-2b303230300a-821d5854-5750-4113-a7e9-41d7315e5296_meta.sqlite" source="original">
+    <mtime>1472368745</mtime>
+    <size>8192</size>
+    <md5>e9f1fe6563055ccb2957ca6f32423456</md5>
+    <crc32>99ac58e0</crc32>
+    <sha1>80ddb1c526684456a050d753a1d994ea0ffc4763</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-28-09-18-43-485473343-2b303230300a-821d5854-5750-4113-a7e9-41d7315e5296_meta.xml" source="original">
+    <mtime>1472368749</mtime>
+    <size>838</size>
+    <md5>8a7f7f8c9f0d57258c0583a1045ff9db</md5>
+    <crc32>6d05e723</crc32>
+    <sha1>cc0c9570b9255d06889a84bcaa0d411477ec58f8</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="mediaschool.indiana.edu-profile--p=sellers-2016-08-26-294b86f3-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>mediaschool.indiana.edu-profile--p=sellers-2016-08-26-294b86f3-meta.warc.gz</original>
+    <mtime>1472368754</mtime>
+    <size>47</size>
+    <md5>41b3f178640bc9bc3deba906d18ff45c</md5>
+    <crc32>fe2465e6</crc32>
+    <sha1>5b8cee77db47e2096370e7b51de6d46ab8d556dc</sha1>
+  </file>
+  <file name="W2016-08-28-09-18-43-485473343-2b303230300a-821d5854-5750-4113-a7e9-41d7315e5296.cdx.idx" source="original">
+    <mtime>1472368765</mtime>
+    <size>94</size>
+    <md5>da77bf4608cda12aaa17bd2dbdb394d4</md5>
+    <crc32>eab065aa</crc32>
+    <sha1>0c42f75c256238f9f1bad5a1b1f3b1e164165bee</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-28-09-18-43-485473343-2b303230300a-821d5854-5750-4113-a7e9-41d7315e5296.cdx.gz" source="original">
+    <mtime>1472368765</mtime>
+    <size>47</size>
+    <md5>afd1330dc384f986cbe01143132a1ec1</md5>
+    <crc32>c7df52fc</crc32>
+    <sha1>33e085741941b23bec8f0396dd3769df46c18512</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-28-09-18-43-485473343-2b303230300a-821d5854-5750-4113-a7e9-41d7315e5296_archive.torrent" source="metadata">
+    <btih>47f174ad1af8c1ef1f51c6ec1ee560254677fbe0</btih>
+    <mtime>1472368765</mtime>
+    <size>3028</size>
+    <md5>f7672083ed0672ba7c13fd061478918f</md5>
+    <crc32>1532620a</crc32>
+    <sha1>e3ad17cfbb8b227f7f122011bb27daacfcbf0415</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-28-09-18-43-485473343-2b303230300a-821d5854-5750-4113-a7e9-41d7315e5296_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c832a5156a44d2992d285691bf78a380</md5>
+  </file>
+</files>

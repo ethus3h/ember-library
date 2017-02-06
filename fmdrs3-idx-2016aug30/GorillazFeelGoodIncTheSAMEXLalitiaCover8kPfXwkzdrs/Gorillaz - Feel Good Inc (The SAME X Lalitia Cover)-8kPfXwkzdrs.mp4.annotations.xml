@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_1059819009" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fbeautifulvibesmusic%3Fsub_confirmation%3D1&amp;xble=1&amp;a-id=annotation_1059819009&amp;l-class=5&amp;a-type=3&amp;len-sec=204">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="80.03200" y="3.66200" w="17.86800" h="31.71800" t="0:02.792"/>
+      <rectRegion x="80.03200" y="3.66200" w="17.86800" h="31.71800" t="3:27.678"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/beautifulvibesmusic?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_277624483" type="text" style="highlightText" logable="false">
+  
+  <segment spaceRelative="annotation_2916109151">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="11.12700" w="16.12500" h="24.59500" t="never"/>
+      <rectRegion x="0.00000" y="11.12700" w="16.12500" h="24.59500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2916109151" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2835430961" type="text" style="highlightText" logable="false">
+  <TEXT>Subscribe</TEXT>
+  <segment spaceRelative="annotation_1059819009">
+    <movingRegion type="rect">
+      <rectRegion x="-5.07100" y="32.11300" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-5.07100" y="32.11300" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1059819009" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2916109151" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fbeautifulvibesmusic%3Fsub_confirmation%3D1&amp;xble=1&amp;a-id=annotation_2916109151&amp;l-class=5&amp;a-type=3&amp;len-sec=207">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.21900" y="2.25400" w="16.91000" h="6.76100" t="0:00.000"/>
+      <rectRegion x="2.21900" y="2.25400" w="16.91000" h="6.76100" t="3:27.678"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/beautifulvibesmusic?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:54c9d574-0000-2051-ab96-001a113d4b18" style="video" type="promotion"
+            log_data="xble=1&amp;ret-smrt=1&amp;link-id=idWW1a8ossA&amp;ret-t=15&amp;a-id=54c9d574-0000-2051-ab96-001a113d4b18&amp;a-type=13&amp;msg=0&amp;is-live=0&amp;len-sec=15&amp;ret-exp=1&amp;a-v=8kPfXwkzdrs&amp;a-ch=UC6K7DD3kRrO96q7lFixx_IQ">
+  <data>{&quot;image_url&quot;: &quot;https:\/\/i.ytimg.com\/vi\/idWW1a8ossA\/mqdefault.jpg&quot;, &quot;is_mobile&quot;: false, &quot;collapse_delay_ms&quot;: 86400000, &quot;video_duration&quot;: &quot;4:14&quot;, &quot;start_ms&quot;: 3000, &quot;is_live&quot;: false, &quot;text_line_1&quot;: &quot;Suggested by Beautiful Vibes&quot;, &quot;end_ms&quot;: 18000, &quot;text_line_2&quot;: &quot;The Notorious B.I.G. - Everyday Struggle (James Carter, DFLV \u0026 Erik Remix)&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=idWW1a8ossA&amp;feature=iv&amp;annotation_id=54c9d574-0000-2051-ab96-001a113d4b18&amp;src_vid=8kPfXwkzdrs"/>
+  </action>
+</annotation>
+</annotations></document>

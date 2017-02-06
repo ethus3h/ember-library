@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="tmp-wpull-warc-nxe7qyq6.log.gz" source="original">
+    <mtime>1459754801</mtime>
+    <size>9192220</size>
+    <md5>189258da860fe3c49bedd383ada65e1d</md5>
+    <crc32>f0daea2f</crc32>
+    <sha1>598ec5839871d6c4ff69c4f75de9aedb4d668fc1</sha1>
+    <format>GZIP</format>
+  </file>
+  <file name="Warcdlr-2016-04-04-09-26-28-509322753-2b303230300a-eddf411a-2814-4c21-9ea1-b34f18fc017d_meta.sqlite" source="original">
+    <mtime>1459754816</mtime>
+    <size>8192</size>
+    <md5>b99fd77aeb4e39a79261480278384ca6</md5>
+    <crc32>070b3222</crc32>
+    <sha1>651c3a77ad5df8a9c27e3751b1dfaaabfab2abe3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Warcdlr-2016-04-04-09-26-28-509322753-2b303230300a-eddf411a-2814-4c21-9ea1-b34f18fc017d_meta.xml" source="original">
+    <mtime>1459755128</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>cb3e0cd7cad3a6fec732bbfc1e465825</md5>
+    <crc32>23ea78bc</crc32>
+    <sha1>6057bf26497a39e3718c13a0a9fc13ddde6346a1</sha1>
+  </file>
+  <file name="Warcdlr-2016-04-04-09-26-28-509322753-2b303230300a-eddf411a-2814-4c21-9ea1-b34f18fc017d_archive.torrent" source="metadata">
+    <btih>369b90bee979dc288fd4e9b345e0d67b10e4ba0c</btih>
+    <mtime>1459755129</mtime>
+    <size>2680</size>
+    <md5>67e10eab59cb60eddbe8c7b2e5a59f72</md5>
+    <crc32>f1cffe23</crc32>
+    <sha1>6d59635c508b69dd29b6ecb9d3824d80d5b311d0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-04-04-09-26-28-509322753-2b303230300a-eddf411a-2814-4c21-9ea1-b34f18fc017d_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ee7d45525bb1711360df6d186330c69b</md5>
+  </file>
+</files>

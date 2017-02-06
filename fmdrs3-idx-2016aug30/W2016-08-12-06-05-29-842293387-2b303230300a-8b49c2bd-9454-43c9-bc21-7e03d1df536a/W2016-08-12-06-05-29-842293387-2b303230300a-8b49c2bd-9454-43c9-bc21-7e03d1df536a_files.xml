@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-12-06-05-29-842293387-2b303230300a-8b49c2bd-9454-43c9-bc21-7e03d1df536a_meta.sqlite" source="original">
+    <mtime>1470974754</mtime>
+    <size>8192</size>
+    <md5>def1fd6a8f051eaaaf6d49802f5020f6</md5>
+    <crc32>5db00a6e</crc32>
+    <sha1>632cf52309006a0eb0a1698cb4ca75fb869b00b5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-12-06-05-29-842293387-2b303230300a-8b49c2bd-9454-43c9-bc21-7e03d1df536a_meta.xml" source="original">
+    <mtime>1470974759</mtime>
+    <size>838</size>
+    <md5>31ee649576ad2e5715d81d53a5474ebe</md5>
+    <crc32>0aa26352</crc32>
+    <sha1>240730ccae02b8f576703d1ba4deac888b9fb27b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="github.com-themactep-gentoo-overlay-2016-08-11-8dc38746-meta.warc.gz" source="original">
+    <mtime>1470974736</mtime>
+    <size>5418</size>
+    <md5>816fc19d0db4d509f3a02c095dfdcf82</md5>
+    <crc32>83599265</crc32>
+    <sha1>f362125b17a2a794d7c1972899f30726d23535a0</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="github.com-themactep-gentoo-overlay-2016-08-11-8dc38746-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>github.com-themactep-gentoo-overlay-2016-08-11-8dc38746-meta.warc.gz</original>
+    <mtime>1470974765</mtime>
+    <size>47</size>
+    <md5>bd675dcfe4c80e835777956223c794e7</md5>
+    <crc32>e0eb4dab</crc32>
+    <sha1>1d401e3111fdf1635f16d11f6b697781ee25b2f6</sha1>
+  </file>
+  <file name="W2016-08-12-06-05-29-842293387-2b303230300a-8b49c2bd-9454-43c9-bc21-7e03d1df536a.cdx.gz" source="original">
+    <mtime>1470974780</mtime>
+    <size>47</size>
+    <md5>c0b3892d38c1a843cd64b3174098ee05</md5>
+    <crc32>6f1c8dc7</crc32>
+    <sha1>2c277bd46b1da5d2e7a6826f7782dd9f656bec97</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-12-06-05-29-842293387-2b303230300a-8b49c2bd-9454-43c9-bc21-7e03d1df536a.cdx.idx" source="original">
+    <mtime>1470974780</mtime>
+    <size>94</size>
+    <md5>c65d6636320378e33b7ca755e6094214</md5>
+    <crc32>a1a30717</crc32>
+    <sha1>9ed4b121c457ae99d52a9577a00927fdbb718d59</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-12-06-05-29-842293387-2b303230300a-8b49c2bd-9454-43c9-bc21-7e03d1df536a_archive.torrent" source="metadata">
+    <btih>09496c3eb85e9a9d793a1b0222ffe4ec5b320140</btih>
+    <mtime>1470974781</mtime>
+    <size>3014</size>
+    <md5>9ec9c680d58f2b901d3f5f16e7472526</md5>
+    <crc32>e6906e71</crc32>
+    <sha1>9d269d65fdb4078d6d498cc72e92d137848568e6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-12-06-05-29-842293387-2b303230300a-8b49c2bd-9454-43c9-bc21-7e03d1df536a_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>001b4754853a357c5598ed1fd8ca2cf4</md5>
+  </file>
+</files>

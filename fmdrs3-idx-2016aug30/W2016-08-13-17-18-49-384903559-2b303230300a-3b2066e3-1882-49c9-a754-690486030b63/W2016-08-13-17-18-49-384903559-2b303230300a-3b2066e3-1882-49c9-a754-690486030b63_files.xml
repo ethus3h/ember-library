@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.pcworld.com-article-120784-article.html-2016-08-13-668aff35-meta.warc.gz" source="original">
+    <mtime>1471101551</mtime>
+    <size>16959</size>
+    <md5>186fce04e751caf5bec63c9e43ad1cf7</md5>
+    <crc32>1a22e46b</crc32>
+    <sha1>c337e2ffeb948412293c51ac52230047f7ada352</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-13-17-18-49-384903559-2b303230300a-3b2066e3-1882-49c9-a754-690486030b63_meta.sqlite" source="original">
+    <mtime>1471101562</mtime>
+    <size>8192</size>
+    <md5>a7e038bf9963fd449e7f332787ff9cc3</md5>
+    <crc32>6fe0bbd8</crc32>
+    <sha1>a6ca3e316a6217fe02035499b1cc26a623e040c9</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-13-17-18-49-384903559-2b303230300a-3b2066e3-1882-49c9-a754-690486030b63_meta.xml" source="original">
+    <mtime>1471101566</mtime>
+    <size>838</size>
+    <md5>1ee879e57de35867d6ac9573d9802034</md5>
+    <crc32>9c65f110</crc32>
+    <sha1>2c59f531c4cb90d8212d9e9447ebee529286c08e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.pcworld.com-article-120784-article.html-2016-08-13-668aff35-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.pcworld.com-article-120784-article.html-2016-08-13-668aff35-meta.warc.gz</original>
+    <mtime>1471101570</mtime>
+    <size>47</size>
+    <md5>9ab5bab848333694a170b34c025b04d5</md5>
+    <crc32>b7d6bbad</crc32>
+    <sha1>780ab3a00dee3771f9815b0990134eda6c484c6d</sha1>
+  </file>
+  <file name="W2016-08-13-17-18-49-384903559-2b303230300a-3b2066e3-1882-49c9-a754-690486030b63.cdx.idx" source="original">
+    <mtime>1471101581</mtime>
+    <size>94</size>
+    <md5>eba194057e737e2ba3a9c0eacaf6350a</md5>
+    <crc32>5624bac0</crc32>
+    <sha1>6dbac1ca4c2b570cf77a3c5c9cda647514506c27</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-13-17-18-49-384903559-2b303230300a-3b2066e3-1882-49c9-a754-690486030b63.cdx.gz" source="original">
+    <mtime>1471101581</mtime>
+    <size>47</size>
+    <md5>0f2ba70cb323314b459dc704314c1114</md5>
+    <crc32>8e2d8cb7</crc32>
+    <sha1>c6b8ee1ed8e0759fa32c0c8a7964275061aa1036</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-13-17-18-49-384903559-2b303230300a-3b2066e3-1882-49c9-a754-690486030b63_archive.torrent" source="metadata">
+    <btih>fa4809d6e5ce13385468e41f2ae07419de4581f1</btih>
+    <mtime>1471101581</mtime>
+    <size>3029</size>
+    <md5>291303c222c54e0946fb3fe4d17d6c81</md5>
+    <crc32>906997ef</crc32>
+    <sha1>3ff4717f111176ac2d0fddd3e112c71636fb2310</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-13-17-18-49-384903559-2b303230300a-3b2066e3-1882-49c9-a754-690486030b63_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9dcf1f96f77e4b17ab1c930b7ced56ce</md5>
+  </file>
+</files>

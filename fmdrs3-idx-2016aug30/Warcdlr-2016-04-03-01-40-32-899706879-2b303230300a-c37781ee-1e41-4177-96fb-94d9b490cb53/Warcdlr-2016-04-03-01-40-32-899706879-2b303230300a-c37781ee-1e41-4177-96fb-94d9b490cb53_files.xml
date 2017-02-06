@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.supremelaw.org-2016-02-17-e79edaff-00004.warc.gz" source="original">
+    <mtime>1459641067</mtime>
+    <size>1169019614</size>
+    <md5>cc0f52c17091f0812a9f31ada8ad674b</md5>
+    <crc32>cbfb9ce9</crc32>
+    <sha1>1c205e84371d2f3ae738ee3ff6e9788e276d384f</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-04-03-01-40-32-899706879-2b303230300a-c37781ee-1e41-4177-96fb-94d9b490cb53_meta.sqlite" source="original">
+    <mtime>1459641110</mtime>
+    <size>8192</size>
+    <md5>cddb051dc026ce61c74fa47cca1acdfd</md5>
+    <crc32>d2b7dd4c</crc32>
+    <sha1>b73e4e38b3942531673ff6d764e72afffe3b646e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Warcdlr-2016-04-03-01-40-32-899706879-2b303230300a-c37781ee-1e41-4177-96fb-94d9b490cb53_meta.xml" source="original">
+    <mtime>1459641152</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>a815bd9c5a066296a780bf6c33e9751d</md5>
+    <crc32>d27e3026</crc32>
+    <sha1>e977a8a4a13b9f526afa7f919e4791a6b90845fd</sha1>
+  </file>
+  <file name="www.supremelaw.org-2016-02-17-e79edaff-00004.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.supremelaw.org-2016-02-17-e79edaff-00004.warc.gz</original>
+    <mtime>1459641437</mtime>
+    <size>4265110</size>
+    <md5>fedfd6e295f5694cfdf05ae08131011d</md5>
+    <crc32>a4ec54f5</crc32>
+    <sha1>fb6950e2019902d11be26d8e5c37afec95e834e7</sha1>
+  </file>
+  <file name="Warcdlr-2016-04-03-01-40-32-899706879-2b303230300a-c37781ee-1e41-4177-96fb-94d9b490cb53.cdx.idx" source="original">
+    <mtime>1459641452</mtime>
+    <size>23736</size>
+    <md5>0029f60754063cc2886036ec879a601d</md5>
+    <crc32>64b13cef</crc32>
+    <sha1>7c378dc9122d2738d0b26cc9ffdc29f937822f03</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-04-03-01-40-32-899706879-2b303230300a-c37781ee-1e41-4177-96fb-94d9b490cb53.cdx.gz" source="original">
+    <mtime>1459641452</mtime>
+    <size>3800421</size>
+    <md5>cd09617f9cad0732e1bc4a6545a501e1</md5>
+    <crc32>af5f64d5</crc32>
+    <sha1>53218a94eaca5e2544ab290182cac19f359033c1</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-04-03-01-40-32-899706879-2b303230300a-c37781ee-1e41-4177-96fb-94d9b490cb53_archive.torrent" source="metadata">
+    <btih>4e862ab0fbfa56bea8edaa211ada75065dafd2b8</btih>
+    <mtime>1459641460</mtime>
+    <size>25522</size>
+    <md5>ff281b7ca1e2df794adf053ed85bf8f7</md5>
+    <crc32>7e2bc090</crc32>
+    <sha1>b760330b55934fafe8d6ea2e04f2243d834c895a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-04-03-01-40-32-899706879-2b303230300a-c37781ee-1e41-4177-96fb-94d9b490cb53_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>afd9726d8545ba65931570217bcc7e18</md5>
+  </file>
+</files>

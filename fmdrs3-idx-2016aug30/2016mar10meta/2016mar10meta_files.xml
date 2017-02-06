@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="2016mar10meta_meta.sqlite" source="original">
+    <mtime>1457658873</mtime>
+    <size>6144</size>
+    <md5>ef54c44c1872c506e3cd2b75e0b8fa85</md5>
+    <crc32>1aaa6d84</crc32>
+    <sha1>479548583f1fcd8326eb74ed712e62df2602ceac</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="where-is-my-stuff.txt" source="original">
+    <mtime>1457658861</mtime>
+    <size>696</size>
+    <md5>00185f4993cf4cc4a89830d4028030fb</md5>
+    <crc32>25c7b7f8</crc32>
+    <sha1>eaba15ae08adb410a1f90d385ad6c0edca0bb721</sha1>
+    <format>Text</format>
+  </file>
+  <file name="2016mar10meta_meta.xml" source="original">
+    <mtime>1457658880</mtime>
+    <size>583</size>
+    <format>Metadata</format>
+    <md5>63fe028bc9358c43caf14ee86390b486</md5>
+    <crc32>67a3ce13</crc32>
+    <sha1>ba80148e89ae27fd1e0d69952b00ef62647b5852</sha1>
+  </file>
+  <file name="2016mar10meta_archive.torrent" source="metadata">
+    <btih>b54013e17509c99179a8f8f011c22089cc062cdc</btih>
+    <mtime>1457658881</mtime>
+    <size>1660</size>
+    <md5>eed590bfaea05e9e34c3980c1144ca8b</md5>
+    <crc32>0ad16265</crc32>
+    <sha1>ccadb65475d02b8469e66c38380d105541067106</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="2016mar10meta_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>dfa17491f8011a7885f3f2116fcf969e</md5>
+  </file>
+</files>

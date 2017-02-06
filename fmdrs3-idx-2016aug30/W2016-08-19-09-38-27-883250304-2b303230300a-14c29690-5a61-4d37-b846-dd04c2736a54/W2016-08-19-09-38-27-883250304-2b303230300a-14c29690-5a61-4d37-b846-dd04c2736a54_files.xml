@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="open.spotify.com-artist-3cV1iM4dUpnwYdbSh32nmF-2016-08-18-5401f434-meta.warc.gz" source="original">
+    <mtime>1471592314</mtime>
+    <size>4597</size>
+    <md5>9064a456b817c8bfece39bf844b9b4cb</md5>
+    <crc32>693d526a</crc32>
+    <sha1>ff2bb39fd6b6579424f17528bd1351484cc80c60</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-19-09-38-27-883250304-2b303230300a-14c29690-5a61-4d37-b846-dd04c2736a54_meta.sqlite" source="original">
+    <mtime>1471592330</mtime>
+    <size>8192</size>
+    <md5>a6ed3769c495e1c14cd551086f402f39</md5>
+    <crc32>19f2ff55</crc32>
+    <sha1>4766b244a065035691b1bd4c839ab8d13b51ede1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-19-09-38-27-883250304-2b303230300a-14c29690-5a61-4d37-b846-dd04c2736a54_meta.xml" source="original">
+    <mtime>1471592335</mtime>
+    <size>838</size>
+    <md5>43e7322f695e3bf00acb62bf063fae5b</md5>
+    <crc32>414d55ce</crc32>
+    <sha1>2e662b1183bfa00a1721111a44ad6570b1b70b94</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="open.spotify.com-artist-3cV1iM4dUpnwYdbSh32nmF-2016-08-18-5401f434-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>open.spotify.com-artist-3cV1iM4dUpnwYdbSh32nmF-2016-08-18-5401f434-meta.warc.gz</original>
+    <mtime>1471592341</mtime>
+    <size>47</size>
+    <md5>64bdf2473ced1638be2d187846460b39</md5>
+    <crc32>543fd1dc</crc32>
+    <sha1>b1215c2a4598287824342a8cd0070979cd2f3cf9</sha1>
+  </file>
+  <file name="W2016-08-19-09-38-27-883250304-2b303230300a-14c29690-5a61-4d37-b846-dd04c2736a54.cdx.gz" source="original">
+    <mtime>1471592353</mtime>
+    <size>47</size>
+    <md5>405fe92d12071132741a1a0287250a3e</md5>
+    <crc32>d4a6c8cb</crc32>
+    <sha1>36392d01994cb7f10069394e6d20106601208d9a</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-19-09-38-27-883250304-2b303230300a-14c29690-5a61-4d37-b846-dd04c2736a54.cdx.idx" source="original">
+    <mtime>1471592353</mtime>
+    <size>94</size>
+    <md5>5a49164a25683dc1c589144de17caf66</md5>
+    <crc32>4df1d632</crc32>
+    <sha1>128c5fe8a0aa1a0baca29c5d8cdd1bb7e5881cc1</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-19-09-38-27-883250304-2b303230300a-14c29690-5a61-4d37-b846-dd04c2736a54_archive.torrent" source="metadata">
+    <btih>798fdc882a5f024c91b10624c54d6391f8feaa01</btih>
+    <mtime>1471592353</mtime>
+    <size>3036</size>
+    <md5>7ae8e61d9ab88495071dd1e933deb906</md5>
+    <crc32>c21e097d</crc32>
+    <sha1>d3e06afbf4c7ccf48d86cec53cf72b213fe62708</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-19-09-38-27-883250304-2b303230300a-14c29690-5a61-4d37-b846-dd04c2736a54_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>82fa9966974e99dfdbe88c035fe68186</md5>
+  </file>
+</files>

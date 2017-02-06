@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="WARCPROX201511290243433390000077070ElliotsMacBookPro.local8000_meta.sqlite" source="original">
+    <mtime>1448765259</mtime>
+    <size>11264</size>
+    <md5>79d252d473f21f734385a5fdbf8e9125</md5>
+    <crc32>e9322f2d</crc32>
+    <sha1>2cbe6772cd361965dd76ecc9f0faa7b46e579203</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="WARCPROX-20151129024343339-00000-77070-Elliots-MacBook-Pro.local-8000.warc" source="original">
+    <mtime>1448765245</mtime>
+    <size>913896</size>
+    <md5>a02ccb96b2163b10c4d514d557c53b09</md5>
+    <crc32>838d524b</crc32>
+    <sha1>1138a3ed95d235b9b0d922789399488c822bad8e</sha1>
+    <format>Web ARChive</format>
+  </file>
+  <file name="WARCPROX-20151129024343339-00000-77070-Elliots-MacBook-Pro.local-8000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>WARCPROX-20151129024343339-00000-77070-Elliots-MacBook-Pro.local-8000.warc</original>
+    <mtime>1448765574</mtime>
+    <size>331</size>
+    <md5>a60086f08a57a261afb2444cacd85c94</md5>
+    <crc32>66b98da9</crc32>
+    <sha1>53973d5446f2c602884e2b04086abed1f09d1a1a</sha1>
+  </file>
+  <file name="WARCPROX201511290243433390000077070ElliotsMacBookPro.local8000_meta.xml" source="original">
+    <mtime>1448765580</mtime>
+    <size>1080</size>
+    <format>Metadata</format>
+    <md5>dc950d7eaf8ae3f2008fb87f01c59578</md5>
+    <crc32>3dfced9c</crc32>
+    <sha1>e6f0a000a3b3e1463285661960dc2245066d61e4</sha1>
+  </file>
+  <file name="WARCPROX201511290243433390000077070ElliotsMacBookPro.local8000.cdx.gz" source="original">
+    <mtime>1448765585</mtime>
+    <size>331</size>
+    <md5>1588bcbae16d4a0dea1627ccac774a03</md5>
+    <crc32>66f0c9ca</crc32>
+    <sha1>c96d94feb5af7d114e8f967f0d480b6daecf656e</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="WARCPROX201511290243433390000077070ElliotsMacBookPro.local8000.cdx.idx" source="original">
+    <mtime>1448765585</mtime>
+    <size>77</size>
+    <md5>b13cff6ad8668f94f7b7a89eb02d071d</md5>
+    <crc32>9e17a3c4</crc32>
+    <sha1>47e6f52259379b17c5014a06bf8b36db2e93ddca</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="WARCPROX201511290243433390000077070ElliotsMacBookPro.local8000_archive.torrent" source="metadata">
+    <btih>ae5ea6719e1ad08c0ff1ff3dc724afb4a448839b</btih>
+    <mtime>1448765586</mtime>
+    <size>2857</size>
+    <md5>8b5316fcd85a59138f4e9f6ef7da1bb0</md5>
+    <crc32>a7d403b9</crc32>
+    <sha1>68b6aa3986d03761396e268ffff5f15fd08b375c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="WARCPROX201511290243433390000077070ElliotsMacBookPro.local8000_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>066797410d720dda379770128a79c816</md5>
+  </file>
+</files>

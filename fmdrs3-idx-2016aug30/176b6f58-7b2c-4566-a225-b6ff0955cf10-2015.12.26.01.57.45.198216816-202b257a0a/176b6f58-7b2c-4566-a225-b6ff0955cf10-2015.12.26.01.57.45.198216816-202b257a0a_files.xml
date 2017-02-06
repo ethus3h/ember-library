@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="176b6f58-7b2c-4566-a225-b6ff0955cf10-2015.12.26.01.57.45.198216816-202b257a0a_meta.sqlite" source="original">
+    <mtime>1451117969</mtime>
+    <size>8192</size>
+    <md5>0688b55906b4e468bb0a1ee38e2a5e90</md5>
+    <crc32>3212e3af</crc32>
+    <sha1>37a56404b0943362830102867b29289ba4d5b704</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="megawarced-2015dec25.megawarc.warc.gz" source="original">
+    <mtime>1451116098</mtime>
+    <size>57130156048</size>
+    <md5>8e3755628901d41cff97f1b3f7f18ea8</md5>
+    <crc32>9f585444</crc32>
+    <sha1>32d4091ad22cccf681356c3e2bac1c8967bc95bb</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="176b6f58-7b2c-4566-a225-b6ff0955cf10-2015.12.26.01.57.45.198216816-202b257a0a_meta.xml" source="original">
+    <mtime>1451119918</mtime>
+    <size>739</size>
+    <format>Metadata</format>
+    <md5>0e768601ed589d31bb7300fead43265d</md5>
+    <crc32>f0f20e0e</crc32>
+    <sha1>302bca0dca9bd02784c9428a905a44bc8b3479fe</sha1>
+  </file>
+  <file name="megawarced-2015dec25.megawarc.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>megawarced-2015dec25.megawarc.warc.gz</original>
+    <mtime>1451126889</mtime>
+    <size>97437619</size>
+    <md5>a53d9d8f134fc2c2314b94cc88f7f029</md5>
+    <crc32>fdd0ef88</crc32>
+    <sha1>1b3e89bdf59e24404b240b39092313d5109e1f78</sha1>
+  </file>
+  <file name="176b6f58-7b2c-4566-a225-b6ff0955cf10-2015.12.26.01.57.45.198216816-202b257a0a.cdx.idx" source="original">
+    <mtime>1451126932</mtime>
+    <size>98628</size>
+    <md5>0c9259fefa4acbb2b6883897e7fd62a9</md5>
+    <crc32>dfd8413a</crc32>
+    <sha1>49462110317fb4de4a5976ee879b0d6d337fa417</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="176b6f58-7b2c-4566-a225-b6ff0955cf10-2015.12.26.01.57.45.198216816-202b257a0a.cdx.gz" source="original">
+    <mtime>1451126932</mtime>
+    <size>95465905</size>
+    <md5>459415274a7fe2fcdbecdf9811c5e07a</md5>
+    <crc32>a214992a</crc32>
+    <sha1>8aaebced282926baa53b6ad993c83dbf150f5d89</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="176b6f58-7b2c-4566-a225-b6ff0955cf10-2015.12.26.01.57.45.198216816-202b257a0a_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b41bf226b37890719a3b6a1360cb898a</md5>
+  </file>
+</files>

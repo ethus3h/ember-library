@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="airvpn.org-ports-2016-09-02-bc65dfc2-00000.warc.gz" source="original">
+    <mtime>1472865487</mtime>
+    <size>2988850</size>
+    <md5>81dd357995e7606fd70e305b9111dff7</md5>
+    <crc32>47017dd2</crc32>
+    <sha1>2f2b5af1353d5ca044da5eebfae284d12559994d</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-09-03-03-17-59-499771470-2b303230300a-9220ce34-aa1b-4493-9a2d-502db1269d7e_meta.sqlite" source="original">
+    <mtime>1472865500</mtime>
+    <size>9216</size>
+    <md5>08bce7c83d5d6eb1fd4db19cbc39d1a7</md5>
+    <crc32>a7ea9be4</crc32>
+    <sha1>c780bff0ce4c842ba342573e1e4c328eacbdaf1e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-09-03-03-17-59-499771470-2b303230300a-9220ce34-aa1b-4493-9a2d-502db1269d7e_meta.xml" source="original">
+    <mtime>1472865508</mtime>
+    <size>1286</size>
+    <format>Metadata</format>
+    <md5>38ca84064d3dab24c0de68f89448b1da</md5>
+    <crc32>5b5fdfc4</crc32>
+    <sha1>fc33d9d4426aed27298490986001b371135ceece</sha1>
+  </file>
+  <file name="airvpn.org-ports-2016-09-02-bc65dfc2-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>airvpn.org-ports-2016-09-02-bc65dfc2-00000.warc.gz</original>
+    <mtime>1472865511</mtime>
+    <size>10801</size>
+    <md5>8c496c81ca6ba534718db64414e3ffef</md5>
+    <crc32>93623ee1</crc32>
+    <sha1>9ebfe8e70f7759ca094d4cc5b9c306cf5103211b</sha1>
+  </file>
+  <file name="W2016-09-03-03-17-59-499771470-2b303230300a-9220ce34-aa1b-4493-9a2d-502db1269d7e.cdx.gz" source="original">
+    <mtime>1472865522</mtime>
+    <size>10490</size>
+    <md5>568ed0760c71741bc6ac0aaffa5c4ad3</md5>
+    <crc32>c4167c4e</crc32>
+    <sha1>9b1d15829205ac75afef70da50941b81ec0b1f37</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-09-03-03-17-59-499771470-2b303230300a-9220ce34-aa1b-4493-9a2d-502db1269d7e.cdx.idx" source="original">
+    <mtime>1472865522</mtime>
+    <size>97</size>
+    <md5>7d5a2a31b38078b0b6a18e5c501da459</md5>
+    <crc32>1f26bc94</crc32>
+    <sha1>5a688e0c5078a88ed90b3a53d0b4000a9da2cc2d</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-09-03-03-17-59-499771470-2b303230300a-9220ce34-aa1b-4493-9a2d-502db1269d7e_archive.torrent" source="metadata">
+    <btih>403b6b7f6eacf5d753901d7712dcd0152490e555</btih>
+    <mtime>1472865522</mtime>
+    <size>3089</size>
+    <md5>51531d6d3f77a3a97c9f0c4f57ef8cf0</md5>
+    <crc32>880013e8</crc32>
+    <sha1>a4fa41419d3b7143a68064292378a75bed88d6e0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-09-03-03-17-59-499771470-2b303230300a-9220ce34-aa1b-4493-9a2d-502db1269d7e_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>af0e58c835c59b6a2591f07315603101</md5>
+  </file>
+</files>

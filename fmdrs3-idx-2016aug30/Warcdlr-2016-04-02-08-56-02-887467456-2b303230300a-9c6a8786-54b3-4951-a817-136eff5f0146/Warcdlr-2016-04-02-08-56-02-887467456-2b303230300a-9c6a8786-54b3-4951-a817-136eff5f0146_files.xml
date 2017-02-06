@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="oss.oracle.com-projects-2016-02-24-d9db8b98-meta.warc.gz" source="original">
+    <mtime>1459580169</mtime>
+    <size>643125</size>
+    <md5>c3fe3fc40433053ab184039bc8724d84</md5>
+    <crc32>ad254454</crc32>
+    <sha1>4efb95726cbe8c881c1d1695d64c549393532c9c</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-04-02-08-56-02-887467456-2b303230300a-9c6a8786-54b3-4951-a817-136eff5f0146_meta.sqlite" source="original">
+    <mtime>1459580183</mtime>
+    <size>8192</size>
+    <md5>7c74a2833c42be7409ae53b6218a4520</md5>
+    <crc32>ff717f53</crc32>
+    <sha1>8c000d695024e68a569395dbb64d00be5da80e60</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Warcdlr-2016-04-02-08-56-02-887467456-2b303230300a-9c6a8786-54b3-4951-a817-136eff5f0146_meta.xml" source="original">
+    <mtime>1459580192</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>33cad59d967f193f0ee555f401491ffe</md5>
+    <crc32>589cda79</crc32>
+    <sha1>92667413b8e6affcf2eb23a7589db08ca629d83c</sha1>
+  </file>
+  <file name="oss.oracle.com-projects-2016-02-24-d9db8b98-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>oss.oracle.com-projects-2016-02-24-d9db8b98-meta.warc.gz</original>
+    <mtime>1459580195</mtime>
+    <size>47</size>
+    <md5>f6e3da24d6fcb2c599dfcfed5d26a6ae</md5>
+    <crc32>e4bb6fac</crc32>
+    <sha1>deb97c586d24d45377dfaef0ffc572faf13df5c8</sha1>
+  </file>
+  <file name="Warcdlr-2016-04-02-08-56-02-887467456-2b303230300a-9c6a8786-54b3-4951-a817-136eff5f0146.cdx.idx" source="original">
+    <mtime>1459580204</mtime>
+    <size>101</size>
+    <md5>21e00d2ba5ed603596301498429a6971</md5>
+    <crc32>29b38568</crc32>
+    <sha1>d07d4ad120ebec2dabdce832adc004e5fb6a0632</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-04-02-08-56-02-887467456-2b303230300a-9c6a8786-54b3-4951-a817-136eff5f0146.cdx.gz" source="original">
+    <mtime>1459580204</mtime>
+    <size>47</size>
+    <md5>cc994d622d4d98a5bc6e55987d393f5b</md5>
+    <crc32>dd4058b6</crc32>
+    <sha1>9bbe949f979d26cb7b02f7b9294a2d16bbafb288</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-04-02-08-56-02-887467456-2b303230300a-9c6a8786-54b3-4951-a817-136eff5f0146_archive.torrent" source="metadata">
+    <btih>04457f98b496d3245e4e2a66a4c6a890083f3ac0</btih>
+    <mtime>1459580205</mtime>
+    <size>3090</size>
+    <md5>c56ea7e8ac85ebfb394c4fffed424d8b</md5>
+    <crc32>d35f89e8</crc32>
+    <sha1>0076634bb8a786f4f47e25ff51037f1e43bcc3e2</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-04-02-08-56-02-887467456-2b303230300a-9c6a8786-54b3-4951-a817-136eff5f0146_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>320f7e0bf948d460d5f65fd1be2244dd</md5>
+  </file>
+</files>

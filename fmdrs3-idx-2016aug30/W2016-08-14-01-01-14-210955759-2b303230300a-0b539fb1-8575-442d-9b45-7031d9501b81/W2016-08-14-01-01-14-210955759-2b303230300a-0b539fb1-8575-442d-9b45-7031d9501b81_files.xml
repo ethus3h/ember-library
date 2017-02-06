@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="en.wikipedia.org-wiki-Coca-Cola_Freestyle-2016-08-13-515c2ec4-meta.warc.gz" source="original">
+    <mtime>1471129280</mtime>
+    <size>5969</size>
+    <md5>4dae29e4f4ab2cfb4c04bed38edf0729</md5>
+    <crc32>a9ed816f</crc32>
+    <sha1>2ba062d681e779114729fb111e83f0b95ef12d71</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-14-01-01-14-210955759-2b303230300a-0b539fb1-8575-442d-9b45-7031d9501b81_meta.xml" source="original">
+    <mtime>1471129302</mtime>
+    <size>838</size>
+    <md5>0751be98a737091f6d519cdf79891f38</md5>
+    <crc32>25f5e7ff</crc32>
+    <sha1>55faad60b729f78af3ec6215de2b4f9c3c153697</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-14-01-01-14-210955759-2b303230300a-0b539fb1-8575-442d-9b45-7031d9501b81_meta.sqlite" source="original">
+    <mtime>1471129297</mtime>
+    <size>8192</size>
+    <md5>13f79d29fe90c495c7fd0c69de471c4d</md5>
+    <crc32>59c08f07</crc32>
+    <sha1>4b8a11bdb8827769b571450d90a3cfafd5864f92</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="en.wikipedia.org-wiki-Coca-Cola_Freestyle-2016-08-13-515c2ec4-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>en.wikipedia.org-wiki-Coca-Cola_Freestyle-2016-08-13-515c2ec4-meta.warc.gz</original>
+    <mtime>1471129306</mtime>
+    <size>47</size>
+    <md5>bd61b11862d5a309f7d5beff62317212</md5>
+    <crc32>e75e9149</crc32>
+    <sha1>2e65afd5a5b22bdcf2f5ec052b9184686886f521</sha1>
+  </file>
+  <file name="W2016-08-14-01-01-14-210955759-2b303230300a-0b539fb1-8575-442d-9b45-7031d9501b81.cdx.idx" source="original">
+    <mtime>1471129315</mtime>
+    <size>94</size>
+    <md5>81643cb608e4adffb57eaa537a41d254</md5>
+    <crc32>44cdc358</crc32>
+    <sha1>16db4f2c00d92e4575c78fe9addc579eb769bb47</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-14-01-01-14-210955759-2b303230300a-0b539fb1-8575-442d-9b45-7031d9501b81.cdx.gz" source="original">
+    <mtime>1471129315</mtime>
+    <size>47</size>
+    <md5>7d71b8f1bb5283f7f40e212a1cda1108</md5>
+    <crc32>b2e61e13</crc32>
+    <sha1>8933c2caffffdcda147b5065dd28a8fe1c5695c3</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-14-01-01-14-210955759-2b303230300a-0b539fb1-8575-442d-9b45-7031d9501b81_archive.torrent" source="metadata">
+    <btih>198541606fccc3d2b0452e140108efff1ca6e7b5</btih>
+    <mtime>1471129316</mtime>
+    <size>3026</size>
+    <md5>8aac213c28b6b3d2d309f1d4193f01f4</md5>
+    <crc32>d9ca0283</crc32>
+    <sha1>ea6fd54aa3e63bfce0cb023687565693244fde19</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-14-01-01-14-210955759-2b303230300a-0b539fb1-8575-442d-9b45-7031d9501b81_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f5dc35b2639ce64308b8fcd7cf59fea6</md5>
+  </file>
+</files>

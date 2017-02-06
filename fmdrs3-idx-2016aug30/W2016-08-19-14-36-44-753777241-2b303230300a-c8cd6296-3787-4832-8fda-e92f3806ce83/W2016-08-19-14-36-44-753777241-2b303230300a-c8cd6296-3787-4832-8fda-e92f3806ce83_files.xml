@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="tools.usps.com-go-TrackConfirmAction-input-tLabels=9405510200793097765803-2016-08-19-d6aa713d-meta.warc.gz" source="original">
+    <mtime>1471610216</mtime>
+    <size>10767</size>
+    <md5>d72c1d01eca817e1d4d06e83b9d50bfe</md5>
+    <crc32>7b77f84b</crc32>
+    <sha1>c06ea1d123d3949d63ab492f02f8abb1fd3f5d6b</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-19-14-36-44-753777241-2b303230300a-c8cd6296-3787-4832-8fda-e92f3806ce83_meta.xml" source="original">
+    <mtime>1471610232</mtime>
+    <size>838</size>
+    <md5>9b8b9401cc4d91c8f6c786ad61598745</md5>
+    <crc32>4195195b</crc32>
+    <sha1>031948259c53c2ab692f459855403754054d98db</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-19-14-36-44-753777241-2b303230300a-c8cd6296-3787-4832-8fda-e92f3806ce83_meta.sqlite" source="original">
+    <mtime>1471610228</mtime>
+    <size>9216</size>
+    <md5>50a70c5b5627d14d9e79940b540b5c26</md5>
+    <crc32>f3d9f2bf</crc32>
+    <sha1>5a44521e5433eb48e252d1bb31b8a5a3857f3827</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="tools.usps.com-go-TrackConfirmAction-input-tLabels=9405510200793097765803-2016-08-19-d6aa713d-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>tools.usps.com-go-TrackConfirmAction-input-tLabels=9405510200793097765803-2016-08-19-d6aa713d-meta.warc.gz</original>
+    <mtime>1471610241</mtime>
+    <size>47</size>
+    <md5>87b5bd0e82e45ef86805352bf8eaf8c8</md5>
+    <crc32>e558e8d5</crc32>
+    <sha1>533af80caebbaf35530670eed88e5405c5d34259</sha1>
+  </file>
+  <file name="W2016-08-19-14-36-44-753777241-2b303230300a-c8cd6296-3787-4832-8fda-e92f3806ce83.cdx.gz" source="original">
+    <mtime>1471610259</mtime>
+    <size>47</size>
+    <md5>ac795d61f1034e11fe8ab2f06387d039</md5>
+    <crc32>a39b33b4</crc32>
+    <sha1>9d12b506b4efbf7b1ba9bbbaa962a18ed52447c5</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-19-14-36-44-753777241-2b303230300a-c8cd6296-3787-4832-8fda-e92f3806ce83.cdx.idx" source="original">
+    <mtime>1471610259</mtime>
+    <size>94</size>
+    <md5>534456c9b7866987cab9f6624ebabe38</md5>
+    <crc32>0274a560</crc32>
+    <sha1>fc933018e8de035472f80ecbb4e81bfdb0721cc7</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-19-14-36-44-753777241-2b303230300a-c8cd6296-3787-4832-8fda-e92f3806ce83_archive.torrent" source="metadata">
+    <btih>d89e1afaee77c52028c31454534545f11a584e4b</btih>
+    <mtime>1471610259</mtime>
+    <size>3093</size>
+    <md5>9142b311abf237d49dc2662c9e1bf2a4</md5>
+    <crc32>0e6ec2ac</crc32>
+    <sha1>f8a1f5410ca5166e86f1a2ef6b86cfe18fbf37f3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-19-14-36-44-753777241-2b303230300a-c8cd6296-3787-4832-8fda-e92f3806ce83_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>a05c01552bfbcabea88ebf5135036f2b</md5>
+  </file>
+</files>

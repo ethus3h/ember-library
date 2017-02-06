@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_665724" type="text" style="popup" log_data="l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ6c2xupyCKE&amp;xble=1&amp;a-type=1&amp;a-id=annotation_665724&amp;len-sec=5">
+  <TEXT>Crystal Saga</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.76900" y="5.55600" w="29.91500" h="9.16700" t="0:00:05.8"/>
+      <rectRegion x="5.76900" y="5.55600" w="29.91500" h="9.16700" t="0:00:10.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.80535387993" bottom="2.34696006775" right="2.40713834763"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?v=Q6c2xupyCKE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_890142" type="text" style="popup" log_data="l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbUag-9Y9zS0&amp;xble=1&amp;a-type=1&amp;a-id=annotation_890142&amp;len-sec=5">
+  <TEXT>Senatry</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.97400" y="4.16700" w="26.92300" h="9.16700" t="0:00:04.7"/>
+      <rectRegion x="58.97400" y="4.16700" w="26.92300" h="9.16700" t="0:00:09.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.80535387993" bottom="2.34696006775" right="2.40713834763"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?v=bUag-9Y9zS0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:a6f5dc26-5ea9-29c1-9d78-e0cd5910e" style="branding" type="branding"
+            log_data="a-ch=UCd5QJdnKc0yof6pFqYtj9aw&amp;a-type=10&amp;a-id=a6f5dc26-5ea9-29c1-9d78-e0cd5910e&amp;len-sec=146&amp;link-id=UCd5QJdnKc0yof6pFqYtj9aw&amp;a-v=qjtQpWymQGM&amp;xble=0&amp;img-type=0">
+  <data>{&quot;image_type&quot;: 0, &quot;is_mobile&quot;: false, &quot;subscription_token&quot;: &quot;&quot;, &quot;image_url&quot;: &quot;https:\/\/yt3.ggpht.com\/-j5UzyUp0wRQ\/AAAAAAAAAAI\/AAAAAAAAAAA\/zl7kKq2obgU\/s88-c-k-no\/photo.jpg&quot;, &quot;channel_name&quot;: &quot;lekoolgames&quot;, &quot;start_ms&quot;: 0, &quot;image_width&quot;: 40, &quot;image_height&quot;: 40, &quot;num_subscribers&quot;: &quot;897 subscribers&quot;, &quot;end_ms&quot;: 146000, &quot;channel_id&quot;: &quot;UCd5QJdnKc0yof6pFqYtj9aw&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/lekoolgames?feature=iv&amp;src_vid=qjtQpWymQGM&amp;annotation_id=a6f5dc26-5ea9-29c1-9d78-e0cd5910e"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+</annotations></document>

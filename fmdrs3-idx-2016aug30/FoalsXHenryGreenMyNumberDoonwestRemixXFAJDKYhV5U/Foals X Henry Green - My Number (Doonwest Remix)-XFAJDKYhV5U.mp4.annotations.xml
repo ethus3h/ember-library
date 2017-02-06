@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_10131479" type="text" style="highlightText" logable="false">
+  
+  <segment spaceRelative="annotation_1751648435">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1751648435" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1751648435" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fbeautifulvibesmusic%3Fsub_confirmation%3D1&amp;len-sec=364&amp;a-id=annotation_1751648435&amp;a-type=3&amp;l-class=5">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="18.81900" h="7.77500" t="0:03.165"/>
+      <rectRegion x="0.00000" y="0.00000" w="18.81900" h="7.77500" t="6:07.641"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/beautifulvibesmusic?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:54c9d574-0000-2051-ab96-001a113d4b18" style="video" type="promotion"
+            log_data="msg=0&amp;a-v=XFAJDKYhV5U&amp;ret-t=15&amp;len-sec=15&amp;a-id=54c9d574-0000-2051-ab96-001a113d4b18&amp;ret-exp=-4&amp;a-type=13&amp;xble=1&amp;link-id=QcNmXgcTl-Y&amp;is-live=0&amp;a-ch=UC6K7DD3kRrO96q7lFixx_IQ&amp;ret-smrt=1">
+  <data>{&quot;start_ms&quot;: 353000, &quot;image_url&quot;: &quot;https:\/\/i.ytimg.com\/vi\/QcNmXgcTl-Y\/mqdefault.jpg&quot;, &quot;is_live&quot;: false, &quot;collapse_delay_ms&quot;: 86400000, &quot;is_mobile&quot;: false, &quot;end_ms&quot;: 368000, &quot;video_duration&quot;: &quot;3:34&quot;, &quot;text_line_2&quot;: &quot;Ian Storm ft Gaz Twist - Draw The Line (Radio Edit)&quot;, &quot;text_line_1&quot;: &quot;Suggested by Beautiful Vibes&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=QcNmXgcTl-Y&amp;annotation_id=54c9d574-0000-2051-ab96-001a113d4b18&amp;src_vid=XFAJDKYhV5U&amp;feature=iv"/>
+  </action>
+</annotation>
+</annotations></document>

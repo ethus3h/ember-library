@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="rich.xml.7z_meta.sqlite" source="original">
+    <mtime>1418181835</mtime>
+    <size>9216</size>
+    <md5>e23ce8426906cbb570e55bc86e3ad48e</md5>
+    <crc32>2ebb7b41</crc32>
+    <sha1>51f49f1189996f434b2da2b04f5f8118aaf95801</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="rich.xml.7z.torrent" source="original">
+    <mtime>1418181821</mtime>
+    <size>25426</size>
+    <md5>43f1dee873fbbc771bea55c273c83663</md5>
+    <crc32>cd371cc3</crc32>
+    <sha1>ef273212e5aa4c58a2b290f710caa12a8d493771</sha1>
+    <format>BitTorrent</format>
+  </file>
+  <file name="rich.xml.7z" source="derivative">
+    <format>7z</format>
+    <original>rich.xml.7z.torrent</original>
+    <mtime>1418420156</mtime>
+    <size>662012538</size>
+    <md5>756c67924a0453b3b83c98b79e0c7dc8</md5>
+    <crc32>23ed0f1e</crc32>
+    <sha1>84e8fcacf0def58fd58db64a4b1279aaddaf3242</sha1>
+  </file>
+  <file name="rich.xml.7z_torrent.txt" source="derivative">
+    <format>BitTorrentContents</format>
+    <original>rich.xml.7z.torrent</original>
+    <mtime>1418420185</mtime>
+    <size>34</size>
+    <md5>37cbfc9a0b2e3817c524290101298366</md5>
+    <crc32>df0f62f1</crc32>
+    <sha1>7a366fd0b231f9dbc7fdf7589822ceecc3edfba5</sha1>
+  </file>
+  <file name="rich.xml.7z_meta.xml" source="original">
+    <mtime>1418420222</mtime>
+    <size>917</size>
+    <format>Metadata</format>
+    <md5>74818e97e33dc4433c1b3a0e8f35295d</md5>
+    <crc32>c732a712</crc32>
+    <sha1>c55ce50336215232f15d8b3cfc365c4a50257f87</sha1>
+  </file>
+  <file name="rich.xml.7z_archive.torrent" source="metadata">
+    <btih>c22f509f339a7bb8a7a3469d2d7ef89047ff2cb3</btih>
+    <mtime>1418420238</mtime>
+    <size>27225</size>
+    <md5>0fd9acc588554afbc0feaf417364f917</md5>
+    <crc32>b55394bd</crc32>
+    <sha1>40085a7cc173751bd9f945b08764589e18b5c98b</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="rich.xml.7z_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>df9d3d8ea29d2fdcc4605e50237e6771</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="upload.wikimedia.org-wikipedia-commons-archive-7-71-20150316123413-Second_Battle_of_Tikrit_%282015%2-2016-08-25-5b69ea7e-00000.warc.gz" source="original">
+    <mtime>1472180475</mtime>
+    <size>8916858</size>
+    <md5>e3f3c08e4ed3c58ad00f803c139a8661</md5>
+    <crc32>1e3a7fb4</crc32>
+    <sha1>4b2100e9a1b913122830f7695d05ce5a468041ac</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-26-05-01-06-777206311-2b303230300a-187bf818-476a-41cb-95b5-2f5df38f76d5_meta.sqlite" source="original">
+    <mtime>1472181062</mtime>
+    <size>9216</size>
+    <md5>f35334aa7d8c56d28c1eac5e0493505a</md5>
+    <crc32>062cd2bc</crc32>
+    <sha1>2db1f78800f7271241f68105d5df40e15f6d0893</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-26-05-01-06-777206311-2b303230300a-187bf818-476a-41cb-95b5-2f5df38f76d5_meta.xml" source="original">
+    <mtime>1472181070</mtime>
+    <size>838</size>
+    <md5>b0491ace76ed421125007f5c3841db44</md5>
+    <crc32>ea750e6e</crc32>
+    <sha1>c9339b48dc94ac78df288e5aa052efaf78925f7a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="upload.wikimedia.org-wikipedia-commons-archive-7-71-20150316123413-Second_Battle_of_Tikrit_%282015%2-2016-08-25-5b69ea7e-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>upload.wikimedia.org-wikipedia-commons-archive-7-71-20150316123413-Second_Battle_of_Tikrit_%282015%2-2016-08-25-5b69ea7e-00000.warc.gz</original>
+    <mtime>1472248750</mtime>
+    <size>336</size>
+    <md5>e6e7e042f965c39b901cf7fc8cb11d3e</md5>
+    <crc32>ba0236eb</crc32>
+    <sha1>8600624984c859289470433e6846aa65ea94602b</sha1>
+  </file>
+  <file name="W2016-08-26-05-01-06-777206311-2b303230300a-187bf818-476a-41cb-95b5-2f5df38f76d5.cdx.idx" source="original">
+    <mtime>1472248762</mtime>
+    <size>95</size>
+    <md5>bfd5e8c0a78e0810a4f88eda0ee4db73</md5>
+    <crc32>81173e75</crc32>
+    <sha1>85d34179934d77a0285ade70581bf58b0bf7d0be</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-26-05-01-06-777206311-2b303230300a-187bf818-476a-41cb-95b5-2f5df38f76d5.cdx.gz" source="original">
+    <mtime>1472248762</mtime>
+    <size>336</size>
+    <md5>5b4247d7edd492c5430be74c558a0e5e</md5>
+    <crc32>baadce3e</crc32>
+    <sha1>037783688867dc803d85fab896815529371d3c05</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-26-05-01-06-777206311-2b303230300a-187bf818-476a-41cb-95b5-2f5df38f76d5_archive.torrent" source="metadata">
+    <btih>fa12cca1e51eabf60ccbb08d34d9a82bea9ac799</btih>
+    <mtime>1472248763</mtime>
+    <size>3492</size>
+    <md5>bd648349b58e6cb64717c096a8db0a69</md5>
+    <crc32>5b5ffdf0</crc32>
+    <sha1>298890f3f29a41670090f573ac164474bee2e1d8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-26-05-01-06-777206311-2b303230300a-187bf818-476a-41cb-95b5-2f5df38f76d5_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>20790f0f58e206b4163d60268ce68ef2</md5>
+  </file>
+</files>

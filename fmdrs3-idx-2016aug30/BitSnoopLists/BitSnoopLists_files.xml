@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="BitSnoopLists_meta.sqlite" source="original">
+    <mtime>1418183056</mtime>
+    <size>11264</size>
+    <md5>5ef056ae8f4ec864ac0527dceed72b9e</md5>
+    <crc32>66e050c9</crc32>
+    <sha1>e775ff916990fc215997e162b684d187ffd8b3ce</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="bs2.torrent" source="original">
+    <mtime>1418183049</mtime>
+    <size>60</size>
+    <md5>805d89499a4fa822fadf3eb07bbc4b97</md5>
+    <crc32>5d596206</crc32>
+    <sha1>d057c11f67fe8e2f3771532dd90b08fde5c9b946</sha1>
+    <format>BitTorrent</format>
+  </file>
+  <file name="BitSnoop Lists.torrent" source="original">
+    <mtime>1418183032</mtime>
+    <size>12333</size>
+    <md5>d6688cb010abba1a059e4dc77f8d6a4b</md5>
+    <crc32>5f841d83</crc32>
+    <sha1>372c4820d4dc6fb156f046b86bcc41f5e9845cc8</sha1>
+    <format>BitTorrent</format>
+  </file>
+  <file name="bs1.torrent" source="original">
+    <mtime>1418183045</mtime>
+    <size>60</size>
+    <md5>fd6d81c1d5e8500062f2b40f1d98363b</md5>
+    <crc32>8d7d7c28</crc32>
+    <sha1>7c6a559447a29d09a024027485f26d45d631c8ab</sha1>
+    <format>BitTorrent</format>
+  </file>
+  <file name="BitSnoop Lists_torrent.txt" source="derivative">
+    <format>BitTorrentContents</format>
+    <original>BitSnoop Lists.torrent</original>
+    <mtime>1419615616</mtime>
+    <size>0</size>
+    <md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+    <crc32>00000000</crc32>
+    <sha1>da39a3ee5e6b4b0d3255bfef95601890afd80709</sha1>
+  </file>
+  <file name="BitSnoop Lists/Software Mobile.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010565</mtime>
+    <size>636080</size>
+    <md5>01747d2c00ca5db7e7d68222d748231a</md5>
+    <crc32>f7c57cc5</crc32>
+    <sha1>77c6e0dfa0cd521a9b7f56ba01d1dfd50b4aab9e</sha1>
+  </file>
+  <file name="BitSnoop Lists/Video Other.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010626</mtime>
+    <size>1661476</size>
+    <md5>bcec20f8c5eb7e737314ed71e66b7f08</md5>
+    <crc32>95f28afe</crc32>
+    <sha1>b0f02480c1aa2bad7c3ba981a4e724350eecec69</sha1>
+  </file>
+  <file name="BitSnoop Lists/Software.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010607</mtime>
+    <size>13771310</size>
+    <md5>130c60d73c06d73e4398fafc29d3aa56</md5>
+    <crc32>69b54c65</crc32>
+    <sha1>aa810955510d41bfc875c92ec4b72f99236307e8</sha1>
+  </file>
+  <file name="BitSnoop Lists/Games Wii.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010567</mtime>
+    <size>926267</size>
+    <md5>59d935139ef05d81feaa3d6deaaff7a5</md5>
+    <crc32>08964e11</crc32>
+    <sha1>b9b78c7353888f9e5dfa0a3b6653aaf3e30be651</sha1>
+  </file>
+  <file name="BitSnoop Lists/Games Mac.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010570</mtime>
+    <size>156200</size>
+    <md5>22c22cb88fa9468ce0b12f23405b95da</md5>
+    <crc32>02220b16</crc32>
+    <sha1>d508ff2e4d57b8d291c61522ce77af2061c84149</sha1>
+  </file>
+  <file name="BitSnoop Lists/Games Playstation.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010568</mtime>
+    <size>1052833</size>
+    <md5>9cec2578026de471561eee33cd3dfe17</md5>
+    <crc32>7c96b13d</crc32>
+    <sha1>6defd8caba3bfaad36ed076440c831f3cd3111c1</sha1>
+  </file>
+  <file name="BitSnoop Lists/Audio Audiobooks.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010626</mtime>
+    <size>3332937</size>
+    <md5>a63639f6e91768c08108e044c73d4128</md5>
+    <crc32>17d8c3a0</crc32>
+    <sha1>4a911bfb99277e55f4b0fd6776bdd673f94febcf</sha1>
+  </file>
+  <file name="BitSnoop Lists/Audio Music.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010629</mtime>
+    <size>12505931</size>
+    <md5>5b4bc6b133cbaf25264c82c37934fe62</md5>
+    <crc32>e026a74c</crc32>
+    <sha1>3a863ac6f575286ae834c62d5bd56c48059de005</sha1>
+  </file>
+  <file name="BitSnoop Lists/Games Mobile.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010564</mtime>
+    <size>208989</size>
+    <md5>5c4201de2ece8af3ab9876313fef561b</md5>
+    <crc32>82d44c17</crc32>
+    <sha1>c7dc5416fb793e96cbbb7ce077836b1d38c34b90</sha1>
+  </file>
+  <file name="BitSnoop Lists/Video Anime.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010600</mtime>
+    <size>10400474</size>
+    <md5>e0c1a43fd762eacc7ced3fd551a73ffe</md5>
+    <crc32>e0e54967</crc32>
+    <sha1>08c9793a8766a61a8d8670a4d46088b0758a65da</sha1>
+  </file>
+  <file name="BitSnoop Lists/Other Ebooks.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010626</mtime>
+    <size>23802149</size>
+    <md5>2315ced4306381986783c92cb279ce99</md5>
+    <crc32>69455924</crc32>
+    <sha1>728b0d328fb07f4ee706302a369dde3fdfdfc74c</sha1>
+  </file>
+  <file name="BitSnoop Lists/Audio.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010633</mtime>
+    <size>81130780</size>
+    <md5>b773bed9d696586bd31217e3e0c74442</md5>
+    <crc32>1a592e2b</crc32>
+    <sha1>8901c93a525ee0c459bf02f9e5ff9978eb051f33</sha1>
+  </file>
+  <file name="BitSnoop Lists/Software Mac.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010569</mtime>
+    <size>966706</size>
+    <md5>d577f6f92a7594fd58d2975b126d66b4</md5>
+    <crc32>029d9d2a</crc32>
+    <sha1>b5b831e951c89c4478eac14a29962e0aad229abc</sha1>
+  </file>
+  <file name="BitSnoop Lists/Software Unix.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010565</mtime>
+    <size>612664</size>
+    <md5>768a8b46887d8a2c49a5284bd5eae9b6</md5>
+    <crc32>b8eebb31</crc32>
+    <sha1>6a056d840d28af8ddbfe5346a1a1b2db07f1a2a5</sha1>
+  </file>
+  <file name="BitSnoop Lists/Other Comics.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010569</mtime>
+    <size>819965</size>
+    <md5>0882b317f22a13614794e0fca9d1d170</md5>
+    <crc32>e0902a7f</crc32>
+    <sha1>27504299b6df3bd07f092bb49ffa0ef183bdb959</sha1>
+  </file>
+  <file name="BitSnoop Lists/Video Mobile.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010571</mtime>
+    <size>1198969</size>
+    <md5>5b614684d8c74aea82e5c1387b151515</md5>
+    <crc32>58a46069</crc32>
+    <sha1>b56a1b73c674086311a1f15d0ef361a832f67ff3</sha1>
+  </file>
+  <file name="BitSnoop Lists/Other Unsorted.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010615</mtime>
+    <size>45024851</size>
+    <md5>ac2dfec61392e6dbe5cef3f7a5582b3e</md5>
+    <crc32>caeefe1d</crc32>
+    <sha1>3ddb30f0e64dc897dd67166e03a577175205549c</sha1>
+  </file>
+  <file name="BitSnoop Lists/Games PSP.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010567</mtime>
+    <size>1145525</size>
+    <md5>bb6926ad1f5d4124cdf932ded2749b31</md5>
+    <crc32>2b97d049</crc32>
+    <sha1>7cf3c331bdef229d0f0018b3a5fe7058165ab7e3</sha1>
+  </file>
+  <file name="BitSnoop Lists/Video Music.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010608</mtime>
+    <size>2613000</size>
+    <md5>9e88b0b17907e65d4217e574a4fd3fef</md5>
+    <crc32>bbd36c01</crc32>
+    <sha1>793ce9890ae93238848220d684703a7075eb2a33</sha1>
+  </file>
+  <file name="BitSnoop Lists/Games.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010624</mtime>
+    <size>3747214</size>
+    <md5>3daa01f8ae1a64206232ae23fd4ca4ca</md5>
+    <crc32>301f3a5d</crc32>
+    <sha1>148970d848239d477bde38e2209f142e36a85615</sha1>
+  </file>
+  <file name="BitSnoop Lists/Video.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010626</mtime>
+    <size>119887038</size>
+    <md5>0cb121928ea0492a13ae32a661ae66cd</md5>
+    <crc32>54423c7c</crc32>
+    <sha1>d25352e6abbea0ed35611ac765bb712a48a4b6b5</sha1>
+  </file>
+  <file name="BitSnoop Lists/Software Other.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010565</mtime>
+    <size>409054</size>
+    <md5>913e7cd29aeb66a745b3d70bccf2f10c</md5>
+    <crc32>007cb701</crc32>
+    <sha1>5e89bd7c499f0673c4f2d6d56b7da8525dd94d97</sha1>
+  </file>
+  <file name="BitSnoop Lists/Video TV.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010626</mtime>
+    <size>50248224</size>
+    <md5>6da024dd90c206fffec2a0446a739096</md5>
+    <crc32>1e2b7e72</crc32>
+    <sha1>bca05326233f7d2a4a408ee5cafb0c064c55493a</sha1>
+  </file>
+  <file name="BitSnoop Lists/Audio Lossless.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010626</mtime>
+    <size>14436976</size>
+    <md5>a1e96b66fc299f1faf70cc04a1be5e2a</md5>
+    <crc32>86e48061</crc32>
+    <sha1>6f1aacafefe0e182aecf68e1c12764fd5c122b02</sha1>
+  </file>
+  <file name="BitSnoop Lists/Other XXX.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010607</mtime>
+    <size>5134383</size>
+    <md5>f3be6070605352a0cd0c8f334c0f713c</md5>
+    <crc32>5c38411f</crc32>
+    <sha1>0ba8e1df20d9a89a283a8dd086c53a9d648c1034</sha1>
+  </file>
+  <file name="BitSnoop Lists/Audio Other.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010626</mtime>
+    <size>1365875</size>
+    <md5>ba35fbe982d59b2cfc7cc865e572fd03</md5>
+    <crc32>df15f408</crc32>
+    <sha1>d3baf17ff05821bdaa291063720c9b32d80c89f9</sha1>
+  </file>
+  <file name="BitSnoop Lists/Other Pictures.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010626</mtime>
+    <size>9563779</size>
+    <md5>70729c2f0e2e5919ca750e72f57b68ef</md5>
+    <crc32>ea962458</crc32>
+    <sha1>8c54a1e5155560869d3560ab8dc015c630e971c7</sha1>
+  </file>
+  <file name="BitSnoop Lists/Games NDS.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010569</mtime>
+    <size>669798</size>
+    <md5>e3f84ec09afa3de095fdedc221acdd9f</md5>
+    <crc32>39d4c072</crc32>
+    <sha1>212df07495738126de185ab50d522bce2ed2add4</sha1>
+  </file>
+  <file name="BitSnoop Lists/Video Movies.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010627</mtime>
+    <size>94183509</size>
+    <md5>c019a6d52a9ca98bd3f2df4d6211a651</md5>
+    <crc32>9ac74e49</crc32>
+    <sha1>241930c1e2e18141a1ee3c545e3baa264dcd9148</sha1>
+  </file>
+  <file name="BitSnoop Lists/Games X-Box.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010574</mtime>
+    <size>898633</size>
+    <md5>602f8f7be7ae215c40f9109b7db3c621</md5>
+    <crc32>96b14983</crc32>
+    <sha1>25842f8979921b58d4f895fa01f1a0dec34078b6</sha1>
+  </file>
+  <file name="BitSnoop Lists/Other.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010606</mtime>
+    <size>4628539</size>
+    <md5>b1e3a9ec4840709fb64cb06a17a3d7d2</md5>
+    <crc32>4b8c05ac</crc32>
+    <sha1>070e9f1bc0dfb970c28bf51825fe0cc72536d351</sha1>
+  </file>
+  <file name="BitSnoop Lists/Software PC.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010618</mtime>
+    <size>27459633</size>
+    <md5>470911f69ab93664002f108120ba8f65</md5>
+    <crc32>4cf593e6</crc32>
+    <sha1>021dc780dbab93eac11e3d5f90e47bf0d1cd12a4</sha1>
+  </file>
+  <file name="BitSnoop Lists/Video XXX.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010626</mtime>
+    <size>20937301</size>
+    <md5>c033b81e703eba64baa45457ec770099</md5>
+    <crc32>7c64819c</crc32>
+    <sha1>b048b1bdbd200a2d67d1da24cf0b7be605779cea</sha1>
+  </file>
+  <file name="BitSnoop Lists/Games PC.7z" source="derivative">
+    <format>7z</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010612</mtime>
+    <size>4926634</size>
+    <md5>a38e1560c1820c5919385beca380187e</md5>
+    <crc32>eb2f445f</crc32>
+    <sha1>ccc38cc7af9b7f5b6b341a80e910f95dbd9f293e</sha1>
+  </file>
+  <file name="bs1_torrent.txt" source="derivative">
+    <format>BitTorrentContents</format>
+    <original>bs1.torrent</original>
+    <mtime>1419010656</mtime>
+    <size>2295</size>
+    <md5>493aaa5540dbad62a297f7348e987894</md5>
+    <crc32>f58f58e6</crc32>
+    <sha1>9618501fcdf0b15eef0d305554bcf1d3b0879ade</sha1>
+  </file>
+  <file name="BitSnoopLists_meta.xml" source="original">
+    <mtime>1419615624</mtime>
+    <size>971</size>
+    <format>Metadata</format>
+    <md5>06de3d4256f32c19e0eb3e621199c8b6</md5>
+    <crc32>82683659</crc32>
+    <sha1>790f7263036931316d16da100a316e6aee41943d</sha1>
+  </file>
+  <file name="bs2_torrent.txt" source="derivative">
+    <format>BitTorrentContents</format>
+    <original>bs2.torrent</original>
+    <mtime>1418953952</mtime>
+    <size>0</size>
+    <md5>d41d8cd98f00b204e9800998ecf8427e</md5>
+    <crc32>00000000</crc32>
+    <sha1>da39a3ee5e6b4b0d3255bfef95601890afd80709</sha1>
+  </file>
+  <file name="BitSnoopLists_archive.torrent" source="metadata">
+    <btih>15072023dc04712acee2b2311e03c70166989e26</btih>
+    <mtime>1419615643</mtime>
+    <size>30224</size>
+    <md5>76a456ed8203205c5fcb48e9d43c178f</md5>
+    <crc32>98b7144b</crc32>
+    <sha1>963a473494ab33ac61f6f639e291e55952fd2c87</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="BitSnoopLists_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>bccd07ce073c8b29787df8edc5b630e4</md5>
+  </file>
+</files>

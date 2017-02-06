@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="2014dec09spe_meta.sqlite" source="original">
+    <mtime>1418177893</mtime>
+    <size>10240</size>
+    <md5>8155631130d98f034a94a9a31d64e089</md5>
+    <crc32>d084663e</crc32>
+    <sha1>84c4c5a2119ef2fe07be6a0da5ce897d261bd6a2</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="2014dec09spe.txt" source="original">
+    <mtime>1418177874</mtime>
+    <size>7095</size>
+    <md5>5484b4115f6937121bb97c1e44335cdd</md5>
+    <crc32>65ff0612</crc32>
+    <sha1>9c2f25e378fb568cca4de2a42d2a212e05dec947</sha1>
+    <format>Text</format>
+  </file>
+  <file name="2014dec09tpb.txt" source="original">
+    <mtime>1418177888</mtime>
+    <size>2810</size>
+    <md5>57b92de05ef468f1153dd0780c492f77</md5>
+    <crc32>db607134</crc32>
+    <sha1>88d6c8050068dd13940792b0c78eafe4bd044931</sha1>
+    <format>Text</format>
+  </file>
+  <file name="2014dec09spe_meta.xml" source="original">
+    <mtime>1418196154</mtime>
+    <size>907</size>
+    <format>Metadata</format>
+    <md5>7605cec3cc654990a87070da099cfa98</md5>
+    <crc32>fa08664e</crc32>
+    <sha1>d1284668ed0de78c824c3f05783f45c73af20f46</sha1>
+  </file>
+  <file name="2014dec09spe_archive.torrent" source="metadata">
+    <btih>61bbb3f385be1c5acbf36966618e6434c0de4bef</btih>
+    <mtime>1418196155</mtime>
+    <size>1812</size>
+    <md5>46e15b61d971d88878a75f30a5dafe3b</md5>
+    <crc32>ce7d2c0c</crc32>
+    <sha1>22e81cd08a3b58d8866ad25f100c6ee1c5df5d9a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="2014dec09spe_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>650df10097e4c68b10f09931888c457f</md5>
+  </file>
+</files>

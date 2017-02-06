@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="twitter.com-ahl-status-753254488123727873-2016-08-21-a2c05900-meta.warc.gz" source="original">
+    <mtime>1471835295</mtime>
+    <size>6579</size>
+    <md5>8a4a5d180a8a27d22b32c4076e56d1f1</md5>
+    <crc32>62826b94</crc32>
+    <sha1>b8e21038ea8f5db727720f6f1ddc6fb9804e5296</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-22-05-08-07-076818752-2b303230300a-d0b19806-c0f1-405b-a419-eba6fce99de0_meta.xml" source="original">
+    <mtime>1471835313</mtime>
+    <size>838</size>
+    <md5>a10c86f860e902a4a2a67f31023ccc4c</md5>
+    <crc32>6233f61d</crc32>
+    <sha1>2ef9e95398d412f55cd784499e34f50252868a06</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-22-05-08-07-076818752-2b303230300a-d0b19806-c0f1-405b-a419-eba6fce99de0_meta.sqlite" source="original">
+    <mtime>1471835308</mtime>
+    <size>8192</size>
+    <md5>1d510ac06975dc9657b9106eea33757c</md5>
+    <crc32>bca89a39</crc32>
+    <sha1>f9a04444ae0f366f7752ff43ecac2525d6025c28</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="twitter.com-ahl-status-753254488123727873-2016-08-21-a2c05900-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>twitter.com-ahl-status-753254488123727873-2016-08-21-a2c05900-meta.warc.gz</original>
+    <mtime>1471835322</mtime>
+    <size>47</size>
+    <md5>45f0f501a3052c0113e703a641bdc3d3</md5>
+    <crc32>4c42b222</crc32>
+    <sha1>e684d4fa6c0bc9c53b21e11851ecc77449c192b6</sha1>
+  </file>
+  <file name="W2016-08-22-05-08-07-076818752-2b303230300a-d0b19806-c0f1-405b-a419-eba6fce99de0.cdx.idx" source="original">
+    <mtime>1471835341</mtime>
+    <size>94</size>
+    <md5>1876e9503edbca9577f04d25fec60f32</md5>
+    <crc32>1cbdffe2</crc32>
+    <sha1>8e29912ce0b3a9dd00b79cc6f6d47e52a7d8b1ae</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-22-05-08-07-076818752-2b303230300a-d0b19806-c0f1-405b-a419-eba6fce99de0.cdx.gz" source="original">
+    <mtime>1471835341</mtime>
+    <size>47</size>
+    <md5>3673d5690a9525e7e61b4c211cf02862</md5>
+    <crc32>c0195223</crc32>
+    <sha1>c457a5c52bff707b18ce381ebb6c0de06b797c06</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-22-05-08-07-076818752-2b303230300a-d0b19806-c0f1-405b-a419-eba6fce99de0_archive.torrent" source="metadata">
+    <btih>8ce94a5453c2b1bfc35d92ac7c3241c7a54f98a9</btih>
+    <mtime>1471835342</mtime>
+    <size>3026</size>
+    <md5>7204af67a7b3079805b87c7aa2111a6c</md5>
+    <crc32>8c800ec7</crc32>
+    <sha1>0398b99403ca15fad62e273cd011b79175132dfb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-22-05-08-07-076818752-2b303230300a-d0b19806-c0f1-405b-a419-eba6fce99de0_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8639580b9c3e1ac9ed6e80bee81503ce</md5>
+  </file>
+</files>

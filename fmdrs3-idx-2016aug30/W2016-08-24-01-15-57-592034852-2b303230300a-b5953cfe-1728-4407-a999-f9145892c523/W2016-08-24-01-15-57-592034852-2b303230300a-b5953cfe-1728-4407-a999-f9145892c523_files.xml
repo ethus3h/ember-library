@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-24-01-15-57-592034852-2b303230300a-b5953cfe-1728-4407-a999-f9145892c523_meta.sqlite" source="original">
+    <mtime>1471994190</mtime>
+    <size>8192</size>
+    <md5>4d2e3a1a7a14cf4bb22baacc06d24e8d</md5>
+    <crc32>73ddee52</crc32>
+    <sha1>e49221eebabfd593bd22c06b58bb98ffddb477af</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-24-01-15-57-592034852-2b303230300a-b5953cfe-1728-4407-a999-f9145892c523_meta.xml" source="original">
+    <mtime>1471994195</mtime>
+    <size>838</size>
+    <md5>d478087ce2e9f27d86399ea6374a4677</md5>
+    <crc32>5ed2b9f3</crc32>
+    <sha1>3757f9a170fdba0c3b15425d3518ecdd9e91d4fa</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="nomsdb.slack.com-messages-general-2016-08-23-8bf42fcc-meta.warc.gz" source="original">
+    <mtime>1471994163</mtime>
+    <size>5993</size>
+    <md5>0674d689d17261fc2180d4ea26336a46</md5>
+    <crc32>ea611d04</crc32>
+    <sha1>3e5a01ee54d35acd65b459b86b950647b858260a</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="nomsdb.slack.com-messages-general-2016-08-23-8bf42fcc-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>nomsdb.slack.com-messages-general-2016-08-23-8bf42fcc-meta.warc.gz</original>
+    <mtime>1471994205</mtime>
+    <size>47</size>
+    <md5>503c5e9fd7f388962642d0a06fe6ffae</md5>
+    <crc32>a126a291</crc32>
+    <sha1>33dfdc8e6cfb5a0b166f7a381fd1fafa6423ee64</sha1>
+  </file>
+  <file name="W2016-08-24-01-15-57-592034852-2b303230300a-b5953cfe-1728-4407-a999-f9145892c523.cdx.gz" source="original">
+    <mtime>1471994220</mtime>
+    <size>47</size>
+    <md5>722c981d718063966d57b458c0aa7494</md5>
+    <crc32>a19290d0</crc32>
+    <sha1>65b5e1b8a544e8956de99ca9c655d09d2d51b55a</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-24-01-15-57-592034852-2b303230300a-b5953cfe-1728-4407-a999-f9145892c523.cdx.idx" source="original">
+    <mtime>1471994220</mtime>
+    <size>94</size>
+    <md5>01a2eb8588fb301fd3c1bef5760cf33b</md5>
+    <crc32>c1a6a655</crc32>
+    <sha1>33939416825d7550a6a1930dd037f438e5992dcf</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-24-01-15-57-592034852-2b303230300a-b5953cfe-1728-4407-a999-f9145892c523_archive.torrent" source="metadata">
+    <btih>939a029fce0f47b7c0e99f6d30d50d265d142a1f</btih>
+    <mtime>1471994222</mtime>
+    <size>3010</size>
+    <md5>5edf8a9f06a5de4bbee475e04bb00c45</md5>
+    <crc32>add31df4</crc32>
+    <sha1>0a8e06c757cc4ba03e7f732dc9e703104cae1153</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-24-01-15-57-592034852-2b303230300a-b5953cfe-1728-4407-a999-f9145892c523_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>38ca5fe40db0d38f6dd23d0a2f9cbb19</md5>
+  </file>
+</files>

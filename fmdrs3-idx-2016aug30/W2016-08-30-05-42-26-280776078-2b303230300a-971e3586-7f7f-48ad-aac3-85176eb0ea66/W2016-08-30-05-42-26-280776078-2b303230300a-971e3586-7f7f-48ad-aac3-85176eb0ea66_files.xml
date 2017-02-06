@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-30-05-42-26-280776078-2b303230300a-971e3586-7f7f-48ad-aac3-85176eb0ea66_meta.sqlite" source="original">
+    <mtime>1472528563</mtime>
+    <size>8192</size>
+    <md5>2eb2770d97501e59899538c046dc1dd2</md5>
+    <crc32>fcfd79ec</crc32>
+    <sha1>34c8600944441a9db47a2b218bab362ac83e47b8</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="trello.com-bibanon-2016-08-30-e7160892-meta.warc.gz" source="original">
+    <mtime>1472528552</mtime>
+    <size>57169</size>
+    <md5>12374ddbbc6e45fdd845dffc21d3e3e6</md5>
+    <crc32>0ed01c45</crc32>
+    <sha1>1cdf3733c379e04531ab0a60d1178c746bab3b93</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-30-05-42-26-280776078-2b303230300a-971e3586-7f7f-48ad-aac3-85176eb0ea66_meta.xml" source="original">
+    <mtime>1472528568</mtime>
+    <size>838</size>
+    <md5>f64a33d11758bda647b55e418a977895</md5>
+    <crc32>37e36483</crc32>
+    <sha1>9773add2d26464aa0096e31def1916cadd09b22e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="trello.com-bibanon-2016-08-30-e7160892-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>trello.com-bibanon-2016-08-30-e7160892-meta.warc.gz</original>
+    <mtime>1472528583</mtime>
+    <size>47</size>
+    <md5>ffe16e632a22ac263f3659656592bb01</md5>
+    <crc32>74bfdf66</crc32>
+    <sha1>c5c09eb4a4d859c16547dba43b76ee9d5266416b</sha1>
+  </file>
+  <file name="W2016-08-30-05-42-26-280776078-2b303230300a-971e3586-7f7f-48ad-aac3-85176eb0ea66.cdx.gz" source="original">
+    <mtime>1472528633</mtime>
+    <size>47</size>
+    <md5>ea32e40f7be9c8d265b62a72964311b5</md5>
+    <crc32>2f0d969c</crc32>
+    <sha1>f93ff03f68d8e3c41f0ba02edcde905879680167</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-30-05-42-26-280776078-2b303230300a-971e3586-7f7f-48ad-aac3-85176eb0ea66.cdx.idx" source="original">
+    <mtime>1472528633</mtime>
+    <size>94</size>
+    <md5>45fdff50ce58abe38ef2c92d639b3765</md5>
+    <crc32>ed4fd5ab</crc32>
+    <sha1>5673f689c51f2e54a7f0478a2c1dc20a259e8d36</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-30-05-42-26-280776078-2b303230300a-971e3586-7f7f-48ad-aac3-85176eb0ea66_archive.torrent" source="metadata">
+    <btih>265a371e96b0fe9e911336a07ec09e82321a7913</btih>
+    <mtime>1472528634</mtime>
+    <size>2979</size>
+    <md5>244acbe1c9e4dbfeb918b95362c4403b</md5>
+    <crc32>570ccac1</crc32>
+    <sha1>a6b53be9eb4d612b407e75f673d58703a57d4dec</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-30-05-42-26-280776078-2b303230300a-971e3586-7f7f-48ad-aac3-85176eb0ea66_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8499a53044d267d363066c7210ac9005</md5>
+  </file>
+</files>

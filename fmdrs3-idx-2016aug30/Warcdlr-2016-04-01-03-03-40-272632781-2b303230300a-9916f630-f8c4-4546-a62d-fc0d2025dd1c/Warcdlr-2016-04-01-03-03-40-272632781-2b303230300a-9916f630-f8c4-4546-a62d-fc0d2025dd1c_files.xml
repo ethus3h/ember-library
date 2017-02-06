@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.irt.org-2016-02-06-4d078bb2.cdx.xz" source="original">
+    <mtime>1459472634</mtime>
+    <size>9728568</size>
+    <md5>92306e76cdfbd662be07be670b4bc57f</md5>
+    <crc32>2a692c74</crc32>
+    <sha1>9721a38f7f35a92eba4b103665b7c625f378bb01</sha1>
+    <format>Advanced Audio Coding</format>
+    <length>166.53</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Warcdlr-2016-04-01-03-03-40-272632781-2b303230300a-9916f630-f8c4-4546-a62d-fc0d2025dd1c_meta.sqlite" source="original">
+    <mtime>1459472649</mtime>
+    <size>8192</size>
+    <md5>a3165c3ee42ec93cb2bdfff7874888de</md5>
+    <crc32>d391e909</crc32>
+    <sha1>60a33cfc4288889b4530162a950003479830e563</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Warcdlr-2016-04-01-03-03-40-272632781-2b303230300a-9916f630-f8c4-4546-a62d-fc0d2025dd1c_meta.xml" source="original">
+    <mtime>1459472961</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>c206ad445e511c1ba343df5c373112fe</md5>
+    <crc32>15e8d7cd</crc32>
+    <sha1>8749bf8f750cb257df223e823ae65289164974dd</sha1>
+  </file>
+  <file name="www.irt.org-2016-02-06-4d078bb2.cdx.mp3" source="derivative">
+    <bitrate>13.3</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>www.irt.org-2016-02-06-4d078bb2.cdx.xz</original>
+    <mtime>1459472966</mtime>
+    <size>1536</size>
+    <md5>994d5779f48143cc6d833da3db74aa9e</md5>
+    <crc32>4c42076e</crc32>
+    <sha1>20acc3e9883138ec34be976b20f9660c1509bea6</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="www.irt.org-2016-02-06-4d078bb2.cdx.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>www.irt.org-2016-02-06-4d078bb2.cdx.xz</original>
+    <mtime>1459472967</mtime>
+    <size>3210</size>
+    <md5>9ca40fd2e963722cd66f0d4f64dd1cb7</md5>
+    <crc32>3a265ab0</crc32>
+    <sha1>e7d991881f7320793ee21a741350959bbcd981eb</sha1>
+    <length>0.28</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Warcdlr-2016-04-01-03-03-40-272632781-2b303230300a-9916f630-f8c4-4546-a62d-fc0d2025dd1c_archive.torrent" source="metadata">
+    <btih>58e9d299b8d93aacdd92b5110b89fc28e33d594b</btih>
+    <mtime>1459472995</mtime>
+    <size>3092</size>
+    <md5>d0e528b973a9ded57eb16ee016c2592b</md5>
+    <crc32>57bb7246</crc32>
+    <sha1>48f53ffe151b8fab9f1d25d4567c7bf74bf56053</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-04-01-03-03-40-272632781-2b303230300a-9916f630-f8c4-4546-a62d-fc0d2025dd1c_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fbfe646c54d03eed8838cb257af4e2a6</md5>
+  </file>
+</files>

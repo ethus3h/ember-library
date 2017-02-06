@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="wpull.log.xz" source="original">
+    <mtime>1459644672</mtime>
+    <size>436892</size>
+    <md5>97f935d7ed21ebf3e8b515000db147e9</md5>
+    <crc32>898a43be</crc32>
+    <sha1>c538d79c517d62f1036d03faead0d04cb6316987</sha1>
+    <format>Advanced Audio Coding</format>
+    <length>8.69</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Warcdlr-2016-04-03-02-51-05-497515716-2b303230300a-93043ce1-0bb9-4796-8bd4-014500edcd2f_meta.sqlite" source="original">
+    <mtime>1459644683</mtime>
+    <size>8192</size>
+    <md5>397aa0060e9c778e517d359863fadab1</md5>
+    <crc32>078dfad3</crc32>
+    <sha1>8c734d35dbacf0df04613777246217c031c567d7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Warcdlr-2016-04-03-02-51-05-497515716-2b303230300a-93043ce1-0bb9-4796-8bd4-014500edcd2f_meta.xml" source="original">
+    <mtime>1459644992</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>73c39ae2cc631452a3db690719f74089</md5>
+    <crc32>367ace05</crc32>
+    <sha1>60d20d14a248efc77b678e834087534c6a07f52d</sha1>
+  </file>
+  <file name="wpull.log.mp3" source="derivative">
+    <bitrate>70</bitrate>
+    <length>00:00</length>
+    <format>VBR MP3</format>
+    <original>wpull.log.xz</original>
+    <mtime>1459644996</mtime>
+    <size>2560</size>
+    <md5>ab838507cd5aee9ba1ff15ec4a45e135</md5>
+    <crc32>e22ef33a</crc32>
+    <sha1>7ccef11521915ad4835e752cbce13fb29bf265fc</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="wpull.log.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>wpull.log.xz</original>
+    <mtime>1459644997</mtime>
+    <size>3589</size>
+    <md5>45965b596c86a58b09969b91697e57cf</md5>
+    <crc32>c2478350</crc32>
+    <sha1>750ad855782f683d3450198efc4adee9496ed5f2</sha1>
+    <length>0.09</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Warcdlr-2016-04-03-02-51-05-497515716-2b303230300a-93043ce1-0bb9-4796-8bd4-014500edcd2f_archive.torrent" source="metadata">
+    <btih>175f9c87e541472e6712a03f317ed83f32f84d51</btih>
+    <mtime>1459645017</mtime>
+    <size>2652</size>
+    <md5>c61eb4149860182a77b742ab98765e1b</md5>
+    <crc32>42bd7c76</crc32>
+    <sha1>02be26db4c8e7bf34f9d94d2f3246d1e0f870886</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-04-03-02-51-05-497515716-2b303230300a-93043ce1-0bb9-4796-8bd4-014500edcd2f_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e438efd928f2571ff572080878bf07cf</md5>
+  </file>
+</files>

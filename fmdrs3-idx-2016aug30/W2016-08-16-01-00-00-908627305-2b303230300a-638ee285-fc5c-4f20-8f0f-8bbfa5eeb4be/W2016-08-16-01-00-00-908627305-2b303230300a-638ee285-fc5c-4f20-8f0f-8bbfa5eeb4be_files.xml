@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="upload.wikimedia.org-wikipedia-en-3-30-Yiftee%2C_Inc._Logo%2C_August_2016.png-2016-08-15-c0344a06-meta.warc.gz" source="original">
+    <mtime>1471302007</mtime>
+    <size>3204</size>
+    <md5>4641fd5f33cbef1466b92234964fd950</md5>
+    <crc32>069966d5</crc32>
+    <sha1>9521ce8562a25695867244cd6439665c282334d1</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-16-01-00-00-908627305-2b303230300a-638ee285-fc5c-4f20-8f0f-8bbfa5eeb4be_meta.sqlite" source="original">
+    <mtime>1471302021</mtime>
+    <size>9216</size>
+    <md5>3faa94209cc09292c145dccdce1aa104</md5>
+    <crc32>7ed33d98</crc32>
+    <sha1>6373f3c2d51f2fd247b4d55e1030ccb8f4b1f013</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-16-01-00-00-908627305-2b303230300a-638ee285-fc5c-4f20-8f0f-8bbfa5eeb4be_meta.xml" source="original">
+    <mtime>1471302027</mtime>
+    <size>838</size>
+    <md5>0734cd4df9309724ef7d26dd080b12d5</md5>
+    <crc32>adad4c97</crc32>
+    <sha1>7e0b9d34373958265869cb6c6b8689eadb9c0fde</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="upload.wikimedia.org-wikipedia-en-3-30-Yiftee%2C_Inc._Logo%2C_August_2016.png-2016-08-15-c0344a06-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>upload.wikimedia.org-wikipedia-en-3-30-Yiftee%2C_Inc._Logo%2C_August_2016.png-2016-08-15-c0344a06-meta.warc.gz</original>
+    <mtime>1471302032</mtime>
+    <size>47</size>
+    <md5>5d26ab59d56c96e9b5401f47cf7720bc</md5>
+    <crc32>5b72c3a7</crc32>
+    <sha1>f561f7e10d04aeba123f69d61153e66b2c7345b7</sha1>
+  </file>
+  <file name="W2016-08-16-01-00-00-908627305-2b303230300a-638ee285-fc5c-4f20-8f0f-8bbfa5eeb4be.cdx.gz" source="original">
+    <mtime>1471302045</mtime>
+    <size>47</size>
+    <md5>53c7bae552de11b53b87ee19ea3e70bf</md5>
+    <crc32>ecae194b</crc32>
+    <sha1>ea5378c183e9b9c7cb5633099d63e55ce6000d99</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-16-01-00-00-908627305-2b303230300a-638ee285-fc5c-4f20-8f0f-8bbfa5eeb4be.cdx.idx" source="original">
+    <mtime>1471302045</mtime>
+    <size>94</size>
+    <md5>4422477d8aade69ea3dfcde7c7779189</md5>
+    <crc32>3619b1fb</crc32>
+    <sha1>55762cc0a79537197437f41be244c15008d7a042</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-16-01-00-00-908627305-2b303230300a-638ee285-fc5c-4f20-8f0f-8bbfa5eeb4be_archive.torrent" source="metadata">
+    <btih>8303c755793b081ac0f7e19ca210267bbd791746</btih>
+    <mtime>1471302046</mtime>
+    <size>3100</size>
+    <md5>f70b9add38ff5d443f35d711282efbec</md5>
+    <crc32>06d4a754</crc32>
+    <sha1>faf35172cec898af1ae35eea26bc9b654a7833ac</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-16-01-00-00-908627305-2b303230300a-638ee285-fc5c-4f20-8f0f-8bbfa5eeb4be_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9f9517ff65b0932a5b8c6044d155cd08</md5>
+  </file>
+</files>

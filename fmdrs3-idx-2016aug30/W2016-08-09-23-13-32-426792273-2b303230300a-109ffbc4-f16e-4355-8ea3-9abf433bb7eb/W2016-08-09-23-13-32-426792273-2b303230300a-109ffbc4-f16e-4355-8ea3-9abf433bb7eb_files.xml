@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.bbc.com-news-world-europe-37009931-2016-08-09-a2ccd1b6-meta.warc.gz" source="original">
+    <mtime>1470777220</mtime>
+    <size>11385</size>
+    <md5>f369fe0f8dcac5877db7c7c7e525e995</md5>
+    <crc32>fbdb5227</crc32>
+    <sha1>0e11cbc74d8ffe0e20fb4a2279807998b0305cc7</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-09-23-13-32-426792273-2b303230300a-109ffbc4-f16e-4355-8ea3-9abf433bb7eb_meta.sqlite" source="original">
+    <mtime>1470777235</mtime>
+    <size>8192</size>
+    <md5>83242279376370aed12a1f2c0974abe2</md5>
+    <crc32>783b9137</crc32>
+    <sha1>18e17f8356315d93b24e1ef6eb4799a79a33a0d9</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-09-23-13-32-426792273-2b303230300a-109ffbc4-f16e-4355-8ea3-9abf433bb7eb_meta.xml" source="original">
+    <mtime>1470777240</mtime>
+    <size>838</size>
+    <md5>28d804183bb6fb973984c51d272b9f3c</md5>
+    <crc32>e7b8f098</crc32>
+    <sha1>1c7bd3496a1c277fa094ccaf8a99bc4ef34fc3cc</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.bbc.com-news-world-europe-37009931-2016-08-09-a2ccd1b6-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.bbc.com-news-world-europe-37009931-2016-08-09-a2ccd1b6-meta.warc.gz</original>
+    <mtime>1470818537</mtime>
+    <size>47</size>
+    <md5>0151727d8708227dd13c24e36b676204</md5>
+    <crc32>c0ae5b11</crc32>
+    <sha1>7ed0b4c16ec5384c6b74b2159c977149715a7582</sha1>
+  </file>
+  <file name="W2016-08-09-23-13-32-426792273-2b303230300a-109ffbc4-f16e-4355-8ea3-9abf433bb7eb.cdx.idx" source="original">
+    <mtime>1470828408</mtime>
+    <size>94</size>
+    <md5>47abb2b2620698861e5eee0933101345</md5>
+    <crc32>8834a08a</crc32>
+    <sha1>d4e2315add813b3d1b24451a1e1c2d7d99cd7a81</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-09-23-13-32-426792273-2b303230300a-109ffbc4-f16e-4355-8ea3-9abf433bb7eb.cdx.gz" source="original">
+    <mtime>1470828408</mtime>
+    <size>47</size>
+    <md5>1428e0c6f0baa3edf078475d336cbd82</md5>
+    <crc32>d59a67b7</crc32>
+    <sha1>0e0337d1e483c6c92a937509167bacb6b4034e29</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-09-23-13-32-426792273-2b303230300a-109ffbc4-f16e-4355-8ea3-9abf433bb7eb_archive.torrent" source="metadata">
+    <btih>fa35d470cd4395a945730eddee92e512fb8cc27a</btih>
+    <mtime>1470828409</mtime>
+    <size>3019</size>
+    <md5>fa7eb622f59bd17e334119d977a588f3</md5>
+    <crc32>ed21ca7c</crc32>
+    <sha1>b33239e90dfbbb42e12fbe4e58d30db5ede16e0a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-09-23-13-32-426792273-2b303230300a-109ffbc4-f16e-4355-8ea3-9abf433bb7eb_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>3fac2bddbd58dbed18ca661a1c941274</md5>
+  </file>
+</files>

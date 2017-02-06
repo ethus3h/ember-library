@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Warcdlr-2016-03-26-17-26-13-742417108-2b303130300a-8663e249-9443-4c0d-adc7-c2c6f8d1a968_meta.sqlite" source="original">
+    <mtime>1459009647</mtime>
+    <size>8192</size>
+    <md5>be6045a564eca04bc3ea3f0737ab7174</md5>
+    <crc32>0ae1d9a2</crc32>
+    <sha1>b617da8ae4f3db9bd3c5840357823350552b0b02</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="heartwoodmorris.wordpress.com-2016-03-25-db7dcdc7-00000.warc.gz" source="original">
+    <mtime>1459009628</mtime>
+    <size>36628482</size>
+    <md5>285da622451c771db3a3ab8b25bc511e</md5>
+    <crc32>11a51d01</crc32>
+    <sha1>9ad7da171768a8a80db366d54d950b903424f929</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-17-26-13-742417108-2b303130300a-8663e249-9443-4c0d-adc7-c2c6f8d1a968_meta.xml" source="original">
+    <mtime>1459009657</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>d830e0c49776901095b16f9196c9b09d</md5>
+    <crc32>a6b2bd24</crc32>
+    <sha1>d6399ade185b4e4fb6f0cbcf4f237880e3b7b536</sha1>
+  </file>
+  <file name="heartwoodmorris.wordpress.com-2016-03-25-db7dcdc7-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>heartwoodmorris.wordpress.com-2016-03-25-db7dcdc7-00000.warc.gz</original>
+    <mtime>1459009663</mtime>
+    <size>108407</size>
+    <md5>c5d28e272b2bbbfb096e6d4edb069544</md5>
+    <crc32>64911211</crc32>
+    <sha1>838990b6cac647d1cdacc8edd120695a6c635d73</sha1>
+  </file>
+  <file name="Warcdlr-2016-03-26-17-26-13-742417108-2b303130300a-8663e249-9443-4c0d-adc7-c2c6f8d1a968.cdx.gz" source="original">
+    <mtime>1459009677</mtime>
+    <size>106536</size>
+    <md5>f5a686fd5287ae4d49bdef9180078a01</md5>
+    <crc32>e00a8f66</crc32>
+    <sha1>d782b064d598ec2031d589fbe28eeb100ecc7a3d</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-17-26-13-742417108-2b303130300a-8663e249-9443-4c0d-adc7-c2c6f8d1a968.cdx.idx" source="original">
+    <mtime>1459009677</mtime>
+    <size>105</size>
+    <md5>c498ed3370623d8bec51faae4180af84</md5>
+    <crc32>294e7a2a</crc32>
+    <sha1>78f6a024a0ca0323c20bcd1679a23231e46cc6a4</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-17-26-13-742417108-2b303130300a-8663e249-9443-4c0d-adc7-c2c6f8d1a968_archive.torrent" source="metadata">
+    <btih>7eb45a528b83a4b13940db33af908f22144d47f4</btih>
+    <mtime>1459009678</mtime>
+    <size>4494</size>
+    <md5>096d1ac5d0de7d3fb19ba7ac20695e0b</md5>
+    <crc32>8aa19cb4</crc32>
+    <sha1>92e02f37fca32a9167c4e1fa1f50bda09270deba</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-17-26-13-742417108-2b303130300a-8663e249-9443-4c0d-adc7-c2c6f8d1a968_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>022475455a6fb2c024c7da0acde847f0</md5>
+  </file>
+</files>

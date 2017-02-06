@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="disk1s2-as-of-2014.nov.06_meta.sqlite" source="original">
+    <mtime>1415358593</mtime>
+    <size>9216</size>
+    <md5>36fffbd07a2cb2be64f992efc5a1b363</md5>
+    <crc32>b68abf7c</crc32>
+    <sha1>7c5ee8a0739c9fc92e92585abba6d58eabc938f2</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="disk1s2-as-of-2014.nov.06.dd" source="original">
+    <mtime>1415358235</mtime>
+    <size>25204621312</size>
+    <md5>01c0de566a16d26288b22880431086fd</md5>
+    <crc32>8ce92c70</crc32>
+    <sha1>b75a6c43ff41f4bf2385e65b2371d18fd30050fc</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="disk1s2-as-of-2014.nov.06_meta.xml" source="original">
+    <mtime>1415359451</mtime>
+    <size>868</size>
+    <format>Metadata</format>
+    <md5>ff26fab78c1710d727f0629d39c2dc31</md5>
+    <crc32>c11dcf16</crc32>
+    <sha1>1d74ecbadc59dd1660f1c38930d6dc0deccb52ed</sha1>
+  </file>
+  <file name="disk1s2-as-of-2014.nov.06_archive.torrent" source="metadata">
+    <btih>e31c08613937b091f7147cf9e1bdae3648feb51d</btih>
+    <mtime>1415359459</mtime>
+    <size>122182</size>
+    <md5>38c55b03e99b84ee1613ad1fda213e04</md5>
+    <crc32>1a5afc2d</crc32>
+    <sha1>deded99e87f3f69171fe9a3ac74023a59e6d6b33</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="disk1s2-as-of-2014.nov.06_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f6566826e9d57d60215ca6fc54e99b19</md5>
+  </file>
+</files>

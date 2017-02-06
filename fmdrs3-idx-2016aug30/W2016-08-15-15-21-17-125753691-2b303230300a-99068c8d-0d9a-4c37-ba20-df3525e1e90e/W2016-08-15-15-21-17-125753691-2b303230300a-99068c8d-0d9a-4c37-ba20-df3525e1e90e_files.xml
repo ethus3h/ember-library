@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="en.wikipedia.org-wiki-J%C3%B3zef_Oleksy-2016-08-15-412c8cd4-meta.warc.gz" source="original">
+    <mtime>1471267283</mtime>
+    <size>6087</size>
+    <md5>82715bbd8ce1e589782af51ddd07214c</md5>
+    <crc32>57567852</crc32>
+    <sha1>3d21860378701a88d639dc527705ac0c97586a2e</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-15-15-21-17-125753691-2b303230300a-99068c8d-0d9a-4c37-ba20-df3525e1e90e_meta.sqlite" source="original">
+    <mtime>1471267296</mtime>
+    <size>8192</size>
+    <md5>96f2f4c4d55fa56a7ad17dcc54a48373</md5>
+    <crc32>10c5d44d</crc32>
+    <sha1>3bc62e76dfae0010c8fb83ecfef403ccf2c70485</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-15-15-21-17-125753691-2b303230300a-99068c8d-0d9a-4c37-ba20-df3525e1e90e_meta.xml" source="original">
+    <mtime>1471267300</mtime>
+    <size>838</size>
+    <md5>077e164d5154a6a4fc32a812f6be040c</md5>
+    <crc32>4d345e04</crc32>
+    <sha1>c274d2774c135c12ed62a4c7fbb4d2d4519c0915</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="en.wikipedia.org-wiki-J%C3%B3zef_Oleksy-2016-08-15-412c8cd4-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>en.wikipedia.org-wiki-J%C3%B3zef_Oleksy-2016-08-15-412c8cd4-meta.warc.gz</original>
+    <mtime>1471267305</mtime>
+    <size>47</size>
+    <md5>679c53c2f9c3e7094bbb3ca9f2feafc9</md5>
+    <crc32>daa02a22</crc32>
+    <sha1>4336cbb410e297fae42ecfa525aff6feb3a21c73</sha1>
+  </file>
+  <file name="W2016-08-15-15-21-17-125753691-2b303230300a-99068c8d-0d9a-4c37-ba20-df3525e1e90e.cdx.idx" source="original">
+    <mtime>1471267316</mtime>
+    <size>94</size>
+    <md5>6e2fc60e55d3a9f341188e22ac336fbf</md5>
+    <crc32>e23ba452</crc32>
+    <sha1>b42d38c2ea82f1ca096b792499e13ec6248a06bb</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-15-15-21-17-125753691-2b303230300a-99068c8d-0d9a-4c37-ba20-df3525e1e90e.cdx.gz" source="original">
+    <mtime>1471267316</mtime>
+    <size>47</size>
+    <md5>3bd1eef5dd87d7cc898d38efdf48152f</md5>
+    <crc32>c7658af8</crc32>
+    <sha1>534be0530294f6e8738405b1902730406e1e8da8</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-15-15-21-17-125753691-2b303230300a-99068c8d-0d9a-4c37-ba20-df3525e1e90e_archive.torrent" source="metadata">
+    <btih>513dfabbe50932700d640c81e741b220b4485114</btih>
+    <mtime>1471267317</mtime>
+    <size>3022</size>
+    <md5>a502ff04d7cce345856b1dc5484b1522</md5>
+    <crc32>52f43962</crc32>
+    <sha1>1c50b83b0acfa27e7c29ead982b03a0abd64363d</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-15-15-21-17-125753691-2b303230300a-99068c8d-0d9a-4c37-ba20-df3525e1e90e_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>c90f4005b88c801e69ffdae3d46241ba</md5>
+  </file>
+</files>

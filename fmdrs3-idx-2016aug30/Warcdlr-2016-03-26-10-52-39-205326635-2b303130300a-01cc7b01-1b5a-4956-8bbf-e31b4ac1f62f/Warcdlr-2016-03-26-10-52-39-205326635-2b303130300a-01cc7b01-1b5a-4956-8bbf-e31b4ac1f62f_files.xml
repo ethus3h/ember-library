@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www-ssrl.slac.stanford.edu-ecd_archive-e-2016-03-25-74b8c651-meta.warc.gz" source="original">
+    <mtime>1458985968</mtime>
+    <size>3099</size>
+    <md5>edbd2a81d872805340a31ea5fe6d8d1a</md5>
+    <crc32>26606c02</crc32>
+    <sha1>15208290588a164b78f6e76f3ffebe87756976e5</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-10-52-39-205326635-2b303130300a-01cc7b01-1b5a-4956-8bbf-e31b4ac1f62f_meta.sqlite" source="original">
+    <mtime>1458985992</mtime>
+    <size>8192</size>
+    <md5>7f9efb6d60e1e4716b5a8c4abbf74ea5</md5>
+    <crc32>130be228</crc32>
+    <sha1>c8ccce2fc4800eb7f680b55d18ad546baada8eaf</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-10-52-39-205326635-2b303130300a-01cc7b01-1b5a-4956-8bbf-e31b4ac1f62f_meta.xml" source="original">
+    <mtime>1458986000</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>0f8855be74b53842de9f93078c4c586a</md5>
+    <crc32>c2a50c5e</crc32>
+    <sha1>4ad88d45654d126d1947822b03a141648a413900</sha1>
+  </file>
+  <file name="www-ssrl.slac.stanford.edu-ecd_archive-e-2016-03-25-74b8c651-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www-ssrl.slac.stanford.edu-ecd_archive-e-2016-03-25-74b8c651-meta.warc.gz</original>
+    <mtime>1458986004</mtime>
+    <size>47</size>
+    <md5>cdd58f4018557ae5ddf70e3b5ee1ac3f</md5>
+    <crc32>9ee712e6</crc32>
+    <sha1>21fa9efcacb71d422cf6937159bcf7485f16718d</sha1>
+  </file>
+  <file name="Warcdlr-2016-03-26-10-52-39-205326635-2b303130300a-01cc7b01-1b5a-4956-8bbf-e31b4ac1f62f.cdx.idx" source="original">
+    <mtime>1458986014</mtime>
+    <size>101</size>
+    <md5>8abcba63c1a9995cc4a297a2c07d192e</md5>
+    <crc32>d2394b39</crc32>
+    <sha1>f277659cb073b5a4c18e2db6fae63e4ae34be065</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-10-52-39-205326635-2b303130300a-01cc7b01-1b5a-4956-8bbf-e31b4ac1f62f.cdx.gz" source="original">
+    <mtime>1458986014</mtime>
+    <size>47</size>
+    <md5>551a9c833e7e3cb116ea6f0f6d09afec</md5>
+    <crc32>27310eaa</crc32>
+    <sha1>30383668507d2409bd8b03a663c381d86fa26b72</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-10-52-39-205326635-2b303130300a-01cc7b01-1b5a-4956-8bbf-e31b4ac1f62f_archive.torrent" source="metadata">
+    <btih>aaa2e0014eabba0a3fd30f468118a9d2c8bb4a04</btih>
+    <mtime>1458986014</mtime>
+    <size>3100</size>
+    <md5>06fbb0807c83e5e943928b693b062e17</md5>
+    <crc32>cfafe7c1</crc32>
+    <sha1>155816bfbd4f2e987d7f69aa121acb0bbf21fa5e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-10-52-39-205326635-2b303130300a-01cc7b01-1b5a-4956-8bbf-e31b4ac1f62f_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>969f7852129a7fe3a0e95b0262fe307c</md5>
+  </file>
+</files>

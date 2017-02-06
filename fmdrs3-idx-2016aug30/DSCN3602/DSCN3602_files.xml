@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="DSCN3602_meta.sqlite" source="original">
+    <mtime>1468005956</mtime>
+    <size>9216</size>
+    <md5>964e6be3237d305c7a121e95ceeea085</md5>
+    <crc32>5f123452</crc32>
+    <sha1>e445ea1ca1e7f642326371a58f3d3b1acceb1c20</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="DSCN3602.AVI" source="original">
+    <mtime>1468005937</mtime>
+    <size>257067584</size>
+    <md5>a459200c82045785ca297f1a7f897177</md5>
+    <crc32>4cb08371</crc32>
+    <sha1>8fde4bbd084770f5d40659e9f56fad826078a6fd</sha1>
+    <format>Cinepack</format>
+    <length>91.2</length>
+    <height>720</height>
+    <width>1280</width>
+  </file>
+  <file name="DSCN3602_meta.xml" source="original">
+    <mtime>1468005971</mtime>
+    <size>677</size>
+    <format>Metadata</format>
+    <md5>1bc56d64e3b68c22d6e7f9ccd8386cd7</md5>
+    <crc32>a6d4dda3</crc32>
+    <sha1>579a740ea1adf87132abfb4b34c8859a4798b6ca</sha1>
+  </file>
+  <file name="DSCN3602.mp4" source="derivative">
+    <format>h.264</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006615</mtime>
+    <size>9468770</size>
+    <md5>8c605927e58dbe4b5eabfabde3d0e169</md5>
+    <crc32>1b51dc70</crc32>
+    <sha1>ddd595cb51b01ac763e76dcdad12d8cbab4b9272</sha1>
+    <length>91.25</length>
+    <height>360</height>
+    <width>640</width>
+  </file>
+  <file name="DSCN3602.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468007032</mtime>
+    <size>6650354</size>
+    <md5>8bb77efed470bc77a040ea1dcd470b63</md5>
+    <crc32>da8e2fc2</crc32>
+    <sha1>2e7592061b949f9dfe0d83c36a7cfb576a8d19a6</sha1>
+    <length>91.22</length>
+    <height>300</height>
+    <width>532</width>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000044.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006044</mtime>
+    <size>1795</size>
+    <md5>8029a3958cc6cc2ea763ad502ebfedd6</md5>
+    <crc32>95a446b9</crc32>
+    <sha1>de0182a4c58db58bb1ef3644c87c71b46a676b19</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000009.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468005992</mtime>
+    <size>3635</size>
+    <md5>defe363f6b6ed1490cee3cdebf467ca3</md5>
+    <crc32>b1db1bb3</crc32>
+    <sha1>a74bda6e5ea8b13f08a65c9a408200066b927395</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006029</mtime>
+    <size>2213</size>
+    <md5>c4715671b06eb0b98496613ab8238a08</md5>
+    <crc32>b6873068</crc32>
+    <sha1>6db35433cbc4b7a4f158a3ec954a0fc04b63fa3a</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000064.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006076</mtime>
+    <size>1494</size>
+    <md5>b8e42a10ef42c8709a187ffe473208fd</md5>
+    <crc32>0f9ca3c0</crc32>
+    <sha1>4806a75068e751aad5b3d6eeba6fe5e0a57fe799</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000069.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006085</mtime>
+    <size>1481</size>
+    <md5>2ad4663c03f57a6ffb2405362b039f16</md5>
+    <crc32>12531a93</crc32>
+    <sha1>c5803b38163b066967b6fb0453c2e078ea581d75</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006059</mtime>
+    <size>1834</size>
+    <md5>140f02881d1505dff793a22e75e584d4</md5>
+    <crc32>e8ed8694</crc32>
+    <sha1>24696deaa9735475498c155d3f38d5d0d26ceaba</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468005984</mtime>
+    <size>3226</size>
+    <md5>3967681a08bfffe10633ece2008b1370</md5>
+    <crc32>e37f8e5f</crc32>
+    <sha1>4ea661c680686895e2355ba929141817894ab927</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000084.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006113</mtime>
+    <size>1395</size>
+    <md5>2153af0a8a09e27c96b9caa5284dc9eb</md5>
+    <crc32>2effcb2e</crc32>
+    <sha1>dd59f7bc11d0c056d2021231cc92d24f4170cdae</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000039.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006036</mtime>
+    <size>2755</size>
+    <md5>edae45cb7ed7cb265c7ba82cffba7a4e</md5>
+    <crc32>8fff723a</crc32>
+    <sha1>15b582dd5b6ea5348f73d0d018e5d0fb555f32ce</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000089.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006123</mtime>
+    <size>1794</size>
+    <md5>c07511820d2d88b1de1151600cd9785f</md5>
+    <crc32>056ddd52</crc32>
+    <sha1>9590a9af01e828e6ce658336ce6a430f6645c600</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000029.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006022</mtime>
+    <size>2215</size>
+    <md5>1365fe97943f3790cc7dd9e9dfe0ccab</md5>
+    <crc32>b00f2c2f</crc32>
+    <sha1>0ff8f88d7197447c514866a5b437dfe5c8ccf4c0</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006000</mtime>
+    <size>3179</size>
+    <md5>8f19417d0125b78a9179492b1efae87d</md5>
+    <crc32>2dac13ec</crc32>
+    <sha1>6b025124232aa259d86d207161e5170d4885b636</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000024.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006015</mtime>
+    <size>2473</size>
+    <md5>69ce9a93b36905a22c579cee9a1afcf1</md5>
+    <crc32>6e97d718</crc32>
+    <sha1>5fd3f2f90b12020aebf5f3d4fa11ba4100360374</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006095</mtime>
+    <size>1392</size>
+    <md5>44bc08b1cb5fcb44121b643aadcb8828</md5>
+    <crc32>45d52b43</crc32>
+    <sha1>67c0e1c3b0627e40b99d4c4cab7578e968bc4687</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000059.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006066</mtime>
+    <size>1757</size>
+    <md5>8b41fb71973bdb421d0750a7fbab6e83</md5>
+    <crc32>0834a6bc</crc32>
+    <sha1>fd1ddd9480466af66ab60662fc8aa15f46ae291b</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000019.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006007</mtime>
+    <size>3025</size>
+    <md5>edf834cb1b0e523e11a7b295151fe64f</md5>
+    <crc32>f183e7cc</crc32>
+    <sha1>eb28d77324f846fd1867605e3a4a29da18ac2534</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000049.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006051</mtime>
+    <size>1879</size>
+    <md5>800f9f2c75c748ce906759176a6a9238</md5>
+    <crc32>54964d6d</crc32>
+    <sha1>8f05224b6d8505d46e29defdfd8dd0beaa6f5d71</sha1>
+  </file>
+  <file name="DSCN3602.thumbs/DSCN3602_000079.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>DSCN3602.AVI</original>
+    <mtime>1468006104</mtime>
+    <size>1389</size>
+    <md5>2807a8c18b4c725f74bf4fc9a434c2cf</md5>
+    <crc32>64c94801</crc32>
+    <sha1>940fa5bb85455a8872e783452f1f9a2f8f707888</sha1>
+  </file>
+  <file name="DSCN3602_archive.torrent" source="metadata">
+    <btih>fca25f22833700dfe3553fd7b989a2c37768de56</btih>
+    <mtime>1468007042</mtime>
+    <size>12369</size>
+    <md5>736148a3fd9bc9cf7e062c473501a71f</md5>
+    <crc32>a9d953d2</crc32>
+    <sha1>2f6ccf41b080784e45dae9113da8cc2813882a59</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="DSCN3602_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9ae9b016c1692734e8eaf51211503abc</md5>
+  </file>
+</files>

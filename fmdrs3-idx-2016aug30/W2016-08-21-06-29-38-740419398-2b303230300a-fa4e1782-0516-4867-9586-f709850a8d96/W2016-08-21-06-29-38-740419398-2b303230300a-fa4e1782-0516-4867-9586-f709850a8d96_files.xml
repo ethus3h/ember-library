@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="web.archive.org-web-20130604210303-https---forums.wildshadow.com-node-200302-2016-08-20-f658ab7c-00000.warc.gz" source="original">
+    <mtime>1471753788</mtime>
+    <size>25205149</size>
+    <md5>891e10069aada1afca28659b7931f821</md5>
+    <crc32>23fedf17</crc32>
+    <sha1>59b7116b99de950cf6f2fa1d5813ad8c807036b1</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-21-06-29-38-740419398-2b303230300a-fa4e1782-0516-4867-9586-f709850a8d96_meta.sqlite" source="original">
+    <mtime>1471753812</mtime>
+    <size>9216</size>
+    <md5>0a47d9a32580f7e7625e83724b113664</md5>
+    <crc32>d8d4207d</crc32>
+    <sha1>52d13f819068b55dee56a4ea1cfd5891b0c778f6</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-21-06-29-38-740419398-2b303230300a-fa4e1782-0516-4867-9586-f709850a8d96_meta.xml" source="original">
+    <mtime>1471753837</mtime>
+    <size>838</size>
+    <md5>35e392a052ab21515cd516c0af1555ed</md5>
+    <crc32>9584dd05</crc32>
+    <sha1>4f3854355d6b7e8eebc86b1c7846f1813f472c52</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="web.archive.org-web-20130604210303-https---forums.wildshadow.com-node-200302-2016-08-20-f658ab7c-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>web.archive.org-web-20130604210303-https---forums.wildshadow.com-node-200302-2016-08-20-f658ab7c-00000.warc.gz</original>
+    <mtime>1471753907</mtime>
+    <size>27748</size>
+    <md5>9514085e699d7cf8a86f2e06506825d3</md5>
+    <crc32>8e2f9d52</crc32>
+    <sha1>dc04612ad2435561e2a76e59bfa1487b49040ab8</sha1>
+  </file>
+  <file name="W2016-08-21-06-29-38-740419398-2b303230300a-fa4e1782-0516-4867-9586-f709850a8d96.cdx.idx" source="original">
+    <mtime>1471753931</mtime>
+    <size>97</size>
+    <md5>9d66a4036504e599495fbcbf2bff9187</md5>
+    <crc32>71cf19e6</crc32>
+    <sha1>6a261ea0185400a2e4e18ea26aaa4137b456faa2</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-21-06-29-38-740419398-2b303230300a-fa4e1782-0516-4867-9586-f709850a8d96.cdx.gz" source="original">
+    <mtime>1471753931</mtime>
+    <size>27131</size>
+    <md5>5c59609394e4318b58ce1fed1b5957e9</md5>
+    <crc32>9cb40ea6</crc32>
+    <sha1>1b6a1d4c78686ecc1aac96e76a644b96ceade2f9</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-21-06-29-38-740419398-2b303230300a-fa4e1782-0516-4867-9586-f709850a8d96_archive.torrent" source="metadata">
+    <btih>ff21d0ed2e3d7f166923adbe460412092b6a01b5</btih>
+    <mtime>1471753932</mtime>
+    <size>4071</size>
+    <md5>739ca6c4282f27730dcda6fdb957cf87</md5>
+    <crc32>caa54631</crc32>
+    <sha1>4eaa69d9a801f69af9d3b22a378578ed7b1aebf4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-21-06-29-38-740419398-2b303230300a-fa4e1782-0516-4867-9586-f709850a8d96_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>7e6dd69c0e68e2167bd99799c92a9349</md5>
+  </file>
+</files>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="megawarc-fix" source="original">
+    <format>Unknown</format>
+    <mtime>1385338916</mtime>
+    <size>8115</size>
+    <md5>3a1a9bbd687cc3d660f52f846dce112d</md5>
+    <crc32>82e5e3ee</crc32>
+    <sha1>723cb1a4da68282eeb5978bb669ed597fc683d2e</sha1>
+  </file>
+  <file name="megawarc-fix.2013-11-24-19-13-57-018794-_E_meta.sqlite" source="original">
+    <format>Metadata</format>
+    <mtime>1385338928</mtime>
+    <size>6144</size>
+    <md5>989df08ec577b392ddd1113020caee48</md5>
+    <crc32>16444972</crc32>
+    <sha1>64f6c69730beab7e6d23ade61d0318245674b1f5</sha1>
+  </file>
+  <file name="megawarc-fix.2013-11-24-19-13-57-018794-_E_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1471787707</mtime>
+    <size>577</size>
+    <md5>12a1fe1fe502c2f7e421f90adc01361a</md5>
+    <crc32>8a3b2544</crc32>
+    <sha1>4b4e028653b6d154b66ccdd0e8b536bdf03a89cf</sha1>
+  </file>
+  <file name="megawarc-fix.2013-11-24-19-13-57-018794-_E_archive.torrent" source="metadata">
+    <btih>ee74b70ac7bfec8f44933a48ab4122277f954c44</btih>
+    <mtime>1471787708</mtime>
+    <size>1913</size>
+    <md5>14397b66892dc9148af0766ebe5d459b</md5>
+    <crc32>17ee8553</crc32>
+    <sha1>ded742001ccc2427825784723c5288e89648d7b8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="megawarc-fix.2013-11-24-19-13-57-018794-_E_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ac7a2462b4f0f6c72bb04186085edacc</md5>
+  </file>
+</files>

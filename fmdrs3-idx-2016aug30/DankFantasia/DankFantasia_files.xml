@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="1. #DankFantasia.m4a" source="original">
+    <mtime>1447915716</mtime>
+    <size>65208098</size>
+    <md5>64cd1ad90e5a48382ea4804a0e830bfb</md5>
+    <crc32>7750a2c5</crc32>
+    <sha1>194a00282c4bd7b94f6a81517989d2f404f964a5</sha1>
+    <format>Apple Lossless Audio</format>
+  </file>
+  <file name="DankFantasia_meta.sqlite" source="original">
+    <mtime>1447915744</mtime>
+    <size>13312</size>
+    <format>Metadata</format>
+    <md5>e0b984ce12dd6610fef8d020f909c7a6</md5>
+    <crc32>dae2fc63</crc32>
+    <sha1>9990f5055d49261a7ba2325761eb4618e6ae390c</sha1>
+  </file>
+  <file name="1t.png" source="original">
+    <mtime>1447915739</mtime>
+    <size>28024</size>
+    <md5>acc07c164115e9c1de36a60f1d7a8376</md5>
+    <crc32>399a7f1c</crc32>
+    <sha1>b62bf9e3327c21aabeccf94899dde13f46a8fd39</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="1.png" source="original">
+    <mtime>1447915735</mtime>
+    <size>153643</size>
+    <md5>9f292fa2b353e1d08aa92e1cd1a6e06f</md5>
+    <crc32>178a0229</crc32>
+    <sha1>fa6279b328e6f95222a0b945e5cf3322c2b1cc86</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="1. #DankFantasia.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>1. #DankFantasia.m4a</original>
+    <mtime>1447915855</mtime>
+    <size>61200</size>
+    <md5>08482f6ee930fe2ebbbbec05a414f276</md5>
+    <crc32>ca58f421</crc32>
+    <sha1>fcb54bac1241f57e7290e57eace2738136630555</sha1>
+  </file>
+  <file name="1_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>1.png</original>
+    <mtime>1447915787</mtime>
+    <size>5639</size>
+    <md5>ba95a7baf8cfaade0f3f2033fa858f31</md5>
+    <crc32>2cbb1650</crc32>
+    <sha1>85aaf505a59b9e214d72d677e6701ef8ded27ef1</sha1>
+  </file>
+  <file name="1. #DankFantasia.png" source="derivative">
+    <format>PNG</format>
+    <original>1. #DankFantasia.m4a</original>
+    <mtime>1447915804</mtime>
+    <size>9662</size>
+    <md5>a58368635667da2fff8292ff69e2682d</md5>
+    <crc32>2666965a</crc32>
+    <sha1>98ea510b5010b19f303174d5399d722188a46461</sha1>
+  </file>
+  <file name="1t_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>1t.png</original>
+    <mtime>1447915786</mtime>
+    <size>3315</size>
+    <md5>1190883d6581a8f95ac733b8b822654b</md5>
+    <crc32>b35c66fb</crc32>
+    <sha1>3dc75cd9173b6587bbcb9b356ede6fe350794a0c</sha1>
+  </file>
+  <file name="DankFantasia_meta.xml" source="original">
+    <mtime>1447915873</mtime>
+    <size>887</size>
+    <format>Metadata</format>
+    <md5>12cc63154949bdfb5b717d90b0a84231</md5>
+    <crc32>c45722ad</crc32>
+    <sha1>a0aaa203148a452acb2716e7a2960d648bc6aaea</sha1>
+  </file>
+  <file name="1. #DankFantasia.mp3" source="derivative">
+    <bitrate>189</bitrate>
+    <length>05:20</length>
+    <format>VBR MP3</format>
+    <original>1. #DankFantasia.m4a</original>
+    <mtime>1447915768</mtime>
+    <size>7565312</size>
+    <md5>857d7c7c8b3dbd8e50d2fa9a49cd4aa0</md5>
+    <crc32>f0bff033</crc32>
+    <sha1>1c3d4eeaa4f68da39494e0c40fc80107ea718bbe</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="1. #DankFantasia_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>1. #DankFantasia.m4a</original>
+    <mtime>1447915841</mtime>
+    <size>25647</size>
+    <md5>5e97bac6c284792cca2777fab487f1d4</md5>
+    <crc32>9c9b6220</crc32>
+    <sha1>36d9341e0ef156da0c5bd158170532da4d3ed563</sha1>
+  </file>
+  <file name="1. #DankFantasia.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>1. #DankFantasia.m4a</original>
+    <mtime>1447915785</mtime>
+    <size>3605482</size>
+    <md5>13d41f23ef95255c297b453d69586e96</md5>
+    <crc32>690b80ab</crc32>
+    <sha1>3cb2a3fa8f647f898c5dad0d264743c03cfa71d7</sha1>
+    <length>320</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="1. #DankFantasia_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>1. #DankFantasia_esslow.json.gz</original>
+    <mtime>1447915867</mtime>
+    <size>1908</size>
+    <md5>4e819407257d705dfa71e440aa4855a6</md5>
+    <crc32>48369018</crc32>
+    <sha1>527deec8641e1ce089bdc274f8f0a82df876fdcd</sha1>
+  </file>
+  <file name="DankFantasia_archive.torrent" source="metadata">
+    <btih>3265de5c0ee66348dae0564dec1e5d0541a715bc</btih>
+    <mtime>1447915880</mtime>
+    <size>6295</size>
+    <md5>c39a790d1376321890f0757f6547176b</md5>
+    <crc32>fc5e89f6</crc32>
+    <sha1>afd71ecb68916c699a82e7466ee73828b3309469</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="DankFantasia_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6b29afb18daa4d0c1cd10e100a230fbe</md5>
+  </file>
+</files>

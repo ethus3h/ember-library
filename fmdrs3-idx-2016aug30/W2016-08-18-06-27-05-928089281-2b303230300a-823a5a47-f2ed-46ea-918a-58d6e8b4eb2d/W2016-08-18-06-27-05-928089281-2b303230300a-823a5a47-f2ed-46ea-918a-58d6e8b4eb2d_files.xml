@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.pledgebank.com-nouveaudriver-2016-08-17-5f969ef5-00000.warc.gz" source="original">
+    <mtime>1471494434</mtime>
+    <size>202304</size>
+    <md5>5b1a44be17c4b6b775b47f86d629d04c</md5>
+    <crc32>161a26c9</crc32>
+    <sha1>eb5d95c374a5fd56025325001422db54363e86a0</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-18-06-27-05-928089281-2b303230300a-823a5a47-f2ed-46ea-918a-58d6e8b4eb2d_meta.sqlite" source="original">
+    <mtime>1471494450</mtime>
+    <size>8192</size>
+    <md5>84fa99d836aeb9b67ba76fbae9c7c928</md5>
+    <crc32>94b1607a</crc32>
+    <sha1>332eddffecb1910eed26a9ec1d46c71d288f1130</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-18-06-27-05-928089281-2b303230300a-823a5a47-f2ed-46ea-918a-58d6e8b4eb2d_meta.xml" source="original">
+    <mtime>1471494454</mtime>
+    <size>838</size>
+    <md5>0952476ffd964087dbfba81a12cc25cd</md5>
+    <crc32>6013c573</crc32>
+    <sha1>97227e293dd118757058c48484c6b000766335a4</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.pledgebank.com-nouveaudriver-2016-08-17-5f969ef5-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.pledgebank.com-nouveaudriver-2016-08-17-5f969ef5-00000.warc.gz</original>
+    <mtime>1471530044</mtime>
+    <size>2218</size>
+    <md5>0375179067998924817a37588b3adeef</md5>
+    <crc32>b9a41362</crc32>
+    <sha1>60d87ec2ede8710c63971a424478c6e30497063f</sha1>
+  </file>
+  <file name="W2016-08-18-06-27-05-928089281-2b303230300a-823a5a47-f2ed-46ea-918a-58d6e8b4eb2d.cdx.gz" source="original">
+    <mtime>1471531841</mtime>
+    <size>2186</size>
+    <md5>bd399dc98e50069c540ac624706b955c</md5>
+    <crc32>a863568e</crc32>
+    <sha1>7b1d25e3d1e4b3e98b6e7b3b2d56f07cb8c5126f</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-18-06-27-05-928089281-2b303230300a-823a5a47-f2ed-46ea-918a-58d6e8b4eb2d.cdx.idx" source="original">
+    <mtime>1471531841</mtime>
+    <size>96</size>
+    <md5>23e9961f883e0ded3385043c0b2edfbc</md5>
+    <crc32>8e62dfc7</crc32>
+    <sha1>db2cc642a7910029eb6702e6f06956c2eda0fa0c</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-18-06-27-05-928089281-2b303230300a-823a5a47-f2ed-46ea-918a-58d6e8b4eb2d_archive.torrent" source="metadata">
+    <btih>a43dc148303b4ddb3e5b638b7807efd52e0bfea6</btih>
+    <mtime>1471531842</mtime>
+    <size>3014</size>
+    <md5>23871f6db3cb50f61441045f0b23e9a3</md5>
+    <crc32>e205dc38</crc32>
+    <sha1>11a087fed4b1d7b45a4154a61fadf3829f257ca0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-18-06-27-05-928089281-2b303230300a-823a5a47-f2ed-46ea-918a-58d6e8b4eb2d_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2f9599e22d62262c51115f40fdb20844</md5>
+  </file>
+</files>

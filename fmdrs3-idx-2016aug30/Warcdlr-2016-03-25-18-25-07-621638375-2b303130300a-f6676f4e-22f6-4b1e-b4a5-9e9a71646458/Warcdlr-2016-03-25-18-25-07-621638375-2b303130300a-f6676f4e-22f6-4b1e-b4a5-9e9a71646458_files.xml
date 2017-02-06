@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="en.wikipedia.org-wiki-Special-Export-Sally_Lutyens-history=1-2016-03-25-7a1860d6-00000.warc.gz" source="original">
+    <mtime>1458926714</mtime>
+    <size>11512</size>
+    <md5>312987935c5fb3fa5c163206b34384a5</md5>
+    <crc32>38432977</crc32>
+    <sha1>f9516d0802a9f7839fefae31d181e1d3ff4515d2</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-03-25-18-25-07-621638375-2b303130300a-f6676f4e-22f6-4b1e-b4a5-9e9a71646458_meta.sqlite" source="original">
+    <mtime>1458926726</mtime>
+    <size>8192</size>
+    <md5>f4953f82a29d82f05ecdc2b901a67f1d</md5>
+    <crc32>1577aa0c</crc32>
+    <sha1>039e8ecbf93d18a976142ba78be384b5daf98996</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Warcdlr-2016-03-25-18-25-07-621638375-2b303130300a-f6676f4e-22f6-4b1e-b4a5-9e9a71646458_meta.xml" source="original">
+    <mtime>1458926744</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>0f572100f52e30a58feff9c502205687</md5>
+    <crc32>ae037462</crc32>
+    <sha1>333b14c0796080957616f54320a9d6b77a03a903</sha1>
+  </file>
+  <file name="en.wikipedia.org-wiki-Special-Export-Sally_Lutyens-history=1-2016-03-25-7a1860d6-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>en.wikipedia.org-wiki-Special-Export-Sally_Lutyens-history=1-2016-03-25-7a1860d6-00000.warc.gz</original>
+    <mtime>1458926752</mtime>
+    <size>300</size>
+    <md5>ef9072e7d75050740ddd17d4937d334b</md5>
+    <crc32>74593334</crc32>
+    <sha1>283b84a80c4b4316d463e3366367b0945d7ad935</sha1>
+  </file>
+  <file name="Warcdlr-2016-03-25-18-25-07-621638375-2b303130300a-f6676f4e-22f6-4b1e-b4a5-9e9a71646458.cdx.gz" source="original">
+    <mtime>1458926799</mtime>
+    <size>300</size>
+    <md5>110017ca88a968e6edf60f89f93e7743</md5>
+    <crc32>0b4db1d6</crc32>
+    <sha1>4c161ef7c2f654f921b392c45dd80cfed64c83e7</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-25-18-25-07-621638375-2b303130300a-f6676f4e-22f6-4b1e-b4a5-9e9a71646458.cdx.idx" source="original">
+    <mtime>1458926799</mtime>
+    <size>102</size>
+    <md5>439a32f56c97832650132bccee36443e</md5>
+    <crc32>1e403db2</crc32>
+    <sha1>db2914764fb2c4500fc360df7190888c95e8e337</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-25-18-25-07-621638375-2b303130300a-f6676f4e-22f6-4b1e-b4a5-9e9a71646458_archive.torrent" source="metadata">
+    <btih>17b975a75d3e5c9c217ce081ab846c7964fc4378</btih>
+    <mtime>1458926799</mtime>
+    <size>3148</size>
+    <md5>f4fe6a10243ac0c5c69a8ec9c3012730</md5>
+    <crc32>e0f981de</crc32>
+    <sha1>1d5a1340fbcf3136626d51f8fbc9890d40bf30a2</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-03-25-18-25-07-621638375-2b303130300a-f6676f4e-22f6-4b1e-b4a5-9e9a71646458_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>92376a63a1172c6fd2f1057af96f0282</md5>
+  </file>
+</files>

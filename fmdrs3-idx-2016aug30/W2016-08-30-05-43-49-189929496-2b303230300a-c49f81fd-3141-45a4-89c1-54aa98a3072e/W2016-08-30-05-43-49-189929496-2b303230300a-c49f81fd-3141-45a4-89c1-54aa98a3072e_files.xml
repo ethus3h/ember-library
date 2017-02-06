@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="umaine.edu-police-active-shooter--cc=false-2016-08-29-1c9a8484-00000.warc.gz" source="original">
+    <mtime>1472528635</mtime>
+    <size>10909</size>
+    <md5>1da5f99c6f73d22f509973fedc896fea</md5>
+    <crc32>5eb42a75</crc32>
+    <sha1>b9f7547f535e213e9ec292da16e76de38f3d3d5c</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-30-05-43-49-189929496-2b303230300a-c49f81fd-3141-45a4-89c1-54aa98a3072e_meta.xml" source="original">
+    <mtime>1472528651</mtime>
+    <size>838</size>
+    <md5>b31068e3eaf1144dd4f194f359cef140</md5>
+    <crc32>9c58f5ef</crc32>
+    <sha1>bd02a5a0d00dda622d44c1ecae2ac365c2efe445</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-30-05-43-49-189929496-2b303230300a-c49f81fd-3141-45a4-89c1-54aa98a3072e_meta.sqlite" source="original">
+    <mtime>1472528647</mtime>
+    <size>8192</size>
+    <md5>60875e9b0c0752573488fd21e0ace961</md5>
+    <crc32>77a4b727</crc32>
+    <sha1>b06a887832af7a320445f4fbbc6a9e1612410a65</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="umaine.edu-police-active-shooter--cc=false-2016-08-29-1c9a8484-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>umaine.edu-police-active-shooter--cc=false-2016-08-29-1c9a8484-00000.warc.gz</original>
+    <mtime>1472528656</mtime>
+    <size>454</size>
+    <md5>04b886ca69e1ae8399017b8bad76787a</md5>
+    <crc32>519946fe</crc32>
+    <sha1>c729484f7f07246ca80aab075eea8f04444e5e06</sha1>
+  </file>
+  <file name="W2016-08-30-05-43-49-189929496-2b303230300a-c49f81fd-3141-45a4-89c1-54aa98a3072e.cdx.gz" source="original">
+    <mtime>1472528671</mtime>
+    <size>454</size>
+    <md5>06dbc1539972993b1c296735493382ce</md5>
+    <crc32>08ce7451</crc32>
+    <sha1>6e432a9e122e15ad9146fdd7f86769529062f43e</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-30-05-43-49-189929496-2b303230300a-c49f81fd-3141-45a4-89c1-54aa98a3072e.cdx.idx" source="original">
+    <mtime>1472528671</mtime>
+    <size>95</size>
+    <md5>d7616365d8a827afdac28b342c370a82</md5>
+    <crc32>4c3e010b</crc32>
+    <sha1>295f3e11c1ff88711912ea61d923a61401c25096</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-30-05-43-49-189929496-2b303230300a-c49f81fd-3141-45a4-89c1-54aa98a3072e_archive.torrent" source="metadata">
+    <btih>b6e55e29759996a2aa47589e6b543272e847dba4</btih>
+    <mtime>1472528671</mtime>
+    <size>3033</size>
+    <md5>0ea631d56e1769c3603f4714ac9776e8</md5>
+    <crc32>eec0bfb4</crc32>
+    <sha1>12abb002e9ba078931ccc980bf4eb18f54d68526</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-30-05-43-49-189929496-2b303230300a-c49f81fd-3141-45a4-89c1-54aa98a3072e_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4eb156120e92a1c64bcd2fe7baf7a382</md5>
+  </file>
+</files>

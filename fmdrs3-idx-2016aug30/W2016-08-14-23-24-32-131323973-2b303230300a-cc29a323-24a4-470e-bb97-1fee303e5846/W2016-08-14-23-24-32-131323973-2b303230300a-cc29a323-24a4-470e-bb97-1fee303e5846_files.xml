@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="web.archive.org-web-20050428083354-http---www.ntsb.gov-ntsb-brief.asp-ev_id=20001211X13319-key=1-2016-08-14-069a21f9-00000.warc.gz" source="original">
+    <mtime>1471209880</mtime>
+    <size>45128</size>
+    <md5>d61b83dea21221bb7ce6797bd1d3dd14</md5>
+    <crc32>67592fb0</crc32>
+    <sha1>93c5490eb7e1d983689a4199643558021aef871e</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-14-23-24-32-131323973-2b303230300a-cc29a323-24a4-470e-bb97-1fee303e5846_meta.xml" source="original">
+    <mtime>1471209897</mtime>
+    <size>838</size>
+    <md5>578fad25043a7a88de12a037e5c73ae8</md5>
+    <crc32>7c2d24b6</crc32>
+    <sha1>22c200e7d559e14ecf7e8d2cac54f03e2160ce3f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-14-23-24-32-131323973-2b303230300a-cc29a323-24a4-470e-bb97-1fee303e5846_meta.sqlite" source="original">
+    <mtime>1471209893</mtime>
+    <size>9216</size>
+    <md5>9b3937d86f2ffe16fe9fa5e136202122</md5>
+    <crc32>412861bd</crc32>
+    <sha1>46262dffd807baf3f61cfc25d28c8d21e48cf9e9</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="web.archive.org-web-20050428083354-http---www.ntsb.gov-ntsb-brief.asp-ev_id=20001211X13319-key=1-2016-08-14-069a21f9-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>web.archive.org-web-20050428083354-http---www.ntsb.gov-ntsb-brief.asp-ev_id=20001211X13319-key=1-2016-08-14-069a21f9-00000.warc.gz</original>
+    <mtime>1471209901</mtime>
+    <size>1199</size>
+    <md5>8e5f91f04de764b6c1b167c59b0119da</md5>
+    <crc32>17b3078a</crc32>
+    <sha1>a11ccade6426910434d990949ed7d91d8e888d38</sha1>
+  </file>
+  <file name="W2016-08-14-23-24-32-131323973-2b303230300a-cc29a323-24a4-470e-bb97-1fee303e5846.cdx.idx" source="original">
+    <mtime>1471209912</mtime>
+    <size>96</size>
+    <md5>d2c79305ee4d207a4087d65f420d2e4c</md5>
+    <crc32>3c97166c</crc32>
+    <sha1>74c74bcc5f3753a26fa32bf1745431c8101f80e3</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-14-23-24-32-131323973-2b303230300a-cc29a323-24a4-470e-bb97-1fee303e5846.cdx.gz" source="original">
+    <mtime>1471209912</mtime>
+    <size>1191</size>
+    <md5>0aa177d03487ba7509e4d3c2ad4b547e</md5>
+    <crc32>b8ffc642</crc32>
+    <sha1>78d0af39c90a952f07468ba3bb237aa122b726b8</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-14-23-24-32-131323973-2b303230300a-cc29a323-24a4-470e-bb97-1fee303e5846_archive.torrent" source="metadata">
+    <btih>01b5c17cd61d58794d8d8531a9516f88b683fc6a</btih>
+    <mtime>1471209912</mtime>
+    <size>3145</size>
+    <md5>ef546cec2551e667443666e1f9b797e8</md5>
+    <crc32>66f2adda</crc32>
+    <sha1>c1c03a12e83a0e36adf32333e195c2a71abb975f</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-14-23-24-32-131323973-2b303230300a-cc29a323-24a4-470e-bb97-1fee303e5846_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0cffbab5fd54e27968a115f84905e5d9</md5>
+  </file>
+</files>

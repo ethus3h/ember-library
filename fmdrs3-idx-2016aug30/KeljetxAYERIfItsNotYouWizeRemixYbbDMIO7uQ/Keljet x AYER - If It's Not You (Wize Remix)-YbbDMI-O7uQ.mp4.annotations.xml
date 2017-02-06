@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_4107588647" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fbeautifulvibesmusic&amp;l-class=3&amp;a-type=1&amp;len-sec=22&amp;a-id=annotation_4107588647">
+  <TEXT>Subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="19.84100" h="9.45100" t="4:44.143"/>
+      <rectRegion x="0.00000" y="0.00000" w="19.84100" h="9.45100" t="5:06.433"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/beautifulvibesmusic" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:54c9d574-0000-2051-ab96-001a113d4b18" style="video" type="promotion"
+            log_data="ret-exp=-4&amp;ret-t=15&amp;xble=1&amp;link-id=idWW1a8ossA&amp;msg=0&amp;a-ch=UC6K7DD3kRrO96q7lFixx_IQ&amp;ret-smrt=1&amp;is-live=0&amp;a-v=YbbDMI-O7uQ&amp;a-type=13&amp;len-sec=15&amp;a-id=54c9d574-0000-2051-ab96-001a113d4b18">
+  <data>{&quot;end_ms&quot;: 307000, &quot;is_live&quot;: false, &quot;is_mobile&quot;: false, &quot;collapse_delay_ms&quot;: 86400000, &quot;image_url&quot;: &quot;https:\/\/i.ytimg.com\/vi\/idWW1a8ossA\/mqdefault.jpg&quot;, &quot;start_ms&quot;: 292000, &quot;video_duration&quot;: &quot;4:14&quot;, &quot;text_line_1&quot;: &quot;Suggested by Beautiful Vibes&quot;, &quot;text_line_2&quot;: &quot;The Notorious B.I.G. - Everyday Struggle (James Carter, DFLV \u0026 Erik Remix)&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=idWW1a8ossA&amp;feature=iv&amp;annotation_id=54c9d574-0000-2051-ab96-001a113d4b18&amp;src_vid=YbbDMI-O7uQ"/>
+  </action>
+</annotation>
+</annotations></document>

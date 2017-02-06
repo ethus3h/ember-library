@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="d" source="original">
+    <mtime>1441916712</mtime>
+    <size>5300260649</size>
+    <md5>fe62aa94cf40aa6122a5fe1b470bef20</md5>
+    <crc32>cd92db4e</crc32>
+    <sha1>c5250151e29503cfed64471cb36a5eaec696c7d9</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="d.09102015_meta.sqlite" source="original">
+    <mtime>1441916820</mtime>
+    <size>9216</size>
+    <md5>2654082bcb373be49e8dce8271b5b223</md5>
+    <crc32>e41e5856</crc32>
+    <sha1>1ac586f92e14f1b9d7f753415211d9be380e2af5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="d.09102015_meta.xml" source="original">
+    <mtime>1441917226</mtime>
+    <size>747</size>
+    <format>Metadata</format>
+    <md5>e7b175a697e285eb37d2ea3c17d11c5a</md5>
+    <crc32>57ab5d41</crc32>
+    <sha1>3df1ab8002701114444020c1737812ca536e4df2</sha1>
+  </file>
+  <file name="d.09102015_archive.torrent" source="metadata">
+    <btih>845304f9071b0954cb6fa402f2b7f20b9362740a</btih>
+    <mtime>1441917227</mtime>
+    <size>27100</size>
+    <md5>fc95e55dc3faeff1f0e447ea38c67b3e</md5>
+    <crc32>bbb9c5c0</crc32>
+    <sha1>819cf76d2484bc04e06f731e8b6474cfbefd0819</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="d.09102015_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d052db1343ae506f9185d8459c92910e</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-09-23-27-24-411517405-2b303230300a-a26ee942-edd3-4aae-ac70-aaa489b39862_meta.sqlite" source="original">
+    <mtime>1470778065</mtime>
+    <size>8192</size>
+    <md5>45d6358e43787f4500e9d2cbe2d29d3d</md5>
+    <crc32>182a9d96</crc32>
+    <sha1>a0093a7c50dcc884809ac3d167576211c869fb90</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.bbc.com-news-world-us-canada-37025198-2016-08-09-0c45adba-meta.warc.gz" source="original">
+    <mtime>1470778051</mtime>
+    <size>11276</size>
+    <md5>c72a1f73e2b23e929bc8b69b822c7b76</md5>
+    <crc32>ae0019ee</crc32>
+    <sha1>35bd75757c51c1edfcb120bf4358c075691d8bc9</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-09-23-27-24-411517405-2b303230300a-a26ee942-edd3-4aae-ac70-aaa489b39862_meta.xml" source="original">
+    <mtime>1470778069</mtime>
+    <size>838</size>
+    <md5>a43c0e7dad9974966e7793a94e47d507</md5>
+    <crc32>f0ae269c</crc32>
+    <sha1>efda123e94b7f01f1ce78e63e96ba74bafb37a7c</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.bbc.com-news-world-us-canada-37025198-2016-08-09-0c45adba-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.bbc.com-news-world-us-canada-37025198-2016-08-09-0c45adba-meta.warc.gz</original>
+    <mtime>1470819330</mtime>
+    <size>47</size>
+    <md5>3ca5dfc5bcf84d984e5b2ea0bf3deecb</md5>
+    <crc32>afca363d</crc32>
+    <sha1>499d7d97f6ee69d1fdd5d8bd317250a6144441c3</sha1>
+  </file>
+  <file name="W2016-08-09-23-27-24-411517405-2b303230300a-a26ee942-edd3-4aae-ac70-aaa489b39862.cdx.gz" source="original">
+    <mtime>1470828926</mtime>
+    <size>47</size>
+    <md5>471730f01c25865487dcd77642c6bb1a</md5>
+    <crc32>f6591cd3</crc32>
+    <sha1>0a3e0653cca8bc81c556f7ce7b6f6dc0c26ca136</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-09-23-27-24-411517405-2b303230300a-a26ee942-edd3-4aae-ac70-aaa489b39862.cdx.idx" source="original">
+    <mtime>1470828926</mtime>
+    <size>94</size>
+    <md5>51baddefde0ab374db781db53885af4b</md5>
+    <crc32>1944f9da</crc32>
+    <sha1>a425109d4df0cacea80c31b73e86c09a9ec61321</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-09-23-27-24-411517405-2b303230300a-a26ee942-edd3-4aae-ac70-aaa489b39862_archive.torrent" source="metadata">
+    <btih>a0472198dc2879d36cd61febf988c39dff242680</btih>
+    <mtime>1470828927</mtime>
+    <size>3027</size>
+    <md5>db7be39bb98b960d2a7b60c42b5949b2</md5>
+    <crc32>48e7108d</crc32>
+    <sha1>a93a130ea59e99d38d0e3265a5edf62e5975e42a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-09-23-27-24-411517405-2b303230300a-a26ee942-edd3-4aae-ac70-aaa489b39862_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>8832d5a4f9eba8e6fd7a6822fabb6fcf</md5>
+  </file>
+</files>

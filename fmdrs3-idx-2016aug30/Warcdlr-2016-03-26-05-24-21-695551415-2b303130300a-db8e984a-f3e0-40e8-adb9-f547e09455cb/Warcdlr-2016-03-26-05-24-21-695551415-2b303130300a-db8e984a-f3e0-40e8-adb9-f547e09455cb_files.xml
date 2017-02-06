@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.asahi-net.or.jp--AX2S-KMTN-ref-jisx0208.html-2016-03-25-863b33fb-00000.warc.gz" source="original">
+    <mtime>1458966272</mtime>
+    <size>632153</size>
+    <md5>05f364603aa95963123782b527feea14</md5>
+    <crc32>beb5924c</crc32>
+    <sha1>a5de30774b8c343a4159534d585b14597b79ad70</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-05-24-21-695551415-2b303130300a-db8e984a-f3e0-40e8-adb9-f547e09455cb_meta.sqlite" source="original">
+    <mtime>1458966287</mtime>
+    <size>8192</size>
+    <md5>8cdd34e97af536dfb8a17b7caa91f0df</md5>
+    <crc32>23437573</crc32>
+    <sha1>c16bef481893ede83d59b17065f6c9ca10b16ffb</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-05-24-21-695551415-2b303130300a-db8e984a-f3e0-40e8-adb9-f547e09455cb_meta.xml" source="original">
+    <mtime>1458966294</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>2b5fa2cf138f246394d1a38bda24b122</md5>
+    <crc32>333dbecd</crc32>
+    <sha1>ae88954a6233e6efaa1b319f0e9cdeeefdd34840</sha1>
+  </file>
+  <file name="www.asahi-net.or.jp--AX2S-KMTN-ref-jisx0208.html-2016-03-25-863b33fb-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.asahi-net.or.jp--AX2S-KMTN-ref-jisx0208.html-2016-03-25-863b33fb-00000.warc.gz</original>
+    <mtime>1458966298</mtime>
+    <size>5338</size>
+    <md5>18a24e305f8c350555834866ff5b9217</md5>
+    <crc32>52fe0e0b</crc32>
+    <sha1>15a3e2bb6db2b3caab11c497e03aa974f8b57955</sha1>
+  </file>
+  <file name="Warcdlr-2016-03-26-05-24-21-695551415-2b303130300a-db8e984a-f3e0-40e8-adb9-f547e09455cb.cdx.gz" source="original">
+    <mtime>1458966308</mtime>
+    <size>5187</size>
+    <md5>27713c91a6b344c3358b40cf480041c8</md5>
+    <crc32>c7fd6cf6</crc32>
+    <sha1>2acedc9f5e32e3841219a4e4d81ca1bd48a355aa</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-05-24-21-695551415-2b303130300a-db8e984a-f3e0-40e8-adb9-f547e09455cb.cdx.idx" source="original">
+    <mtime>1458966308</mtime>
+    <size>103</size>
+    <md5>2ff77d1752e0f4c408f4ad378a3bdf01</md5>
+    <crc32>b6b88e8f</crc32>
+    <sha1>2c4117b4fca55c2c7dedf63d7e0cc9446909d90b</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-05-24-21-695551415-2b303130300a-db8e984a-f3e0-40e8-adb9-f547e09455cb_archive.torrent" source="metadata">
+    <btih>bcae34116d1bd4bb56467d33c7913f36d4150b72</btih>
+    <mtime>1458966308</mtime>
+    <size>3146</size>
+    <md5>34435f8ae20b356767d32527b8c1af45</md5>
+    <crc32>5e13d9f4</crc32>
+    <sha1>1ef86b71e36a01d51d7bcdecde6990af560c4c24</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-05-24-21-695551415-2b303130300a-db8e984a-f3e0-40e8-adb9-f547e09455cb_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>57551365b1b3ed6bcd3b21aba3d5a70b</md5>
+  </file>
+</files>

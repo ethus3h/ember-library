@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="upload.wikimedia.org-wikipedia-commons-thumb-a-ab-Joe_Mantegna_2014.jpg-220px-Joe_Mantegna_2014.jpg-2016-08-20-997355f4-meta.warc.gz" source="original">
+    <mtime>1471753407</mtime>
+    <size>3142</size>
+    <md5>b4641baf6fae0fe112b531187babfe29</md5>
+    <crc32>8fc851bd</crc32>
+    <sha1>153e477a5c783e16a95b816cf868ce0b5bcd7b50</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-21-06-23-16-066768123-2b303230300a-d5c5f5da-1cfe-4351-8ce9-59df2c9219e4_meta.sqlite" source="original">
+    <mtime>1471753423</mtime>
+    <size>9216</size>
+    <md5>ae0b08c49e26d3d02c2e2a5f5060ccdf</md5>
+    <crc32>1418c58d</crc32>
+    <sha1>b047aa9b08bab70a3e7250f605cafadab989571f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-21-06-23-16-066768123-2b303230300a-d5c5f5da-1cfe-4351-8ce9-59df2c9219e4_meta.xml" source="original">
+    <mtime>1471753427</mtime>
+    <size>838</size>
+    <md5>494cb57c520a035645d65eb37abf01af</md5>
+    <crc32>bbd3a93e</crc32>
+    <sha1>d3e0553df9bec8c28f01dd499d60decf9d173b31</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="upload.wikimedia.org-wikipedia-commons-thumb-a-ab-Joe_Mantegna_2014.jpg-220px-Joe_Mantegna_2014.jpg-2016-08-20-997355f4-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>upload.wikimedia.org-wikipedia-commons-thumb-a-ab-Joe_Mantegna_2014.jpg-220px-Joe_Mantegna_2014.jpg-2016-08-20-997355f4-meta.warc.gz</original>
+    <mtime>1471753437</mtime>
+    <size>47</size>
+    <md5>af835af5e5c8087021228c5643d2e30c</md5>
+    <crc32>a76d76ae</crc32>
+    <sha1>f2960768676f5ce74dfcd4201620818311fb8ef1</sha1>
+  </file>
+  <file name="W2016-08-21-06-23-16-066768123-2b303230300a-d5c5f5da-1cfe-4351-8ce9-59df2c9219e4.cdx.gz" source="original">
+    <mtime>1471753460</mtime>
+    <size>47</size>
+    <md5>0ce9f7d3a35f44fcb3d72975d65535b4</md5>
+    <crc32>58cc83c2</crc32>
+    <sha1>dfc5ac185614435943c3562ea4e30f1f60d6f271</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-21-06-23-16-066768123-2b303230300a-d5c5f5da-1cfe-4351-8ce9-59df2c9219e4.cdx.idx" source="original">
+    <mtime>1471753460</mtime>
+    <size>94</size>
+    <md5>7c9e81202b0903ac9d15ed851d90f6e4</md5>
+    <crc32>86dfe8d8</crc32>
+    <sha1>ae69e18410727c6a779449bc8086b4ae1dff6caa</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-21-06-23-16-066768123-2b303230300a-d5c5f5da-1cfe-4351-8ce9-59df2c9219e4_archive.torrent" source="metadata">
+    <btih>8270ddf8b86d26aa6b54f0b10b117d586280a2b8</btih>
+    <mtime>1471753460</mtime>
+    <size>3144</size>
+    <md5>b59260a7277886fa4b6b3602443f6227</md5>
+    <crc32>20431783</crc32>
+    <sha1>c311e2e9548e79fb3957ae41b93e420704c0b996</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-21-06-23-16-066768123-2b303230300a-d5c5f5da-1cfe-4351-8ce9-59df2c9219e4_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>cffdde23c86c2d18ff983043da92337b</md5>
+  </file>
+</files>

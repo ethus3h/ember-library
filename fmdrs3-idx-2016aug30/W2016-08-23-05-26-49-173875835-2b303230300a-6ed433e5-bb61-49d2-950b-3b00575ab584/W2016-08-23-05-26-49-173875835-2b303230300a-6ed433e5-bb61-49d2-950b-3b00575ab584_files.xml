@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="emojipedia.org-unicorn-face-2016-08-22-57e8d514-00000.warc.gz" source="original">
+    <mtime>1471922817</mtime>
+    <size>1024219</size>
+    <md5>32125aaf405423c2b3646c377664e8d3</md5>
+    <crc32>22729711</crc32>
+    <sha1>a0fbba6f40584c28d251c5170d2393f91ea11368</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-23-05-26-49-173875835-2b303230300a-6ed433e5-bb61-49d2-950b-3b00575ab584_meta.xml" source="original">
+    <mtime>1471922840</mtime>
+    <size>838</size>
+    <md5>e21b20970e8408afdecda50a2bb57ce0</md5>
+    <crc32>350b4588</crc32>
+    <sha1>32a25a5a3cca46d6144a3324d3be35e81b180647</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-23-05-26-49-173875835-2b303230300a-6ed433e5-bb61-49d2-950b-3b00575ab584_meta.sqlite" source="original">
+    <mtime>1471922835</mtime>
+    <size>8192</size>
+    <md5>c6a9812479123e7dd1472f3177b8a17f</md5>
+    <crc32>ecf78421</crc32>
+    <sha1>ea340f2124563695fdf7e8e0b5d58e9dbd0b53ac</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="emojipedia.org-unicorn-face-2016-08-22-57e8d514-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>emojipedia.org-unicorn-face-2016-08-22-57e8d514-00000.warc.gz</original>
+    <mtime>1471922844</mtime>
+    <size>3784</size>
+    <md5>1969c0faa178cf0eaeaa8e3e1316ced7</md5>
+    <crc32>a5d3dae6</crc32>
+    <sha1>57b1c0a651fd9e2617c30b7d368362b753f7de8d</sha1>
+  </file>
+  <file name="W2016-08-23-05-26-49-173875835-2b303230300a-6ed433e5-bb61-49d2-950b-3b00575ab584.cdx.gz" source="original">
+    <mtime>1471922855</mtime>
+    <size>3718</size>
+    <md5>70016054da4a05ba76e7a1f48810f3db</md5>
+    <crc32>0a081638</crc32>
+    <sha1>e1d8f79ef34a5103438551dad0f4391c07d08680</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-23-05-26-49-173875835-2b303230300a-6ed433e5-bb61-49d2-950b-3b00575ab584.cdx.idx" source="original">
+    <mtime>1471922855</mtime>
+    <size>96</size>
+    <md5>e08dcfb5264408af758da03ab1f26857</md5>
+    <crc32>68a6be64</crc32>
+    <sha1>fcff5abf671acf2a6607eeae1c3b560fbc07604d</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-23-05-26-49-173875835-2b303230300a-6ed433e5-bb61-49d2-950b-3b00575ab584_archive.torrent" source="metadata">
+    <btih>7a47870a9282082beedc932e911c0a8cce4da602</btih>
+    <mtime>1471922855</mtime>
+    <size>3025</size>
+    <md5>63e39dc0a3e16f167de7af1a465988e2</md5>
+    <crc32>cbbebbd0</crc32>
+    <sha1>4af922672ee3540054ac052367866ecbfff34f47</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-23-05-26-49-173875835-2b303230300a-6ed433e5-bb61-49d2-950b-3b00575ab584_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2646c76d3f8f4ec7db184373da61d35f</md5>
+  </file>
+</files>

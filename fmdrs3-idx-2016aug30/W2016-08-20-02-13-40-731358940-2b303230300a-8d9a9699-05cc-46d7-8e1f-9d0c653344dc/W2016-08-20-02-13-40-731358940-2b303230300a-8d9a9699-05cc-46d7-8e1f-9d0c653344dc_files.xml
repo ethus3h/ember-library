@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-20-02-13-40-731358940-2b303230300a-8d9a9699-05cc-46d7-8e1f-9d0c653344dc_meta.sqlite" source="original">
+    <mtime>1471652044</mtime>
+    <size>8192</size>
+    <md5>197b1cde0ed26c462f1ca3cb63cdf609</md5>
+    <crc32>016cb5ff</crc32>
+    <sha1>daa3077c438f15a7cb0d244e8021d53dc69853bc</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="beta.musicbrainz.org-en.wikipedia.org-wiki-2016-08-19-34469a77-00000.warc.gz" source="original">
+    <mtime>1471652031</mtime>
+    <size>12878933</size>
+    <md5>f12179714b20317c73f76759d43d5d56</md5>
+    <crc32>9f928a33</crc32>
+    <sha1>54adb83b5d879828e57b70cd472e7316252c5849</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-20-02-13-40-731358940-2b303230300a-8d9a9699-05cc-46d7-8e1f-9d0c653344dc_meta.xml" source="original">
+    <mtime>1471652049</mtime>
+    <size>838</size>
+    <md5>b468c8693b0aa0bcad9143d4be216d21</md5>
+    <crc32>c14ee645</crc32>
+    <sha1>d0fdb0e9866b8c27ac6dab556a8f3c049a3a7ad8</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="beta.musicbrainz.org-en.wikipedia.org-wiki-2016-08-19-34469a77-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>beta.musicbrainz.org-en.wikipedia.org-wiki-2016-08-19-34469a77-00000.warc.gz</original>
+    <mtime>1471652057</mtime>
+    <size>66362</size>
+    <md5>2fe3481532caf0c86089e7b741725cab</md5>
+    <crc32>9f2db3fe</crc32>
+    <sha1>57db107d0ea602dee4eecb86f45393e174e784c2</sha1>
+  </file>
+  <file name="W2016-08-20-02-13-40-731358940-2b303230300a-8d9a9699-05cc-46d7-8e1f-9d0c653344dc.cdx.gz" source="original">
+    <mtime>1471652067</mtime>
+    <size>65101</size>
+    <md5>02be62d9f51c4abae87e989dbc177599</md5>
+    <crc32>e439c106</crc32>
+    <sha1>48b5b382d7bfcf204f0dbb163e8b863cc953dc31</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-20-02-13-40-731358940-2b303230300a-8d9a9699-05cc-46d7-8e1f-9d0c653344dc.cdx.idx" source="original">
+    <mtime>1471652067</mtime>
+    <size>97</size>
+    <md5>152c5cde2527c77208a8f4b8b0c8faec</md5>
+    <crc32>842ae817</crc32>
+    <sha1>170b875a80ca59aa530f2a0ceace96a32690c149</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-20-02-13-40-731358940-2b303230300a-8d9a9699-05cc-46d7-8e1f-9d0c653344dc_archive.torrent" source="metadata">
+    <btih>2f6bb25c2e958d03fbe5ab1ae4362f50995dea92</btih>
+    <mtime>1471652068</mtime>
+    <size>3519</size>
+    <md5>fedf41dd2b439eace02324bd7134b977</md5>
+    <crc32>873e3876</crc32>
+    <sha1>5f0801dcca26ab47b1f3e26bc57cc6fb5e27d522</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-20-02-13-40-731358940-2b303230300a-8d9a9699-05cc-46d7-8e1f-9d0c653344dc_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>952d13d2e42e52b71c8c6ce5c1ad6d2e</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="news.cnet.com-2100-1030_3-6207936.html-2016-08-13-7bf86528-00000.warc.gz" source="original">
+    <mtime>1471098965</mtime>
+    <size>4707930</size>
+    <md5>aa42c776cb81a784b17a5576442c3108</md5>
+    <crc32>89217af6</crc32>
+    <sha1>caf4328f8d8e01d9b9e92ca0e11dcf09ab39f456</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-13-16-35-57-892904482-2b303230300a-781cea56-f73e-4b48-ab78-c5566161499d_meta.sqlite" source="original">
+    <mtime>1471098978</mtime>
+    <size>8192</size>
+    <md5>985ffb282a6df6c1e77bf4b4ee0660f4</md5>
+    <crc32>cbb283c5</crc32>
+    <sha1>efb7cdbf94f097ead17bcd4a6e4f795aa02daf30</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-13-16-35-57-892904482-2b303230300a-781cea56-f73e-4b48-ab78-c5566161499d_meta.xml" source="original">
+    <mtime>1471098982</mtime>
+    <size>838</size>
+    <md5>2767cb54eb46eb2995b4e1783d13d779</md5>
+    <crc32>595b739d</crc32>
+    <sha1>d6a40ed47810df581eb9f438bab7c5cd06176a2e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="news.cnet.com-2100-1030_3-6207936.html-2016-08-13-7bf86528-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>news.cnet.com-2100-1030_3-6207936.html-2016-08-13-7bf86528-00000.warc.gz</original>
+    <mtime>1471098988</mtime>
+    <size>32468</size>
+    <md5>dfb7a24fd5f1b4f0b719e3b3d3f2719a</md5>
+    <crc32>90a8b202</crc32>
+    <sha1>1235622e20aa609d5096525a521a91ca36af09b5</sha1>
+  </file>
+  <file name="W2016-08-13-16-35-57-892904482-2b303230300a-781cea56-f73e-4b48-ab78-c5566161499d.cdx.idx" source="original">
+    <mtime>1471098998</mtime>
+    <size>97</size>
+    <md5>47f4efa7d1de688144bc1a8f506d6319</md5>
+    <crc32>c959c5cd</crc32>
+    <sha1>d4bb83bf03bb268ba9624978421204ae42fb2c32</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-13-16-35-57-892904482-2b303230300a-781cea56-f73e-4b48-ab78-c5566161499d.cdx.gz" source="original">
+    <mtime>1471098998</mtime>
+    <size>31606</size>
+    <md5>c010260290c3be7490100b6761e9c17c</md5>
+    <crc32>5b7f32da</crc32>
+    <sha1>ec2ffce47bda6090503900d9d5b4a7e0f7c6f0df</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-13-16-35-57-892904482-2b303230300a-781cea56-f73e-4b48-ab78-c5566161499d_archive.torrent" source="metadata">
+    <btih>46e786719e51fb9b46c32988f30bc92afd764585</btih>
+    <mtime>1471098999</mtime>
+    <size>3210</size>
+    <md5>aff45d2b92875bff8c73c907cdf73945</md5>
+    <crc32>f8fa8bd3</crc32>
+    <sha1>f1ebc767a6c5b28236388e5719101048512234dd</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-13-16-35-57-892904482-2b303230300a-781cea56-f73e-4b48-ab78-c5566161499d_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>fa02d341d0d4c467c40ffc7404d7dc7f</md5>
+  </file>
+</files>

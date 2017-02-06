@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-26-21-43-41-536358771-2b303230300a-f78ba778-6d2f-4ec0-b541-3710e7dbc706_meta.sqlite" source="original">
+    <mtime>1472240651</mtime>
+    <size>8192</size>
+    <md5>90b051b4b00cf00e3c123991f8e3fe5c</md5>
+    <crc32>4633435c</crc32>
+    <sha1>67e47c8c6f2853857c1f181fb3bae1c350ac24a6</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-26-21-43-41-536358771-2b303230300a-f78ba778-6d2f-4ec0-b541-3710e7dbc706_meta.xml" source="original">
+    <mtime>1472240655</mtime>
+    <size>838</size>
+    <md5>1767e8e990c39acd34aaefec21e3060c</md5>
+    <crc32>a39e3f2c</crc32>
+    <sha1>0017cb3e6fabd8a3e5b748e03ba104c8772ccb22</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.santamonicanews.info-2016-08-26-537417f5-meta.warc.gz" source="original">
+    <mtime>1472240637</mtime>
+    <size>4396</size>
+    <md5>63129a942e606ca5750886c14d87a4fd</md5>
+    <crc32>24210b93</crc32>
+    <sha1>a8405da2f3719f545fb7f78ec508b58a6406a23b</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="www.santamonicanews.info-2016-08-26-537417f5-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.santamonicanews.info-2016-08-26-537417f5-meta.warc.gz</original>
+    <mtime>1472240664</mtime>
+    <size>47</size>
+    <md5>71f4284a887ad5be1c340937ebc18c9d</md5>
+    <crc32>840a2ff2</crc32>
+    <sha1>1d044fae038d46d15deed5da36956c2d1072553f</sha1>
+  </file>
+  <file name="W2016-08-26-21-43-41-536358771-2b303230300a-f78ba778-6d2f-4ec0-b541-3710e7dbc706.cdx.idx" source="original">
+    <mtime>1472240679</mtime>
+    <size>94</size>
+    <md5>0970ae055112c17ea450509747889525</md5>
+    <crc32>3e5e01dd</crc32>
+    <sha1>d0ba4777147337ad4697068201a290631a967926</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-26-21-43-41-536358771-2b303230300a-f78ba778-6d2f-4ec0-b541-3710e7dbc706.cdx.gz" source="original">
+    <mtime>1472240679</mtime>
+    <size>47</size>
+    <md5>3245606236cca1fb5796e497ac1e3701</md5>
+    <crc32>98ab90f3</crc32>
+    <sha1>f81fdad92824f168e05877d195154ab16ed1d0db</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-26-21-43-41-536358771-2b303230300a-f78ba778-6d2f-4ec0-b541-3710e7dbc706_archive.torrent" source="metadata">
+    <btih>c381937f48fefe03128db0be2288e219987b7d2d</btih>
+    <mtime>1472240680</mtime>
+    <size>2992</size>
+    <md5>39604c0c7e08e15b271575f93763afa1</md5>
+    <crc32>bd4b52e1</crc32>
+    <sha1>63094194538f56a4a64daf79cff81546a4d6becb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-26-21-43-41-536358771-2b303230300a-f78ba778-6d2f-4ec0-b541-3710e7dbc706_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>1a5f6fe1b6101df45b5810d1a833b651</md5>
+  </file>
+</files>

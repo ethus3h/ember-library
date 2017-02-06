@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="itunes.apple.com-us-post-idsa.a2de5827-2ca3-11e5-adfd-3218526430a0-2016-08-28-f1a05979-meta.warc.gz" source="original">
+    <mtime>1472421682</mtime>
+    <size>12219</size>
+    <md5>0dade7fb6ab3b37c6e96d3cf42c4d333</md5>
+    <crc32>1011a5be</crc32>
+    <sha1>177ae3b157b18532b1b293a7fdc9260829ecfd62</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-29-00-01-08-901347879-2b303230300a-a35a1d85-e87d-4ab2-98cd-5b3cdf7bbfcf_meta.xml" source="original">
+    <mtime>1472421698</mtime>
+    <size>838</size>
+    <md5>900bc7b55f569ede9c29e937eef89246</md5>
+    <crc32>22300a49</crc32>
+    <sha1>1fac08d91bfabbe672f8f84929025879cea2319e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-29-00-01-08-901347879-2b303230300a-a35a1d85-e87d-4ab2-98cd-5b3cdf7bbfcf_meta.sqlite" source="original">
+    <mtime>1472421694</mtime>
+    <size>9216</size>
+    <md5>801f3f4f08e3f1bc2f3cd6cf8d99f1b3</md5>
+    <crc32>f381b086</crc32>
+    <sha1>3545a9430f4f730f900c8595cd9d5e41d956fc4a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="itunes.apple.com-us-post-idsa.a2de5827-2ca3-11e5-adfd-3218526430a0-2016-08-28-f1a05979-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>itunes.apple.com-us-post-idsa.a2de5827-2ca3-11e5-adfd-3218526430a0-2016-08-28-f1a05979-meta.warc.gz</original>
+    <mtime>1472421703</mtime>
+    <size>47</size>
+    <md5>341f24969caba26c0481d497a49362f8</md5>
+    <crc32>befb1e7d</crc32>
+    <sha1>0854910f86d42f8dde2a3b120d625b2196d8e4f1</sha1>
+  </file>
+  <file name="W2016-08-29-00-01-08-901347879-2b303230300a-a35a1d85-e87d-4ab2-98cd-5b3cdf7bbfcf.cdx.idx" source="original">
+    <mtime>1472421714</mtime>
+    <size>94</size>
+    <md5>9c826f7d2bb5fa7f2878653cbf33dcad</md5>
+    <crc32>ab96f233</crc32>
+    <sha1>16fc1c3c8aec819a56e8bf001b91e4112cd393a6</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-29-00-01-08-901347879-2b303230300a-a35a1d85-e87d-4ab2-98cd-5b3cdf7bbfcf.cdx.gz" source="original">
+    <mtime>1472421714</mtime>
+    <size>47</size>
+    <md5>541f9ad743d2e85444361dd8263154c0</md5>
+    <crc32>f63203bc</crc32>
+    <sha1>3a108d380cdcc2093bf461d4f1bb893a2f81e25e</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-29-00-01-08-901347879-2b303230300a-a35a1d85-e87d-4ab2-98cd-5b3cdf7bbfcf_archive.torrent" source="metadata">
+    <btih>a0e373cd5e5f4ab3b74eef6d88dd0ff81ab6f764</btih>
+    <mtime>1472421714</mtime>
+    <size>3078</size>
+    <md5>943c1addf9a3ea0bc6f43d406ef02265</md5>
+    <crc32>e300e085</crc32>
+    <sha1>ce395ff1c092d6cbf566104ac8208e694a94293c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-29-00-01-08-901347879-2b303230300a-a35a1d85-e87d-4ab2-98cd-5b3cdf7bbfcf_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ec47ce4531325dfc02bed88a4099bc36</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="upload.wikimedia.org-wikipedia-commons-e-e6-A_Dictionary_of_the_English_language-_Volume_I.djvu-2016-08-26-8095b32a-meta.warc.gz" source="original">
+    <mtime>1472232070</mtime>
+    <size>3291</size>
+    <md5>3ba68701de92d4f04f33bd299fe985e7</md5>
+    <crc32>81608b05</crc32>
+    <sha1>5a08ce499b7dcaeea9fbfe9f0378b1760b173bf8</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-26-19-21-03-925659361-2b303230300a-0c960585-c6f6-4175-9695-7095e35409a1_meta.sqlite" source="original">
+    <mtime>1472232090</mtime>
+    <size>9216</size>
+    <md5>d2e75111f0df1ee79d45ae7023117908</md5>
+    <crc32>e14c55c0</crc32>
+    <sha1>97171d269817e44f3e3837132266e1c8792c0b31</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-26-19-21-03-925659361-2b303230300a-0c960585-c6f6-4175-9695-7095e35409a1_meta.xml" source="original">
+    <mtime>1472232095</mtime>
+    <size>838</size>
+    <md5>7281881d515edc4fcf88c11421dc0b00</md5>
+    <crc32>4435a716</crc32>
+    <sha1>a1eb13542d86107c4f8a452de73a0a960750e073</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="upload.wikimedia.org-wikipedia-commons-e-e6-A_Dictionary_of_the_English_language-_Volume_I.djvu-2016-08-26-8095b32a-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>upload.wikimedia.org-wikipedia-commons-e-e6-A_Dictionary_of_the_English_language-_Volume_I.djvu-2016-08-26-8095b32a-meta.warc.gz</original>
+    <mtime>1472233509</mtime>
+    <size>47</size>
+    <md5>0f26b1648ce848e03452e747eec7fb1a</md5>
+    <crc32>87a97506</crc32>
+    <sha1>ac1cb5a5cbbb741a7d066cdb2f9968cafa71a342</sha1>
+  </file>
+  <file name="W2016-08-26-19-21-03-925659361-2b303230300a-0c960585-c6f6-4175-9695-7095e35409a1.cdx.idx" source="original">
+    <mtime>1472233660</mtime>
+    <size>94</size>
+    <md5>f47d5174243ae0f3633bfb074963837f</md5>
+    <crc32>9648fabc</crc32>
+    <sha1>e137568d19bb488a0d2e5df506f5193349a2cb26</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-26-19-21-03-925659361-2b303230300a-0c960585-c6f6-4175-9695-7095e35409a1.cdx.gz" source="original">
+    <mtime>1472233660</mtime>
+    <size>47</size>
+    <md5>9facc9ff6ab1ee4a689e4af00f10fd5c</md5>
+    <crc32>0dceca06</crc32>
+    <sha1>515a48cf4724c0be2d957f55b75d2ec55b139c11</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-26-19-21-03-925659361-2b303230300a-0c960585-c6f6-4175-9695-7095e35409a1_archive.torrent" source="metadata">
+    <btih>1c400ffdb0c7f35e1a0f7030b12cb437dab545ec</btih>
+    <mtime>1472233661</mtime>
+    <size>3136</size>
+    <md5>7d3c58e356b711fded9f68d2ec656b8c</md5>
+    <crc32>6a9b0c9b</crc32>
+    <sha1>7e06078a0e70a38d4f74dbae9755bf3a501cb0ed</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-26-19-21-03-925659361-2b303230300a-0c960585-c6f6-4175-9695-7095e35409a1_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>255dd155c0b9baff09ca242e99c8359d</md5>
+  </file>
+</files>

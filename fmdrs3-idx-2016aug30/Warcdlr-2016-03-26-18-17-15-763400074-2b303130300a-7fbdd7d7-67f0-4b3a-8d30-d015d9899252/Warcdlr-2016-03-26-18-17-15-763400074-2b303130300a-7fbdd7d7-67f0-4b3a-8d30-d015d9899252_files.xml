@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="the-japan-news.com-news-article-0002826970-2016-03-24-fd498de1-00000.warc.gz" source="original">
+    <mtime>1459012647</mtime>
+    <size>780874</size>
+    <md5>5da68968354c3c6cf6ce340ef624f9a7</md5>
+    <crc32>f6971c78</crc32>
+    <sha1>8feda13a8a2dc6c0eb6bbbd99a2c916e25260043</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-18-17-15-763400074-2b303130300a-7fbdd7d7-67f0-4b3a-8d30-d015d9899252_meta.sqlite" source="original">
+    <mtime>1459012667</mtime>
+    <size>8192</size>
+    <md5>b50be4886086a20471dd45d60f73d4ca</md5>
+    <crc32>70b58fbe</crc32>
+    <sha1>2c17bd52c0d4a381122bade2d5b930c7d22922f9</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-18-17-15-763400074-2b303130300a-7fbdd7d7-67f0-4b3a-8d30-d015d9899252_meta.xml" source="original">
+    <mtime>1459012675</mtime>
+    <size>900</size>
+    <format>Metadata</format>
+    <md5>5ffac62e8f44362f6cec28b44559847b</md5>
+    <crc32>1f8eebec</crc32>
+    <sha1>6c961c10e2031becdc98ad849b380c8e3c9c19ba</sha1>
+  </file>
+  <file name="the-japan-news.com-news-article-0002826970-2016-03-24-fd498de1-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>the-japan-news.com-news-article-0002826970-2016-03-24-fd498de1-00000.warc.gz</original>
+    <mtime>1459012680</mtime>
+    <size>5872</size>
+    <md5>85ce27d7657dbb88ee7e441fdaccb532</md5>
+    <crc32>e468c615</crc32>
+    <sha1>40b2bb12dac74673f03cd8c660975815dbd04bda</sha1>
+  </file>
+  <file name="Warcdlr-2016-03-26-18-17-15-763400074-2b303130300a-7fbdd7d7-67f0-4b3a-8d30-d015d9899252.cdx.idx" source="original">
+    <mtime>1459012692</mtime>
+    <size>103</size>
+    <md5>59be5c65c66c487fdfb528e6ad25f0f4</md5>
+    <crc32>85a29bbb</crc32>
+    <sha1>04f076036801173cc863a4418ee615099f79bffa</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-18-17-15-763400074-2b303130300a-7fbdd7d7-67f0-4b3a-8d30-d015d9899252.cdx.gz" source="original">
+    <mtime>1459012692</mtime>
+    <size>5728</size>
+    <md5>b121f41b347da913e7d6b2d4a3523c3c</md5>
+    <crc32>4899ff7d</crc32>
+    <sha1>b23a1bf2cd39269e00fa8f843aa6d36873602ae9</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-18-17-15-763400074-2b303130300a-7fbdd7d7-67f0-4b3a-8d30-d015d9899252_archive.torrent" source="metadata">
+    <btih>a47871876618eac8fc577e5b1575f5799d26bd5f</btih>
+    <mtime>1459012692</mtime>
+    <size>3134</size>
+    <md5>2a52075cf1b6f1d3bd59f2386c83f19e</md5>
+    <crc32>fffec5d4</crc32>
+    <sha1>73b913afd63bf36fa45f86e29bb52d5f602e54d8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Warcdlr-2016-03-26-18-17-15-763400074-2b303130300a-7fbdd7d7-67f0-4b3a-8d30-d015d9899252_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>b60bec9cee7fca4255bedcb7f9028315</md5>
+  </file>
+</files>

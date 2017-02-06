@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="upload.wikimedia.org-wikipedia-en-c-c1-WSPC-LOGO.jpg-2016-08-18-004b366a-meta.warc.gz" source="original">
+    <mtime>1471571604</mtime>
+    <size>3122</size>
+    <md5>6870f64f60a72c4c9813d9d7f8efe509</md5>
+    <crc32>479465eb</crc32>
+    <sha1>d3096779bdfd7772fcef36ef34f6aa1d40a8e44d</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-19-03-53-18-525697166-2b303230300a-842c69a0-4f37-495c-99b3-59dde7dbbf82_meta.sqlite" source="original">
+    <mtime>1471571617</mtime>
+    <size>8192</size>
+    <md5>5334f3620e945b962e90e35f95e073a1</md5>
+    <crc32>79d0a5f9</crc32>
+    <sha1>bf222e1db8342ac82821ddcacf6c79e8e455bb1a</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-19-03-53-18-525697166-2b303230300a-842c69a0-4f37-495c-99b3-59dde7dbbf82_meta.xml" source="original">
+    <mtime>1471571621</mtime>
+    <size>838</size>
+    <md5>177d9d9720c0ef7cd83c01f9d5b44df3</md5>
+    <crc32>be6e7d95</crc32>
+    <sha1>293dcf66aedba72fea77e633d7c07e34ae9eb252</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="upload.wikimedia.org-wikipedia-en-c-c1-WSPC-LOGO.jpg-2016-08-18-004b366a-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>upload.wikimedia.org-wikipedia-en-c-c1-WSPC-LOGO.jpg-2016-08-18-004b366a-meta.warc.gz</original>
+    <mtime>1471571625</mtime>
+    <size>47</size>
+    <md5>b1eda095380f28bd922d4b4f3b1b9cbf</md5>
+    <crc32>84323a39</crc32>
+    <sha1>31ce089f9ea23f912abff0b1c82f0b541f26fe65</sha1>
+  </file>
+  <file name="W2016-08-19-03-53-18-525697166-2b303230300a-842c69a0-4f37-495c-99b3-59dde7dbbf82.cdx.gz" source="original">
+    <mtime>1471571639</mtime>
+    <size>47</size>
+    <md5>7fbeb15fa1fbad3dade8996b17c133e0</md5>
+    <crc32>50c381ee</crc32>
+    <sha1>c8f24ce062bfc7a24dd1a2707e2b81704e45b79a</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-19-03-53-18-525697166-2b303230300a-842c69a0-4f37-495c-99b3-59dde7dbbf82.cdx.idx" source="original">
+    <mtime>1471571639</mtime>
+    <size>94</size>
+    <md5>6a83a37109f30fc5ba87b4180cf36af6</md5>
+    <crc32>b449a248</crc32>
+    <sha1>135114637c72f0c1956235d9f141f9935165f25e</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-19-03-53-18-525697166-2b303230300a-842c69a0-4f37-495c-99b3-59dde7dbbf82_archive.torrent" source="metadata">
+    <btih>01cfa667c93efc5eb15d3f8124daf86a02a368fc</btih>
+    <mtime>1471571640</mtime>
+    <size>3048</size>
+    <md5>ede0df9b9754b4272225f014f8ee8474</md5>
+    <crc32>e24112e0</crc32>
+    <sha1>2fb4863724d02c07a429ac769c5fe2bad71731c0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-19-03-53-18-525697166-2b303230300a-842c69a0-4f37-495c-99b3-59dde7dbbf82_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d690b5025b107d9e96ef3151cb113406</md5>
+  </file>
+</files>

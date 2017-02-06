@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Epic.m4a" source="original">
+    <mtime>1424999574</mtime>
+    <size>33973263</size>
+    <md5>dde2b3029c0d2252640f4db7a046ce41</md5>
+    <crc32>e66a17d8</crc32>
+    <sha1>8a6eb62450f6f6f11ff3b21cb90f1bd517ddf0c4</sha1>
+    <format>Apple Lossless Audio</format>
+  </file>
+  <file name="worldpeacehaven_gmail_Epic_meta.sqlite" source="original">
+    <mtime>1424999593</mtime>
+    <size>9216</size>
+    <md5>d3fdca161a7a007b25dbfaca3c25e9c8</md5>
+    <crc32>16ba96cf</crc32>
+    <sha1>c997651507c65f90f7d776ddc9598a750f7da374</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Epic.mp3" source="original">
+    <format>VBR MP3</format>
+    <length>179.23</length>
+    <height>0</height>
+    <width>0</width>
+    <mtime>1424999728</mtime>
+    <size>7169102</size>
+    <md5>35a158c74c1d773ea40c61e4bb9cef53</md5>
+    <crc32>5771a9a3</crc32>
+    <sha1>cf63cd5beb3cf299fc70a0f29bc2724413090719</sha1>
+    <title>Epic</title>
+    <artist>Elliot Chandler Wallace</artist>
+  </file>
+  <file name="Epic.png" source="derivative">
+    <format>PNG</format>
+    <original>Epic.m4a</original>
+    <mtime>1425000854</mtime>
+    <size>9809</size>
+    <md5>7f7f1b5eb64cea953f9407534a62ea0b</md5>
+    <crc32>d737746b</crc32>
+    <sha1>a72d970bcec575f06b698f3890e02e0f6f07f849</sha1>
+  </file>
+  <file name="Epic_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Epic.mp3</original>
+    <mtime>1425000858</mtime>
+    <size>335668</size>
+    <md5>b8a25565cc1dd893f8335dfd28f6f75c</md5>
+    <crc32>d2e40afb</crc32>
+    <sha1>4a83f0986695494f275e7d8af44c78b11a9901ae</sha1>
+  </file>
+  <file name="Epic_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Epic.mp3</original>
+    <mtime>1425000886</mtime>
+    <size>23430</size>
+    <md5>2de0a753a7507d23469174f37501c6cb</md5>
+    <crc32>df0b19ae</crc32>
+    <sha1>9e557458dca4b96fbae508f51abf1586b85615e3</sha1>
+  </file>
+  <file name="Epic_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Epic_esslow.json.gz</original>
+    <mtime>1425000925</mtime>
+    <size>1940</size>
+    <md5>52ee50b443f913fe6638f6232ad3c7b6</md5>
+    <crc32>510dc4d0</crc32>
+    <sha1>98b04e318facfb76abe9b9d74a1e29fc91cda503</sha1>
+  </file>
+  <file name="Epic.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Epic.mp3</original>
+    <mtime>1425000901</mtime>
+    <size>34400</size>
+    <md5>6ba1481171ebd151551a950f472fca25</md5>
+    <crc32>80813442</crc32>
+    <sha1>75a01848f0debea0d0877f235423ee7f2ba8c106</sha1>
+  </file>
+  <file name="Epic.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Epic.mp3</original>
+    <mtime>1425000845</mtime>
+    <size>2035941</size>
+    <md5>6b5265a08c36b0a743760340f1b78871</md5>
+    <crc32>47ce27e5</crc32>
+    <sha1>e653d02861ff2dcb84f4cf7cd1644e31e1b840c3</sha1>
+    <length>179.17</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="worldpeacehaven_gmail_Epic_meta.xml" source="original">
+    <mtime>1425000935</mtime>
+    <size>1041</size>
+    <format>Metadata</format>
+    <md5>d81fa93d4a38567b44b71dd63a4b2876</md5>
+    <crc32>947f0cdd</crc32>
+    <sha1>4e67e9bc1c210519c39f22660c68c6ebcc1f9998</sha1>
+  </file>
+  <file name="worldpeacehaven_gmail_Epic_archive.torrent" source="metadata">
+    <btih>67bb3af2b0fb325841384209f57ff04e8a16b5f9</btih>
+    <mtime>1425000943</mtime>
+    <size>4600</size>
+    <md5>da13a992dc1e9cd0da1db610ad5e44a1</md5>
+    <crc32>115d2eed</crc32>
+    <sha1>a9fe06d318862b241ac530b4d2baa896d9aca2a4</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="worldpeacehaven_gmail_Epic_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>23dea22e2e1dfa474a5ce395962add95</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="upload.wikimedia.org-wikipedia-commons-archive-4-4e-20150303025028-Macaca_nigra_self-portrait_large.-2016-08-25-23e37c9e-00000.warc.gz" source="original">
+    <mtime>1472182089</mtime>
+    <size>1203737</size>
+    <md5>552f9e05fff7f0b9e41bfde7e586f2f9</md5>
+    <crc32>ac327eb1</crc32>
+    <sha1>2f6e79aeaec15d1dce5abc899a0818fe38ac1abf</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-26-05-28-01-480570472-2b303230300a-6c1e67d0-2db1-493a-8bf6-01bd1fec5a35_meta.xml" source="original">
+    <mtime>1472182107</mtime>
+    <size>838</size>
+    <md5>65d49dcbd15ef8f6d2ea42202b2d1e5e</md5>
+    <crc32>21a85175</crc32>
+    <sha1>60127fa8772d26a3b5f08a1d583473ab4cdf97d7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-26-05-28-01-480570472-2b303230300a-6c1e67d0-2db1-493a-8bf6-01bd1fec5a35_meta.sqlite" source="original">
+    <mtime>1472182101</mtime>
+    <size>9216</size>
+    <md5>c7fa3aa26b2f216da6203be6e4f165b5</md5>
+    <crc32>0286bcf0</crc32>
+    <sha1>67ad8265c0c7624a1112202ebb66475a5d1e4687</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="upload.wikimedia.org-wikipedia-commons-archive-4-4e-20150303025028-Macaca_nigra_self-portrait_large.-2016-08-25-23e37c9e-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>upload.wikimedia.org-wikipedia-commons-archive-4-4e-20150303025028-Macaca_nigra_self-portrait_large.-2016-08-25-23e37c9e-00000.warc.gz</original>
+    <mtime>1472182112</mtime>
+    <size>318</size>
+    <md5>ca2abcf709f9c6f2356c3f9389e74ca1</md5>
+    <crc32>0fde8f36</crc32>
+    <sha1>c6904a9138ea1988f0b9372866925c2ba71d4444</sha1>
+  </file>
+  <file name="W2016-08-26-05-28-01-480570472-2b303230300a-6c1e67d0-2db1-493a-8bf6-01bd1fec5a35.cdx.gz" source="original">
+    <mtime>1472182126</mtime>
+    <size>318</size>
+    <md5>ed9129c7d095fec29d2aa23b3f90aa6b</md5>
+    <crc32>f9415c4b</crc32>
+    <sha1>b358671291ce9e97981affd7637f75351cc2cb19</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-26-05-28-01-480570472-2b303230300a-6c1e67d0-2db1-493a-8bf6-01bd1fec5a35.cdx.idx" source="original">
+    <mtime>1472182126</mtime>
+    <size>95</size>
+    <md5>766f7d11c8d1a28157e4e38bfa4bb882</md5>
+    <crc32>7badcfec</crc32>
+    <sha1>c466a682b49c19916f9f4e06362c3829d20846cd</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-26-05-28-01-480570472-2b303230300a-6c1e67d0-2db1-493a-8bf6-01bd1fec5a35_archive.torrent" source="metadata">
+    <btih>e91cf486f6f74f529cdcba001f0ec883b6e5ff16</btih>
+    <mtime>1472182127</mtime>
+    <size>3193</size>
+    <md5>691fbb4818e4a1dd1f73946b5934f84e</md5>
+    <crc32>a7d0fd3f</crc32>
+    <sha1>b4e73f5da815375722096fb4178d851e0cc8e262</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-26-05-28-01-480570472-2b303230300a-6c1e67d0-2db1-493a-8bf6-01bd1fec5a35_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>6624e53f22f847ec99e6f96ff31a046c</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="files.kde.org-2016-08-20-cdb0a29c-00081.warc.gz" source="original">
+    <mtime>1471880927</mtime>
+    <size>5478170376</size>
+    <md5>cae69ab695ae539d4f937886c390e260</md5>
+    <crc32>b233efd2</crc32>
+    <sha1>306ddd112e2b95f8510ef0782a430e392714644c</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-22-17-40-42-219385220-2b303230300a-82e59f0f-f0fc-4bd2-aa2c-473f20c76712_meta.sqlite" source="original">
+    <mtime>1471881041</mtime>
+    <size>8192</size>
+    <md5>d117f501a686aaf313e0339b5fc7147c</md5>
+    <crc32>c7f2f0b9</crc32>
+    <sha1>ec6ccbd75401a8ab1d75097b6ae04635ee50bfe0</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-22-17-40-42-219385220-2b303230300a-82e59f0f-f0fc-4bd2-aa2c-473f20c76712_meta.xml" source="original">
+    <mtime>1471881046</mtime>
+    <size>838</size>
+    <md5>de985d99dba9348f3838176404787e11</md5>
+    <crc32>8011cd5f</crc32>
+    <sha1>7635d08b5861bc3fcb876137e7606a5913e3182b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="files.kde.org-2016-08-20-cdb0a29c-00081.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>files.kde.org-2016-08-20-cdb0a29c-00081.warc.gz</original>
+    <mtime>1471881371</mtime>
+    <size>4602</size>
+    <md5>1355107307a184f757e332c320ca959c</md5>
+    <crc32>6b4c46d2</crc32>
+    <sha1>bbce1d2aba5a4af6c6b566ff3e88fb1ab1abab5c</sha1>
+  </file>
+  <file name="W2016-08-22-17-40-42-219385220-2b303230300a-82e59f0f-f0fc-4bd2-aa2c-473f20c76712.cdx.gz" source="original">
+    <mtime>1471881383</mtime>
+    <size>4489</size>
+    <md5>21754f32fdac52f2ed676c2ad1b6580b</md5>
+    <crc32>474e9d14</crc32>
+    <sha1>5deeda0790f58d01d4b0e27c2f9834ee6f92fa7a</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-22-17-40-42-219385220-2b303230300a-82e59f0f-f0fc-4bd2-aa2c-473f20c76712.cdx.idx" source="original">
+    <mtime>1471881383</mtime>
+    <size>96</size>
+    <md5>c120043c7a38e1a446d420974a356665</md5>
+    <crc32>4643a824</crc32>
+    <sha1>ab8be33fff3d1c360a124ef0f716909d33e9281a</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-22-17-40-42-219385220-2b303230300a-82e59f0f-f0fc-4bd2-aa2c-473f20c76712_archive.torrent" source="metadata">
+    <btih>ca3c775a1bb7d3d2e839582dc83894871af71fdc</btih>
+    <mtime>1471881384</mtime>
+    <size>29560</size>
+    <md5>fecf698d5168e256b9656bdca21d0d91</md5>
+    <crc32>5ba2bfde</crc32>
+    <sha1>39bbf4525c3f223c47221e1bbe7b9a1736174b44</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-22-17-40-42-219385220-2b303230300a-82e59f0f-f0fc-4bd2-aa2c-473f20c76712_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f93291efef2ddf860a3811b2ad6de1fd</md5>
+  </file>
+</files>

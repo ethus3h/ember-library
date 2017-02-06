@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_428245" type="text" style="popup" log_data="a-id=annotation_428245&amp;len-sec=59&amp;a-type=1&amp;l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Flekoolgames&amp;xble=1">
+  <TEXT>LekoolGames</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.50000" y="4.72200" w="30.00000" h="9.16700" t="0:00:00.6"/>
+      <rectRegion x="7.50000" y="4.72200" w="30.00000" h="9.16700" t="0:01:00.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.40817594528" bottom="2.34696006775" right="1.87756800652"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/lekoolgames" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_880273" type="text" style="popup" log_data="a-id=annotation_880273&amp;len-sec=60&amp;a-type=1&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqjtQpWymQGM&amp;xble=1">
+  <TEXT>Call of Gods</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.50000" y="5.00000" w="27.16700" h="9.16700" t="0:00:00.0"/>
+      <rectRegion x="69.50000" y="5.00000" w="27.16700" h="9.16700" t="0:01:00.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.40817594528" bottom="2.34696006775" right="1.87756800652"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?v=qjtQpWymQGM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_970193" type="text" style="popup" log_data="a-id=annotation_970193&amp;len-sec=59&amp;a-type=1&amp;l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Flekooltalent&amp;xble=1">
+  <TEXT>LekoolTalent</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.33300" y="5.00000" w="31.83300" h="9.16700" t="0:00:00.6"/>
+      <rectRegion x="37.33300" y="5.00000" w="31.83300" h="9.16700" t="0:01:00.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.40817594528" bottom="2.34696006775" right="1.87756800652"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/lekooltalent" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:a6f5dc26-5ea9-29c1-9d78-e0cd5910e" style="branding" type="branding"
+            log_data="a-id=a6f5dc26-5ea9-29c1-9d78-e0cd5910e&amp;len-sec=61&amp;a-type=10&amp;link-id=UCd5QJdnKc0yof6pFqYtj9aw&amp;img-type=0&amp;xble=0&amp;a-ch=UCd5QJdnKc0yof6pFqYtj9aw&amp;a-v=lh5agAkpblk">
+  <data>{&quot;image_height&quot;: 40, &quot;image_width&quot;: 40, &quot;num_subscribers&quot;: &quot;897 subscribers&quot;, &quot;channel_name&quot;: &quot;lekoolgames&quot;, &quot;subscription_token&quot;: &quot;&quot;, &quot;image_url&quot;: &quot;https:\/\/yt3.ggpht.com\/-j5UzyUp0wRQ\/AAAAAAAAAAI\/AAAAAAAAAAA\/zl7kKq2obgU\/s88-c-k-no\/photo.jpg&quot;, &quot;channel_id&quot;: &quot;UCd5QJdnKc0yof6pFqYtj9aw&quot;, &quot;is_mobile&quot;: false, &quot;image_type&quot;: 0, &quot;start_ms&quot;: 0, &quot;end_ms&quot;: 61000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/lekoolgames?annotation_id=a6f5dc26-5ea9-29c1-9d78-e0cd5910e&amp;feature=iv&amp;src_vid=lh5agAkpblk"/>
+  </action>
+  <html_blob>
+    
+  </html_blob>
+</annotation>
+</annotations></document>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="blog.cloudflare.com-a-winter-of-400gbps-weekend-ddos-attacks-2016-08-15-4f1d2f16-00000.warc.gz" source="original">
+    <mtime>1471266677</mtime>
+    <size>1287589</size>
+    <md5>9c925470d295c5591e3d1974957d726d</md5>
+    <crc32>e2f0101e</crc32>
+    <sha1>c733b89504fb5f19f0ea8f3078e697acae2c5594</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-15-15-11-09-795612974-2b303230300a-8943aab8-4c3c-44d1-b3e5-f186f467ec7f_meta.sqlite" source="original">
+    <mtime>1471266711</mtime>
+    <size>9216</size>
+    <md5>84d3b5304d185321492d5fb510b404e0</md5>
+    <crc32>da0e9771</crc32>
+    <sha1>8f75c8725e00d375086d291ce1e316eaabf615c3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-15-15-11-09-795612974-2b303230300a-8943aab8-4c3c-44d1-b3e5-f186f467ec7f_meta.xml" source="original">
+    <mtime>1471266716</mtime>
+    <size>838</size>
+    <md5>b35f4de4bf8146dee92e066c5bf200c1</md5>
+    <crc32>05ff93aa</crc32>
+    <sha1>9c71de2795a393349c05d31c4e8de69e8d8033f5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="blog.cloudflare.com-a-winter-of-400gbps-weekend-ddos-attacks-2016-08-15-4f1d2f16-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>blog.cloudflare.com-a-winter-of-400gbps-weekend-ddos-attacks-2016-08-15-4f1d2f16-00000.warc.gz</original>
+    <mtime>1471266721</mtime>
+    <size>3558</size>
+    <md5>c843cde2282f25647f0323ddff51d59c</md5>
+    <crc32>7cfc69cb</crc32>
+    <sha1>a9e0ddcc0b78f5fc12f26a75901d50875b33e3d5</sha1>
+  </file>
+  <file name="W2016-08-15-15-11-09-795612974-2b303230300a-8943aab8-4c3c-44d1-b3e5-f186f467ec7f.cdx.idx" source="original">
+    <mtime>1471266734</mtime>
+    <size>96</size>
+    <md5>71b09c398d201a7e8e6d09b9838c2214</md5>
+    <crc32>6a970444</crc32>
+    <sha1>1dc8458fbf5efb2cb6ac4ed9669c0479aa61e948</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-15-15-11-09-795612974-2b303230300a-8943aab8-4c3c-44d1-b3e5-f186f467ec7f.cdx.gz" source="original">
+    <mtime>1471266734</mtime>
+    <size>3511</size>
+    <md5>6b0a2b0493d7b1987411b7f073381630</md5>
+    <crc32>3f36ef34</crc32>
+    <sha1>a5c70bc97b89e2e6093aa817061e98fe32a30311</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-15-15-11-09-795612974-2b303230300a-8943aab8-4c3c-44d1-b3e5-f186f467ec7f_archive.torrent" source="metadata">
+    <btih>82ec7e5d0c4a1467bb772cd4e1363228d0838848</btih>
+    <mtime>1471266735</mtime>
+    <size>3114</size>
+    <md5>51004fb77b19640185ab0662355666bc</md5>
+    <crc32>3a8c140e</crc32>
+    <sha1>dc907efb55db02478c1ba88d764420aa68d9b62e</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-15-15-11-09-795612974-2b303230300a-8943aab8-4c3c-44d1-b3e5-f186f467ec7f_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>13e98b31ba3ecd0415ea2ebb43a81c23</md5>
+  </file>
+</files>

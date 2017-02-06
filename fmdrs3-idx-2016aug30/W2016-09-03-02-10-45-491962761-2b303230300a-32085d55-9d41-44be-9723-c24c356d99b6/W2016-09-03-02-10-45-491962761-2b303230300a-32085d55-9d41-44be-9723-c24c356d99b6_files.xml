@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="github.com-skypeopensource-skypeopensource2-2016-09-02-22514827-meta.warc.gz" source="original">
+    <mtime>1472861452</mtime>
+    <size>5555</size>
+    <md5>fbdcbf3663b792de9bffc4c292b7aea9</md5>
+    <crc32>77f06c92</crc32>
+    <sha1>288d252edc2c8891d541cf262dbd363e1610e4e0</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-09-03-02-10-45-491962761-2b303230300a-32085d55-9d41-44be-9723-c24c356d99b6_meta.sqlite" source="original">
+    <mtime>1472861463</mtime>
+    <size>11264</size>
+    <md5>663f2e1a623ba33950a9791b2ed49259</md5>
+    <crc32>3d519c5c</crc32>
+    <sha1>6c396c3992485787bd3cd4cc69bce4de630195ae</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-09-03-02-10-45-491962761-2b303230300a-32085d55-9d41-44be-9723-c24c356d99b6_meta.xml" source="original">
+    <mtime>1472861470</mtime>
+    <size>1364</size>
+    <format>Metadata</format>
+    <md5>a5e140f78ca494641416e084564d3fcd</md5>
+    <crc32>4ba80ab0</crc32>
+    <sha1>1422417329343529eebf02162158cbad433f6ffe</sha1>
+  </file>
+  <file name="github.com-skypeopensource-skypeopensource2-2016-09-02-22514827-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>github.com-skypeopensource-skypeopensource2-2016-09-02-22514827-meta.warc.gz</original>
+    <mtime>1472861474</mtime>
+    <size>47</size>
+    <md5>d58792d82551290eaa60289753d3cc42</md5>
+    <crc32>6d4cb722</crc32>
+    <sha1>cafd15d3af55d5a1bd96ce284272e9bf34b52634</sha1>
+  </file>
+  <file name="W2016-09-03-02-10-45-491962761-2b303230300a-32085d55-9d41-44be-9723-c24c356d99b6.cdx.idx" source="original">
+    <mtime>1472861485</mtime>
+    <size>94</size>
+    <md5>aa3d8b03dcb5c03545c48dff38ad4e6a</md5>
+    <crc32>cbcfad19</crc32>
+    <sha1>987015a9d5bda761cce990339c25102ce39815bd</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-09-03-02-10-45-491962761-2b303230300a-32085d55-9d41-44be-9723-c24c356d99b6.cdx.gz" source="original">
+    <mtime>1472861485</mtime>
+    <size>47</size>
+    <md5>71f674731c5a006bb17718d5980bdd93</md5>
+    <crc32>54b78038</crc32>
+    <sha1>85f76afe75d893ef08938b469c65c056bc255472</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-09-03-02-10-45-491962761-2b303230300a-32085d55-9d41-44be-9723-c24c356d99b6_archive.torrent" source="metadata">
+    <btih>fe77b3b16f811ea05e801888968dceb350178fc3</btih>
+    <mtime>1472861485</mtime>
+    <size>3032</size>
+    <md5>f75d069261c539c2d0859a817ad5b3ec</md5>
+    <crc32>873bcd32</crc32>
+    <sha1>2225c5bbdd916dd270c8318a652eb87dc49d2c31</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-09-03-02-10-45-491962761-2b303230300a-32085d55-9d41-44be-9723-c24c356d99b6_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>10df71ce580e38e9a713f1b313b9d6ee</md5>
+  </file>
+</files>

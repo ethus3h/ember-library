@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.kickthebobo.com-erotech-2016-08-11-5d380d25-00000.warc.gz" source="original">
+    <mtime>1470977781</mtime>
+    <size>486904</size>
+    <md5>9c383e8cc07a9880bd7089c9e73ad91b</md5>
+    <crc32>2fb3d942</crc32>
+    <sha1>2c21c98ce1f5029f11ada7c2d66494e560a9289b</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-12-06-56-07-673382356-2b303230300a-bb0a82db-f84b-4f9b-83cf-ae5424536695_meta.xml" source="original">
+    <mtime>1470977799</mtime>
+    <size>838</size>
+    <md5>1424fd5e6a0b8b5de546ef8bdadb2e91</md5>
+    <crc32>dc916957</crc32>
+    <sha1>c0141627b36a318dd7f570829a6cf1808e1a14bf</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-12-06-56-07-673382356-2b303230300a-bb0a82db-f84b-4f9b-83cf-ae5424536695_meta.sqlite" source="original">
+    <mtime>1470977794</mtime>
+    <size>8192</size>
+    <md5>42667403abb5c5479d271c56d6032a9e</md5>
+    <crc32>db5a969f</crc32>
+    <sha1>1676033528714abccb6d76cde93725450de95961</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.kickthebobo.com-erotech-2016-08-11-5d380d25-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.kickthebobo.com-erotech-2016-08-11-5d380d25-00000.warc.gz</original>
+    <mtime>1470977806</mtime>
+    <size>3459</size>
+    <md5>8a59ab55b76bed9a550988f5879bdb94</md5>
+    <crc32>37914405</crc32>
+    <sha1>877dc85c99cd677f79f1428a23f64b32fef60df3</sha1>
+  </file>
+  <file name="W2016-08-12-06-56-07-673382356-2b303230300a-bb0a82db-f84b-4f9b-83cf-ae5424536695.cdx.idx" source="original">
+    <mtime>1470977819</mtime>
+    <size>96</size>
+    <md5>3016306f3943a1354fa418f14994f11a</md5>
+    <crc32>6b360d9b</crc32>
+    <sha1>32d93aef2a331b67e73f340ab2331abcf42e37ec</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-12-06-56-07-673382356-2b303230300a-bb0a82db-f84b-4f9b-83cf-ae5424536695.cdx.gz" source="original">
+    <mtime>1470977819</mtime>
+    <size>3404</size>
+    <md5>75641c5525923f7befa99d0f2e36fc06</md5>
+    <crc32>ef67f66f</crc32>
+    <sha1>b86a6dcccd8248faaa4673705fc4a6d0e369e0bb</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-12-06-56-07-673382356-2b303230300a-bb0a82db-f84b-4f9b-83cf-ae5424536695_archive.torrent" source="metadata">
+    <btih>4a20821d581f93a9d0ee43aa114237119a9be1e4</btih>
+    <mtime>1470977819</mtime>
+    <size>3006</size>
+    <md5>d6f8f02fee5653313acb226a3b333188</md5>
+    <crc32>0347658f</crc32>
+    <sha1>b67c0aa0dab0e699e7d94ea8f5460cee33950144</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-12-06-56-07-673382356-2b303230300a-bb0a82db-f84b-4f9b-83cf-ae5424536695_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>cd939c47313667c257730928e9269446</md5>
+  </file>
+</files>

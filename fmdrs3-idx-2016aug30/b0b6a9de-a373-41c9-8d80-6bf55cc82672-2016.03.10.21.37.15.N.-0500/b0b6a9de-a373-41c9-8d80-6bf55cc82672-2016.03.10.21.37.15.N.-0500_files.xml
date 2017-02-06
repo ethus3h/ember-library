@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="b0b6a9de-a373-41c9-8d80-6bf55cc82672-2016.03.10.21.37.15.N.-0500_meta.sqlite" source="original">
+    <mtime>1457663748</mtime>
+    <size>8192</size>
+    <md5>c925d75677282f13acbc79ee5aa0e2fc</md5>
+    <crc32>68255f77</crc32>
+    <sha1>9678a18c943d31df2fd7335161d3f4416bd02f44</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Rappaccini's Daughter Opening new demo 10Mar2016 9.29p.mp3" source="original">
+    <mtime>1457663734</mtime>
+    <size>3677248</size>
+    <md5>f04414a0ac5987b2afa9759f21eb3597</md5>
+    <crc32>6cf9e434</crc32>
+    <sha1>4ca3069dbeec7f4bad3050ed45dbdc7c0bdd4419</sha1>
+    <format>VBR MP3</format>
+    <length>153.05</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="b0b6a9de-a373-41c9-8d80-6bf55cc82672-2016.03.10.21.37.15.N.-0500_meta.xml" source="original">
+    <mtime>1457663755</mtime>
+    <size>710</size>
+    <format>Metadata</format>
+    <md5>11639517616dbccfff52726d7d2a7f93</md5>
+    <crc32>a22f6a41</crc32>
+    <sha1>6ce0a59cc67e19d568d0ea3efde65e24fb5c0f65</sha1>
+  </file>
+  <file name="Rappaccini's Daughter Opening new demo 10Mar2016 9.29p_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Rappaccini's Daughter Opening new demo 10Mar2016 9.29p.mp3</original>
+    <mtime>1457663777</mtime>
+    <size>281867</size>
+    <md5>4201e1e6bd2c83182079e7a6dc119d3d</md5>
+    <crc32>a1fbbd5c</crc32>
+    <sha1>9b1b31d2673607274a1900d2556bf50850530969</sha1>
+  </file>
+  <file name="Rappaccini's Daughter Opening new demo 10Mar2016 9.29p_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>Rappaccini's Daughter Opening new demo 10Mar2016 9.29p_esslow.json.gz</original>
+    <mtime>1457663869</mtime>
+    <size>2042</size>
+    <md5>8923dffc53abc91b13279f35effa8705</md5>
+    <crc32>be7e73d8</crc32>
+    <sha1>e831ee01255065aaa9e0e4a6353edc306a46f0b4</sha1>
+  </file>
+  <file name="Rappaccini's Daughter Opening new demo 10Mar2016 9.29p.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>Rappaccini's Daughter Opening new demo 10Mar2016 9.29p.mp3</original>
+    <mtime>1457663824</mtime>
+    <size>33408</size>
+    <md5>c69b93b56da89255bfdb510117210410</md5>
+    <crc32>117fea96</crc32>
+    <sha1>17f0c42924dfc7ad6b0d6094684ae4bbc84db8b6</sha1>
+  </file>
+  <file name="Rappaccini's Daughter Opening new demo 10Mar2016 9.29p.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Rappaccini's Daughter Opening new demo 10Mar2016 9.29p.mp3</original>
+    <mtime>1457663767</mtime>
+    <size>1564109</size>
+    <md5>cac6b0abf444efc16c3521d2b34d589b</md5>
+    <crc32>1cfe8f0d</crc32>
+    <sha1>bde2aabc93578d76ad0c25ef81409e8b803b015b</sha1>
+    <length>153.05</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Rappaccini's Daughter Opening new demo 10Mar2016 9.29p_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>Rappaccini's Daughter Opening new demo 10Mar2016 9.29p.mp3</original>
+    <mtime>1457663817</mtime>
+    <size>22903</size>
+    <md5>64caf176adc1444dc89ed091343ed926</md5>
+    <crc32>3e267a5e</crc32>
+    <sha1>cc5844fdd1bb35415efa4586664769d5ab41d484</sha1>
+  </file>
+  <file name="Rappaccini's Daughter Opening new demo 10Mar2016 9.29p.png" source="derivative">
+    <format>PNG</format>
+    <original>Rappaccini's Daughter Opening new demo 10Mar2016 9.29p.mp3</original>
+    <mtime>1457663774</mtime>
+    <size>8042</size>
+    <md5>097bdd0fb0ddaa39a9c9811827493a09</md5>
+    <crc32>dbf5d362</crc32>
+    <sha1>02a2a81219387ab271687aae3e3b68875d5801a8</sha1>
+  </file>
+  <file name="b0b6a9de-a373-41c9-8d80-6bf55cc82672-2016.03.10.21.37.15.N.-0500_archive.torrent" source="metadata">
+    <btih>2b736b61cf7aca5f2c5887f7d320f1cf766df216</btih>
+    <mtime>1457663876</mtime>
+    <size>3670</size>
+    <md5>e0f52c3194f95522d555b77b97bb9e1d</md5>
+    <crc32>5fc54012</crc32>
+    <sha1>e7b568fa719e6d0e38f8cf39e1c64df42b59c4d6</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="b0b6a9de-a373-41c9-8d80-6bf55cc82672-2016.03.10.21.37.15.N.-0500_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>94ed36a9497a15ee5abd5869fce1a25b</md5>
+  </file>
+</files>

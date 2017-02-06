@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="en.wikipedia.org-wiki-Draft-Lynn_Tincher-2016-08-15-a77c1e0a-00000.warc.gz" source="original">
+    <mtime>1471224388</mtime>
+    <size>368052</size>
+    <md5>d59459127e41c006459ccafbba9b83e2</md5>
+    <crc32>eac9b93e</crc32>
+    <sha1>5573b3d58085ac990b9fc336d8e26e456a7f326c</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-15-03-26-22-031869882-2b303230300a-91e47329-e275-4e99-92f0-240c16b62634_meta.xml" source="original">
+    <mtime>1471224404</mtime>
+    <size>838</size>
+    <md5>28cc442d637a515db7027c62dfe418a2</md5>
+    <crc32>924033a0</crc32>
+    <sha1>0f3a99ef051220991fe154217229301a6350f2fa</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-15-03-26-22-031869882-2b303230300a-91e47329-e275-4e99-92f0-240c16b62634_meta.sqlite" source="original">
+    <mtime>1471224400</mtime>
+    <size>8192</size>
+    <md5>37a15fae6b04d568e7b4d7de0623cbf7</md5>
+    <crc32>7fc1d64c</crc32>
+    <sha1>9b4a40280879813ff52c59cc26354eaa2e510972</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="en.wikipedia.org-wiki-Draft-Lynn_Tincher-2016-08-15-a77c1e0a-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>en.wikipedia.org-wiki-Draft-Lynn_Tincher-2016-08-15-a77c1e0a-00000.warc.gz</original>
+    <mtime>1471224408</mtime>
+    <size>5466</size>
+    <md5>5c6067e22918813b6c991f2bad54dd54</md5>
+    <crc32>5f0023be</crc32>
+    <sha1>782e27ce18fe295cfda1036cc7b1d264dd0fbee3</sha1>
+  </file>
+  <file name="W2016-08-15-03-26-22-031869882-2b303230300a-91e47329-e275-4e99-92f0-240c16b62634.cdx.gz" source="original">
+    <mtime>1471224417</mtime>
+    <size>5350</size>
+    <md5>c4c2446a0832e2eecbf22a04a8357121</md5>
+    <crc32>37f8a6bc</crc32>
+    <sha1>5a9be491661f095f93f5baf53800cf109480bfd5</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-15-03-26-22-031869882-2b303230300a-91e47329-e275-4e99-92f0-240c16b62634.cdx.idx" source="original">
+    <mtime>1471224417</mtime>
+    <size>96</size>
+    <md5>9cd199e11195cf6a4b24481afeaf396b</md5>
+    <crc32>e6233a5f</crc32>
+    <sha1>ff5c19f59685c165ca82ccafd3455be2880ae0b4</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-15-03-26-22-031869882-2b303230300a-91e47329-e275-4e99-92f0-240c16b62634_archive.torrent" source="metadata">
+    <btih>cb7e4a50280146ce2eb7c3df4857c6d472a6d9f4</btih>
+    <mtime>1471224418</mtime>
+    <size>3032</size>
+    <md5>8bf3f08b7c5c1559e05101449d58ed4d</md5>
+    <crc32>14dd3b55</crc32>
+    <sha1>17966f06e6b255b57be9eda7e5be4590d675d7cb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-15-03-26-22-031869882-2b303230300a-91e47329-e275-4e99-92f0-240c16b62634_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>bce5b58cfc434014d2edb845c1fae605</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.amazon.com-Phobya-HeGrease-Extreme-High-Permormance-Compound-dp-B0067M0ZAU-2016-08-11-dfe55b98-00000.warc.gz" source="original">
+    <mtime>1470885878</mtime>
+    <size>5219363</size>
+    <md5>f5f1a9f9da8a51cb49ddfeb0e2437d08</md5>
+    <crc32>9b000022</crc32>
+    <sha1>fc5c4f29224240bada2583a7e55667e8bcd0f5a2</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-11-05-24-29-494105650-2b303230300a-d59023b0-36dd-49ea-af11-4fb7ce4ce94c_meta.xml" source="original">
+    <mtime>1470885897</mtime>
+    <size>838</size>
+    <md5>94eea83454dcc86918315287a548644b</md5>
+    <crc32>9366cfd1</crc32>
+    <sha1>07ed54f76f1fc26d513c544e1e2a1ac567d265b7</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-11-05-24-29-494105650-2b303230300a-d59023b0-36dd-49ea-af11-4fb7ce4ce94c_meta.sqlite" source="original">
+    <mtime>1470885893</mtime>
+    <size>9216</size>
+    <md5>e3c307c889b4e3a714ade705e08420fd</md5>
+    <crc32>cccac8b7</crc32>
+    <sha1>174c07e49adc2d7dbe45f38bc202552ca2f25c7b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.amazon.com-Phobya-HeGrease-Extreme-High-Permormance-Compound-dp-B0067M0ZAU-2016-08-11-dfe55b98-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.amazon.com-Phobya-HeGrease-Extreme-High-Permormance-Compound-dp-B0067M0ZAU-2016-08-11-dfe55b98-00000.warc.gz</original>
+    <mtime>1470885903</mtime>
+    <size>17985</size>
+    <md5>0fdb27cc0911818c9a1fea3e727d613d</md5>
+    <crc32>df3bb2cd</crc32>
+    <sha1>84ee5160aad1f4b487ebf9239a149b1c2f17893f</sha1>
+  </file>
+  <file name="W2016-08-11-05-24-29-494105650-2b303230300a-d59023b0-36dd-49ea-af11-4fb7ce4ce94c.cdx.idx" source="original">
+    <mtime>1470885915</mtime>
+    <size>97</size>
+    <md5>a3e5f83187f7419a9cf8f42ee3b4c7ba</md5>
+    <crc32>978ff7d5</crc32>
+    <sha1>436b1475f61b3f2d20f28d82054a270401ed548e</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-11-05-24-29-494105650-2b303230300a-d59023b0-36dd-49ea-af11-4fb7ce4ce94c.cdx.gz" source="original">
+    <mtime>1470885915</mtime>
+    <size>17650</size>
+    <md5>8168fc2c7cb2983b9007edaa2334ce0f</md5>
+    <crc32>494de7d0</crc32>
+    <sha1>62e8ac35f44849831cc8d66f9762050f1d461636</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-11-05-24-29-494105650-2b303230300a-d59023b0-36dd-49ea-af11-4fb7ce4ce94c_archive.torrent" source="metadata">
+    <btih>820bd4c802b2bfad5af57820eecfc02d8745f103</btih>
+    <mtime>1470885915</mtime>
+    <size>3312</size>
+    <md5>9d469f39f2a1174460e22348fca064d6</md5>
+    <crc32>afa5a186</crc32>
+    <sha1>058251273333de586a36881f0ceefb10143d2e8c</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-11-05-24-29-494105650-2b303230300a-d59023b0-36dd-49ea-af11-4fb7ce4ce94c_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>61a87b856a44c9efd5844c7db8f50ae6</md5>
+  </file>
+</files>

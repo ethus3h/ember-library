@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="www.whitehouse.gov-copyright-2016-08-17-9a6a45c1-meta.warc.gz" source="original">
+    <mtime>1471490538</mtime>
+    <size>25580</size>
+    <md5>11b2dac701e1fbc5202d2f450c3ee3c2</md5>
+    <crc32>5d573ec4</crc32>
+    <sha1>f8ab5ae12aebcb2950f4de40bba9f6fc709c0d05</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-18-05-22-12-003267868-2b303230300a-b697e10a-62ad-43c7-aa82-f9d1551ef3f2_meta.xml" source="original">
+    <mtime>1471490555</mtime>
+    <size>838</size>
+    <md5>86ad3f0b57275dddc154efc210e88a53</md5>
+    <crc32>f2f65c8b</crc32>
+    <sha1>af91cfa68b830f699b92aa1726ac8f7dcbf536d4</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-18-05-22-12-003267868-2b303230300a-b697e10a-62ad-43c7-aa82-f9d1551ef3f2_meta.sqlite" source="original">
+    <mtime>1471490550</mtime>
+    <size>8192</size>
+    <md5>1b36afab61134f7004523acf305a91c0</md5>
+    <crc32>67775868</crc32>
+    <sha1>0b9bdae2466c78b9a01c6df4c15dc6e72a42a13d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="www.whitehouse.gov-copyright-2016-08-17-9a6a45c1-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>www.whitehouse.gov-copyright-2016-08-17-9a6a45c1-meta.warc.gz</original>
+    <mtime>1471529840</mtime>
+    <size>47</size>
+    <md5>f9e9796f50ff358c127603dd1581f7ac</md5>
+    <crc32>bd849818</crc32>
+    <sha1>62ae3bda0d39980a46e03e612b0cc1db782ceffc</sha1>
+  </file>
+  <file name="W2016-08-18-05-22-12-003267868-2b303230300a-b697e10a-62ad-43c7-aa82-f9d1551ef3f2.cdx.gz" source="original">
+    <mtime>1471531680</mtime>
+    <size>47</size>
+    <md5>51a4223fa8084e45fad238b87d7b6ad3</md5>
+    <crc32>48a83eba</crc32>
+    <sha1>fd205dbca8bf6f29c52db014b38d8c2f4fa9cfe1</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-18-05-22-12-003267868-2b303230300a-b697e10a-62ad-43c7-aa82-f9d1551ef3f2.cdx.idx" source="original">
+    <mtime>1471531680</mtime>
+    <size>94</size>
+    <md5>d56be8db36c02b4b85fe1482dedef7ed</md5>
+    <crc32>4fc5fcba</crc32>
+    <sha1>3ec8935d5d2527d12ac8374aec7f17951fc905cd</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-18-05-22-12-003267868-2b303230300a-b697e10a-62ad-43c7-aa82-f9d1551ef3f2_archive.torrent" source="metadata">
+    <btih>ede73d30739d8c8d66ffb4c3a68e5d52612b8ea9</btih>
+    <mtime>1471531681</mtime>
+    <size>3001</size>
+    <md5>042fedf03c50e7c1c7722707c0b14dad</md5>
+    <crc32>b1d30826</crc32>
+    <sha1>50cc88492c84a38eeb8ea487a7c98ac1361b5b03</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-18-05-22-12-003267868-2b303230300a-b697e10a-62ad-43c7-aa82-f9d1551ef3f2_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d050b90107fc43b86f04f37f51e21627</md5>
+  </file>
+</files>

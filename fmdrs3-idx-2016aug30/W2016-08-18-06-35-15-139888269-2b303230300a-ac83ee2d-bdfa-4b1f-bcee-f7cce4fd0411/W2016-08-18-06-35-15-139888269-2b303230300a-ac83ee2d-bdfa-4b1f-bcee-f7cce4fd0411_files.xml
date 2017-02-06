@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-18-06-35-15-139888269-2b303230300a-ac83ee2d-bdfa-4b1f-bcee-f7cce4fd0411_meta.sqlite" source="original">
+    <mtime>1471494934</mtime>
+    <size>8192</size>
+    <md5>d211b83d84aade07ae4abda0571f22e6</md5>
+    <crc32>20466208</crc32>
+    <sha1>facfe405c2e643152ff3b667f8a1578d257b2111</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="umaine.edu-directory-search--q=list-2016-08-17-0364df92-meta.warc.gz" source="original">
+    <mtime>1471494921</mtime>
+    <size>7144</size>
+    <md5>717b6a643fef9d1da903819d02a07b0d</md5>
+    <crc32>73ef81d9</crc32>
+    <sha1>e0e2d4c4a9126b35f904bbd1708da2566b148ee8</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-18-06-35-15-139888269-2b303230300a-ac83ee2d-bdfa-4b1f-bcee-f7cce4fd0411_meta.xml" source="original">
+    <mtime>1471494939</mtime>
+    <size>838</size>
+    <md5>5c67b3c8d2b17360f8c16edb206bf289</md5>
+    <crc32>2317a3bd</crc32>
+    <sha1>c2eb108c83700e1d7a783240011408d59981aa88</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="umaine.edu-directory-search--q=list-2016-08-17-0364df92-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>umaine.edu-directory-search--q=list-2016-08-17-0364df92-meta.warc.gz</original>
+    <mtime>1471530089</mtime>
+    <size>47</size>
+    <md5>d07234f5023f6071e84011502f418e74</md5>
+    <crc32>d4cc3bc6</crc32>
+    <sha1>725adefbf38f01a4fa0161302e0728962af723b8</sha1>
+  </file>
+  <file name="W2016-08-18-06-35-15-139888269-2b303230300a-ac83ee2d-bdfa-4b1f-bcee-f7cce4fd0411.cdx.gz" source="original">
+    <mtime>1471531894</mtime>
+    <size>47</size>
+    <md5>f1f7e40d273a51cbadc6e617ec963f81</md5>
+    <crc32>9ffbd055</crc32>
+    <sha1>4c6e1f86a32ff6093c1a6dfd30ca37c3fed7a317</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-18-06-35-15-139888269-2b303230300a-ac83ee2d-bdfa-4b1f-bcee-f7cce4fd0411.cdx.idx" source="original">
+    <mtime>1471531894</mtime>
+    <size>94</size>
+    <md5>c4122b43db52499ad2705ba73df57f12</md5>
+    <crc32>e2b2597e</crc32>
+    <sha1>c04aae8c5303c09d14d6391f4e6c4b8c8a0b9b28</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-18-06-35-15-139888269-2b303230300a-ac83ee2d-bdfa-4b1f-bcee-f7cce4fd0411_archive.torrent" source="metadata">
+    <btih>c2bf15cdbcca9bb5d23e93eeef92de388aa1696a</btih>
+    <mtime>1471531895</mtime>
+    <size>3014</size>
+    <md5>4eaeebb7a7d353daea1a4226fc23cd8f</md5>
+    <crc32>8cc06dfd</crc32>
+    <sha1>e6cc696a8ca4018ce3cc11ccf8a000fd577968e0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-18-06-35-15-139888269-2b303230300a-ac83ee2d-bdfa-4b1f-bcee-f7cce4fd0411_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>47ac0b30075c3331812b1de34fe0559a</md5>
+  </file>
+</files>

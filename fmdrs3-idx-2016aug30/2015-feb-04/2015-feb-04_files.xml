@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="1-want.png" source="original">
+    <mtime>1423086918</mtime>
+    <size>234760</size>
+    <md5>7891eb716c45f9c21d87f65842aff736</md5>
+    <crc32>7448c24e</crc32>
+    <sha1>3920deb00cb74bfd7193c9e67058507c7a51dfe9</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="2015-feb-04_meta.sqlite" source="original">
+    <mtime>1423086937</mtime>
+    <size>11264</size>
+    <md5>e2ef755ee0511794a2ece3089ee4f653</md5>
+    <crc32>4cd9b0cf</crc32>
+    <sha1>818226b8e1906c1e8e1afe9b81c0dff5edae892c</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="2-have.png" source="original">
+    <mtime>1423086929</mtime>
+    <size>216760</size>
+    <md5>fb79b111839f845fef6b3166763f8bc8</md5>
+    <crc32>d96b3f11</crc32>
+    <sha1>2207fbcd8bfc4e2215f933e5b5f0c7fb52472443</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="3-get.png" source="original">
+    <mtime>1423086931</mtime>
+    <size>220137</size>
+    <md5>3737f348ae5dc871690bb0799b1145de</md5>
+    <crc32>916984bc</crc32>
+    <sha1>adf0533c9a5ddab378a33b84844ad35871ce713e</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="2015-feb-04_meta.xml" source="original">
+    <mtime>1423086947</mtime>
+    <size>682</size>
+    <format>Metadata</format>
+    <md5>d5ecc7a964b58f1bd75fb7d85a2da772</md5>
+    <crc32>2cb66a1f</crc32>
+    <sha1>d3a6dd75857be3d0b3a8dc9dcfc1a92b2947f634</sha1>
+  </file>
+  <file name="1-want_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>1-want.png</original>
+    <mtime>1423087781</mtime>
+    <size>4221</size>
+    <md5>5cb03a9c111ccc74ec65f9c84382ed6f</md5>
+    <crc32>1191f6c7</crc32>
+    <sha1>cdc3b58473de03b4b0e18c8f322924fe2ee2921e</sha1>
+  </file>
+  <file name="2-have_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>2-have.png</original>
+    <mtime>1423087782</mtime>
+    <size>4668</size>
+    <md5>1d1449282cc8670bcf322effa134cc9a</md5>
+    <crc32>17b2ea61</crc32>
+    <sha1>a087b31f8a1a0e62862f40bade4cdea95dbe52de</sha1>
+  </file>
+  <file name="3-get_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>3-get.png</original>
+    <mtime>1423087783</mtime>
+    <size>4757</size>
+    <md5>d3672cf0a121b86cb1c3d5a06cab2148</md5>
+    <crc32>21166b1d</crc32>
+    <sha1>b9d85c5e3ceccac50f9b0a6fb6f90ec999615057</sha1>
+  </file>
+  <file name="2015-feb-04_archive.torrent" source="metadata">
+    <btih>a1b7e2cf7f1e182026ac3395c2ed80dd7c4a0f57</btih>
+    <mtime>1423087790</mtime>
+    <size>2489</size>
+    <md5>8f2955e452441f2b1e69c74876e25228</md5>
+    <crc32>b34caf97</crc32>
+    <sha1>3b610dfff158f31337747e0f81eece34a9be9085</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="2015-feb-04_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>25c201621a0f84316b18976798927443</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="peoplesworld.org-dallas-darling-2016-08-24-9a2a3815-meta.warc.gz" source="original">
+    <mtime>1472104072</mtime>
+    <size>6364</size>
+    <md5>788c9e934adc3f0a57f469fad2dc4ec9</md5>
+    <crc32>811a0f00</crc32>
+    <sha1>f1e5af790809a3c52d94b5d46d31c22feedb6199</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-25-07-47-46-143912773-2b303230300a-379fe79b-c873-4a80-af83-a86908c68de1_meta.xml" source="original">
+    <mtime>1472104088</mtime>
+    <size>838</size>
+    <md5>c08fa0ccd15208200b76054940150128</md5>
+    <crc32>3886917e</crc32>
+    <sha1>0074ca044d490740d7a02336d45864da1bb366b1</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-25-07-47-46-143912773-2b303230300a-379fe79b-c873-4a80-af83-a86908c68de1_meta.sqlite" source="original">
+    <mtime>1472104084</mtime>
+    <size>8192</size>
+    <md5>2aa5a230644f7859982cfd612d7527e0</md5>
+    <crc32>39405d7e</crc32>
+    <sha1>435032561a4c8e700a957ee3776157ccced56f8f</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="peoplesworld.org-dallas-darling-2016-08-24-9a2a3815-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>peoplesworld.org-dallas-darling-2016-08-24-9a2a3815-meta.warc.gz</original>
+    <mtime>1472104094</mtime>
+    <size>47</size>
+    <md5>8dd775c6b25c1489503404e76c18057e</md5>
+    <crc32>711cd49a</crc32>
+    <sha1>f64baea04c859f61f1ee66c747917b6e620ab09c</sha1>
+  </file>
+  <file name="W2016-08-25-07-47-46-143912773-2b303230300a-379fe79b-c873-4a80-af83-a86908c68de1.cdx.idx" source="original">
+    <mtime>1472104106</mtime>
+    <size>94</size>
+    <md5>39002e451348e09926dfa1a0fe1c5f3a</md5>
+    <crc32>ab6e320d</crc32>
+    <sha1>9df776b7dd0fd9702d4430fe765d51128be6a417</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-25-07-47-46-143912773-2b303230300a-379fe79b-c873-4a80-af83-a86908c68de1.cdx.gz" source="original">
+    <mtime>1472104106</mtime>
+    <size>47</size>
+    <md5>8d8b6af660ab83b84a4d2475e09d9a6c</md5>
+    <crc32>f185cd8d</crc32>
+    <sha1>a8a87446118b8d40f5edff4a9dc4da0355206a1a</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-25-07-47-46-143912773-2b303230300a-379fe79b-c873-4a80-af83-a86908c68de1_archive.torrent" source="metadata">
+    <btih>bfdc147f0b6b2efda1cafff3e098f94666291f94</btih>
+    <mtime>1472104107</mtime>
+    <size>3006</size>
+    <md5>e801d28c0bcd722e7147a0600b50c9e4</md5>
+    <crc32>d5909aaa</crc32>
+    <sha1>2621cc2c6f8d9dbdb2b9003b1e9fa56d0e37e2b3</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-25-07-47-46-143912773-2b303230300a-379fe79b-c873-4a80-af83-a86908c68de1_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>31beb1c86e36859a7630d68af93e0878</md5>
+  </file>
+</files>

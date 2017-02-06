@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.mp4.description" source="original">
+    <mtime>1430633639</mtime>
+    <size>29</size>
+    <md5>92f6a54da6f2ee40521db8fb52cb9800</md5>
+    <crc32>5e5f33a6</crc32>
+    <sha1>192b3b25a1ec1d87198de0090bb6ed959e488488</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.mp4.annotations.xml" source="original">
+    <mtime>1430633637</mtime>
+    <size>87</size>
+    <md5>8b5e6989c77b2dd00f4d947d4833f697</md5>
+    <crc32>ebde1c92</crc32>
+    <sha1>324156a033670198eaba2922ca07ccae0d90d166</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="OAVMTRAcuc1I_meta.sqlite" source="original">
+    <mtime>1430633645</mtime>
+    <size>15360</size>
+    <md5>a30df84fb9b432156739b984d9765495</md5>
+    <crc32>a6f0f2c2</crc32>
+    <sha1>c604ce74404f9f0f6c8c6f6adc55cabaecefb7a3</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.jpg" source="original">
+    <mtime>1430633627</mtime>
+    <size>15203</size>
+    <md5>c77bb11ad0c2b4104f4008e70e01bc34</md5>
+    <crc32>7304d731</crc32>
+    <sha1>d77be0642e14a1d914c55ee73fd2c7203a614fd4</sha1>
+    <format>JPEG</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.info.json" source="original">
+    <mtime>1430633610</mtime>
+    <size>38263</size>
+    <md5>ad14905ee065548471822fab6ce3ca35</md5>
+    <crc32>fa875718</crc32>
+    <sha1>dec864f0c0a9077d6cef46462da526e011e90e01</sha1>
+    <format>JSON</format>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.mp4" source="original">
+    <mtime>1430633635</mtime>
+    <size>12092495</size>
+    <md5>c672146ae1d3042f7e4343933705aff5</md5>
+    <crc32>9cbed0ab</crc32>
+    <sha1>449c894a95218fcef140a3c6f05fe7accfdcc75f</sha1>
+    <format>MPEG4</format>
+    <length>98.15</length>
+    <height>480</height>
+    <width>640</width>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f141.m4a" source="original">
+    <mtime>1430633625</mtime>
+    <size>3129886</size>
+    <md5>60b8412eebfdfd4f9e3a5b8186cefe00</md5>
+    <crc32>85dd7fd3</crc32>
+    <sha1>56b029f82e77964fccc2f2c90a282c9fc0b6fc72</sha1>
+    <format>Apple Lossless Audio</format>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f135.mp4" source="original">
+    <mtime>1430633622</mtime>
+    <size>8918480</size>
+    <md5>674f432be9fcd6e466e0795e28e7eaae</md5>
+    <crc32>99c888f4</crc32>
+    <sha1>3b8cd54af5a0ee34db946524f352756c81a2a149</sha1>
+    <format>MPEG4</format>
+    <length>98.07</length>
+    <height>480</height>
+    <width>640</width>
+  </file>
+  <file name="OAVMTRAcuc1I_meta.xml" source="original">
+    <mtime>1430633966</mtime>
+    <size>753</size>
+    <format>Metadata</format>
+    <md5>ce52d440637826fa0762b2a0428c7b2e</md5>
+    <crc32>d0f0d4ee</crc32>
+    <sha1>4f2afd88b862f8bc7163aa9f56826ffbceb4d209</sha1>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430633999</mtime>
+    <size>283690</size>
+    <md5>3adbbffc91df0fa20f2e2aee20190f64</md5>
+    <crc32>ab11f42d</crc32>
+    <sha1>029d4f7ec9709d7ed7210acf4a7c69a46fd86656</sha1>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f135.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634030</mtime>
+    <size>283690</size>
+    <md5>3adbbffc91df0fa20f2e2aee20190f64</md5>
+    <crc32>ab11f42d</crc32>
+    <sha1>029d4f7ec9709d7ed7210acf4a7c69a46fd86656</sha1>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f141_esslow.json.gz" source="derivative">
+    <format>Essentia Low GZ</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f141.m4a</original>
+    <mtime>1430634297</mtime>
+    <size>22621</size>
+    <md5>3156394c0dd12ab6cdcd19ac701257a8</md5>
+    <crc32>46f841d7</crc32>
+    <sha1>a7e8f0fec04d7f3b7ce3312359765e1c627d538f</sha1>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.jpg</original>
+    <mtime>1430634285</mtime>
+    <size>4192</size>
+    <md5>d3aef717c4159e553087ef9492c74b17</md5>
+    <crc32>83701dd2</crc32>
+    <sha1>cee419fadbae47a230e7fd6014e6c666008b990a</sha1>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634284</mtime>
+    <size>7462690</size>
+    <md5>68bbe5b290ba368a88cd01b224f18a0e</md5>
+    <crc32>cdb8fbe0</crc32>
+    <sha1>0fe0826ce450dee8ebdda57afa5d36e9c0681151</sha1>
+    <length>98.15</length>
+    <height>300</height>
+    <width>400</width>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f141.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f141.m4a</original>
+    <mtime>1430634098</mtime>
+    <size>920750</size>
+    <md5>c64605e96dd10e1f224be6e8b469e4fe</md5>
+    <crc32>94cb37be</crc32>
+    <sha1>f259f44a83a657e7c74bb95aff39d7272d5545f4</sha1>
+    <length>98.15</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000037.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634042</mtime>
+    <size>2017</size>
+    <md5>872eea0f5d1605f24543b3b2100fca35</md5>
+    <crc32>f97a1af8</crc32>
+    <sha1>bb460f7991c4c0c8312ce136332c23a766233652</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000097.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634060</mtime>
+    <size>1631</size>
+    <md5>e450ba5e95c70401eff66335cb216de7</md5>
+    <crc32>b291f74c</crc32>
+    <sha1>fc0aedd9a02ea079b5cddd3cedb4c93e99246f09</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000072.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634053</mtime>
+    <size>1577</size>
+    <md5>f5a02fd379fe2dac03e8bec62aa9d0df</md5>
+    <crc32>6bc5606e</crc32>
+    <sha1>0ec1cbcaa48662733f16dc64b2a47d9fbbe9b058</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000012.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634066</mtime>
+    <size>3957</size>
+    <md5>bfbf08a2c96d14c86370d6854fd2b263</md5>
+    <crc32>9bf3ee53</crc32>
+    <sha1>3c5106800e22875effd70583742513f7d8071ae8</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000022.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634069</mtime>
+    <size>3257</size>
+    <md5>f8f9643d0872dbfdad1dc67a94e14162</md5>
+    <crc32>23dc3a71</crc32>
+    <sha1>1f83c238ae387cc1c851e6d7719c47eb99d9a5a3</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000092.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634086</mtime>
+    <size>1604</size>
+    <md5>4f826d6b2def754c94b69b9739f90b7b</md5>
+    <crc32>1a428fc6</crc32>
+    <sha1>ec80053b00ddbe8ff8c35ea1a77115e3eca1e04e</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000082.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634056</mtime>
+    <size>1859</size>
+    <md5>4c60333065c2e59e71afac5f9248ce81</md5>
+    <crc32>a89f0a90</crc32>
+    <sha1>4bfca5917ff1a11ab7bac5ec352e777ddbf6522c</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000007.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634065</mtime>
+    <size>8036</size>
+    <md5>b7b89182c724e269fec09fedb832c92f</md5>
+    <crc32>cd5ea28b</crc32>
+    <sha1>58a8de36a3efbab8ba6bd1cf695197efdd641f9a</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000047.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634075</mtime>
+    <size>1653</size>
+    <md5>7ed6bfea8af26a888038a6f59999c9af</md5>
+    <crc32>20c241e2</crc32>
+    <sha1>2d254f7d84ea88a3af76de19fb2d8d0152971fcc</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000007.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634033</mtime>
+    <size>8036</size>
+    <md5>b7b89182c724e269fec09fedb832c92f</md5>
+    <crc32>cd5ea28b</crc32>
+    <sha1>58a8de36a3efbab8ba6bd1cf695197efdd641f9a</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634032</mtime>
+    <size>9722</size>
+    <md5>0cdc4f5b257160ac90ef7eb2a431f9a1</md5>
+    <crc32>c4f7e7ac</crc32>
+    <sha1>3a598d6edd3289568f082388654ada2ce8264cec</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000047.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634045</mtime>
+    <size>1653</size>
+    <md5>7ed6bfea8af26a888038a6f59999c9af</md5>
+    <crc32>20c241e2</crc32>
+    <sha1>2d254f7d84ea88a3af76de19fb2d8d0152971fcc</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000097.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634087</mtime>
+    <size>1631</size>
+    <md5>e450ba5e95c70401eff66335cb216de7</md5>
+    <crc32>b291f74c</crc32>
+    <sha1>fc0aedd9a02ea079b5cddd3cedb4c93e99246f09</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000052.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634047</mtime>
+    <size>1591</size>
+    <md5>1cde77ab0f873f5c2a0448d34f8560e6</md5>
+    <crc32>d90bfc73</crc32>
+    <sha1>f7cd6ebe775414763d18317bf9d1b5be13044536</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000027.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634039</mtime>
+    <size>2307</size>
+    <md5>95e82aa7a9c44f6ceb9da756166810b7</md5>
+    <crc32>52d2e562</crc32>
+    <sha1>82cfd4af1a799e2fbe709e5b1d36d7963abe6f47</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000067.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634081</mtime>
+    <size>1610</size>
+    <md5>5008c686dec8d57e193e4c4e3f06733d</md5>
+    <crc32>b94f23b5</crc32>
+    <sha1>3554ac4385c06e8a6dfb3ed418de6d8727943945</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000027.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634070</mtime>
+    <size>2307</size>
+    <md5>95e82aa7a9c44f6ceb9da756166810b7</md5>
+    <crc32>52d2e562</crc32>
+    <sha1>82cfd4af1a799e2fbe709e5b1d36d7963abe6f47</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000037.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634073</mtime>
+    <size>2017</size>
+    <md5>872eea0f5d1605f24543b3b2100fca35</md5>
+    <crc32>f97a1af8</crc32>
+    <sha1>bb460f7991c4c0c8312ce136332c23a766233652</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634078</mtime>
+    <size>1317</size>
+    <md5>e9fe2148ebb1829342a57e33e558c8b5</md5>
+    <crc32>2d2dac2a</crc32>
+    <sha1>3ef11ea7b4ff132431a8c7d65719db5aa0c1ad4d</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000042.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634044</mtime>
+    <size>1762</size>
+    <md5>ed6af7a393aa003554653fd8fa1e602a</md5>
+    <crc32>b530d09e</crc32>
+    <sha1>5c33ef62a76e46eaa01632156853e9476fef307a</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000077.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634054</mtime>
+    <size>2252</size>
+    <md5>707220a7dd8700e9873ac81ddeafa20a</md5>
+    <crc32>e2c96bd9</crc32>
+    <sha1>1a44acec39c67a08eafbb82a09adc9f314d63965</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000012.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634035</mtime>
+    <size>3957</size>
+    <md5>bfbf08a2c96d14c86370d6854fd2b263</md5>
+    <crc32>9bf3ee53</crc32>
+    <sha1>3c5106800e22875effd70583742513f7d8071ae8</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634085</mtime>
+    <size>1972</size>
+    <md5>9a541e078ede77db927ccc213858d6f3</md5>
+    <crc32>d7fc9440</crc32>
+    <sha1>a84d89c831c5219867931eb5f0390c29cdcd0b4a</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000042.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634074</mtime>
+    <size>1762</size>
+    <md5>ed6af7a393aa003554653fd8fa1e602a</md5>
+    <crc32>b530d09e</crc32>
+    <sha1>5c33ef62a76e46eaa01632156853e9476fef307a</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000087.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634057</mtime>
+    <size>1972</size>
+    <md5>9a541e078ede77db927ccc213858d6f3</md5>
+    <crc32>d7fc9440</crc32>
+    <sha1>a84d89c831c5219867931eb5f0390c29cdcd0b4a</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000067.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634051</mtime>
+    <size>1610</size>
+    <md5>5008c686dec8d57e193e4c4e3f06733d</md5>
+    <crc32>b94f23b5</crc32>
+    <sha1>3554ac4385c06e8a6dfb3ed418de6d8727943945</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000082.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634084</mtime>
+    <size>1859</size>
+    <md5>4c60333065c2e59e71afac5f9248ce81</md5>
+    <crc32>a89f0a90</crc32>
+    <sha1>4bfca5917ff1a11ab7bac5ec352e777ddbf6522c</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000032.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634071</mtime>
+    <size>2099</size>
+    <md5>5635ec67af96269cc103f7aaf5e94ba6</md5>
+    <crc32>7cbef545</crc32>
+    <sha1>dec84a8e7dbf39de8f3bab428532da141c71d486</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000062.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634050</mtime>
+    <size>1743</size>
+    <md5>01b293663b676c9b84b99bf30ce4d615</md5>
+    <crc32>15091326</crc32>
+    <sha1>c81b30fc559b760c66b295011a9ab01941905c30</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000017.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634067</mtime>
+    <size>3880</size>
+    <md5>61926779dab5d97a9244b6420e93129d</md5>
+    <crc32>5732904e</crc32>
+    <sha1>d858b63a7dac4b0467b41d3f8165568cf6065f6e</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000062.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634080</mtime>
+    <size>1743</size>
+    <md5>01b293663b676c9b84b99bf30ce4d615</md5>
+    <crc32>15091326</crc32>
+    <sha1>c81b30fc559b760c66b295011a9ab01941905c30</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000077.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634083</mtime>
+    <size>2252</size>
+    <md5>707220a7dd8700e9873ac81ddeafa20a</md5>
+    <crc32>e2c96bd9</crc32>
+    <sha1>1a44acec39c67a08eafbb82a09adc9f314d63965</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634063</mtime>
+    <size>9722</size>
+    <md5>0cdc4f5b257160ac90ef7eb2a431f9a1</md5>
+    <crc32>c4f7e7ac</crc32>
+    <sha1>3a598d6edd3289568f082388654ada2ce8264cec</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000052.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634077</mtime>
+    <size>1591</size>
+    <md5>1cde77ab0f873f5c2a0448d34f8560e6</md5>
+    <crc32>d90bfc73</crc32>
+    <sha1>f7cd6ebe775414763d18317bf9d1b5be13044536</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000017.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634036</mtime>
+    <size>3880</size>
+    <md5>61926779dab5d97a9244b6420e93129d</md5>
+    <crc32>5732904e</crc32>
+    <sha1>d858b63a7dac4b0467b41d3f8165568cf6065f6e</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000092.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634059</mtime>
+    <size>1604</size>
+    <md5>4f826d6b2def754c94b69b9739f90b7b</md5>
+    <crc32>1a428fc6</crc32>
+    <sha1>ec80053b00ddbe8ff8c35ea1a77115e3eca1e04e</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000032.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634041</mtime>
+    <size>2099</size>
+    <md5>5635ec67af96269cc103f7aaf5e94ba6</md5>
+    <crc32>7cbef545</crc32>
+    <sha1>dec84a8e7dbf39de8f3bab428532da141c71d486</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I_000072.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.mp4</original>
+    <mtime>1430634082</mtime>
+    <size>1577</size>
+    <md5>f5a02fd379fe2dac03e8bec62aa9d0df</md5>
+    <crc32>6bc5606e</crc32>
+    <sha1>0ec1cbcaa48662733f16dc64b2a47d9fbbe9b058</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000057.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634048</mtime>
+    <size>1317</size>
+    <md5>e9fe2148ebb1829342a57e33e558c8b5</md5>
+    <crc32>2d2dac2a</crc32>
+    <sha1>3ef11ea7b4ff132431a8c7d65719db5aa0c1ad4d</sha1>
+  </file>
+  <file name="OAVMTRAcuc1I.thumbs/O.A.しおちゃん-VMTRAcuc-1I.f135_000022.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634038</mtime>
+    <size>3257</size>
+    <md5>f8f9643d0872dbfdad1dc67a94e14162</md5>
+    <crc32>23dc3a71</crc32>
+    <sha1>1f83c238ae387cc1c851e6d7719c47eb99d9a5a3</sha1>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f141_esshigh.json.gz" source="derivative">
+    <format>Essentia High GZ</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f141_esslow.json.gz</original>
+    <mtime>1430634313</mtime>
+    <size>1841</size>
+    <md5>f45af3f3a84e4ad2ae0b7cd5cdf7a301</md5>
+    <crc32>46e105e5</crc32>
+    <sha1>8408439ce13d93ea6944bf9b885229037771125d</sha1>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f141.png" source="derivative">
+    <format>PNG</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f141.m4a</original>
+    <mtime>1430634289</mtime>
+    <size>12085</size>
+    <md5>ae06568532d550f92fe06cf63cbb2fc5</md5>
+    <crc32>3eea1370</crc32>
+    <sha1>ccdffb7e2c59151d90e8ba94431c6703f72ba6f5</sha1>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f141.afpk" source="derivative">
+    <format>Columbia Peaks</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f141.m4a</original>
+    <mtime>1430634302</mtime>
+    <size>16120</size>
+    <md5>43146925438799c4bad56ff3cb112ad9</md5>
+    <crc32>9fca954f</crc32>
+    <sha1>dc10a18fca3a8c5084cf39e165f6000a0a120752</sha1>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f141.mp3" source="derivative">
+    <bitrate>154</bitrate>
+    <length>01:38</length>
+    <format>VBR MP3</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f141.m4a</original>
+    <mtime>1430634094</mtime>
+    <size>1938432</size>
+    <md5>7d9d98649249eb7055296a7c9aec8d8a</md5>
+    <crc32>14978f17</crc32>
+    <sha1>68fd8b6394de376299178f59a9912f1177a51f25</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="O.A.しおちゃん-VMTRAcuc-1I.f135.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>O.A.しおちゃん-VMTRAcuc-1I.f135.mp4</original>
+    <mtime>1430634189</mtime>
+    <size>6321570</size>
+    <md5>658b5a95a33731cccd3e1f53e7f498db</md5>
+    <crc32>44d8d450</crc32>
+    <sha1>09ed930362d04e449fad8a0f6d161c4c6f8435a5</sha1>
+    <length>98.1</length>
+    <height>300</height>
+    <width>400</width>
+  </file>
+  <file name="OAVMTRAcuc1I_archive.torrent" source="metadata">
+    <btih>38a786bc5974d691dab1e956c305346304b34dfc</btih>
+    <mtime>1430634320</mtime>
+    <size>4317</size>
+    <md5>b7e2e0719aba05007d54fc7b89aa7f89</md5>
+    <crc32>31fb4573</crc32>
+    <sha1>60f5fd7c917acdb0bacb3fa7c64c4ec9415bb70a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="OAVMTRAcuc1I_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9bbfca8920ef99e7cf1641792d490364</md5>
+  </file>
+</files>

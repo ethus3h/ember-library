@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="en.wikipedia.org-wiki-BitTorrent_%28protocol%29-Web_seeding-2016-08-25-4e91ce89-00000.warc.gz" source="original">
+    <mtime>1472154326</mtime>
+    <size>442931</size>
+    <md5>e1bb0f620d72802deb6d6e318b44e9ca</md5>
+    <crc32>45235b73</crc32>
+    <sha1>c33e0e0eb28cf63ab2554cbc4128309780decd7d</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-25-21-45-19-923621850-2b303230300a-35bcca40-d99c-4dd2-a852-3c6db93bdff7_meta.xml" source="original">
+    <mtime>1472154343</mtime>
+    <size>838</size>
+    <md5>03e0e75f6ca72c99b208d948a6f65bb2</md5>
+    <crc32>327311c6</crc32>
+    <sha1>5411ff705a73835d10d004f574bbbde46e33fc0b</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-25-21-45-19-923621850-2b303230300a-35bcca40-d99c-4dd2-a852-3c6db93bdff7_meta.sqlite" source="original">
+    <mtime>1472154339</mtime>
+    <size>9216</size>
+    <md5>f437919aa822ec10c98b7826fefbe6b2</md5>
+    <crc32>f38e2320</crc32>
+    <sha1>0dd216f597f1f20323b970cbad90920c88a7280e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="en.wikipedia.org-wiki-BitTorrent_%28protocol%29-Web_seeding-2016-08-25-4e91ce89-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>en.wikipedia.org-wiki-BitTorrent_%28protocol%29-Web_seeding-2016-08-25-4e91ce89-00000.warc.gz</original>
+    <mtime>1472156262</mtime>
+    <size>5599</size>
+    <md5>ac0a3ff14c71df34c4685375962c4ec8</md5>
+    <crc32>ad8c87f6</crc32>
+    <sha1>eed44de4b74b161c644c1f55d76a24e1f0bb93e0</sha1>
+  </file>
+  <file name="W2016-08-25-21-45-19-923621850-2b303230300a-35bcca40-d99c-4dd2-a852-3c6db93bdff7.cdx.gz" source="original">
+    <mtime>1472156875</mtime>
+    <size>5470</size>
+    <md5>422023094ad24751550c5d28da09eee9</md5>
+    <crc32>59cf2e82</crc32>
+    <sha1>7bc7783dbaedadd372e7b672813d0aed56544f85</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-25-21-45-19-923621850-2b303230300a-35bcca40-d99c-4dd2-a852-3c6db93bdff7.cdx.idx" source="original">
+    <mtime>1472156875</mtime>
+    <size>96</size>
+    <md5>7e3d1c959fcc243d2a20b93ab157f057</md5>
+    <crc32>65ad982d</crc32>
+    <sha1>5e34669ad1078c57081c15630e4a08e206e52e15</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-25-21-45-19-923621850-2b303230300a-35bcca40-d99c-4dd2-a852-3c6db93bdff7_archive.torrent" source="metadata">
+    <btih>1212ff3c475c418b17e19dd1449571f59d2b423f</btih>
+    <mtime>1472156875</mtime>
+    <size>3071</size>
+    <md5>7a11a9641ea863a15ff4e897fb099b03</md5>
+    <crc32>bacd3acc</crc32>
+    <sha1>7ae80f90f5d37b4ceb846e56889bfa6bd3272c11</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-25-21-45-19-923621850-2b303230300a-35bcca40-d99c-4dd2-a852-3c6db93bdff7_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>90da76c98fa23cd124a84a9870409154</md5>
+  </file>
+</files>

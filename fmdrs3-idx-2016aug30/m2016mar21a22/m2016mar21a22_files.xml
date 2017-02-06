@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="m2016mar21a22_meta.sqlite" source="original">
+    <mtime>1458624495</mtime>
+    <size>8192</size>
+    <md5>9713d65ef67d40efc086a42b6582b3de</md5>
+    <crc32>65468648</crc32>
+    <sha1>a1e3da675bc4c7100c17cdefedfb6d5a7e0aa1fc</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="mirror.nsc.liu.se-centos-store-2016-03-21-a0032c11-00000.warc.gz" source="original">
+    <mtime>1458624356</mtime>
+    <size>5385260906</size>
+    <md5>e9d867aa759856c664d6a809b7ad7f0b</md5>
+    <crc32>cb710f90</crc32>
+    <sha1>0f478e1b6fbb45ac5ebde717c8dd5181a239eadb</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="m2016mar21a22_meta.xml" source="original">
+    <mtime>1458624633</mtime>
+    <size>531</size>
+    <format>Metadata</format>
+    <md5>ffc715d07234d75a769050f9c2e5339d</md5>
+    <crc32>6bef153c</crc32>
+    <sha1>bb41343f512a0aa627252c48fb36471ea998f713</sha1>
+  </file>
+  <file name="mirror.nsc.liu.se-centos-store-2016-03-21-a0032c11-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>mirror.nsc.liu.se-centos-store-2016-03-21-a0032c11-00000.warc.gz</original>
+    <mtime>1458624765</mtime>
+    <size>205425</size>
+    <md5>e14a1f312354725d0572295cd21848f1</md5>
+    <crc32>8857f21e</crc32>
+    <sha1>c0d20c219727c7062af585e4d3a6fdd2851ee850</sha1>
+  </file>
+  <file name="m2016mar21a22.cdx.idx" source="original">
+    <mtime>1458624778</mtime>
+    <size>123</size>
+    <md5>81a44ae954a22235eabc182f4be54bad</md5>
+    <crc32>7a9a2a2b</crc32>
+    <sha1>253c03f93936d18950fb24b9c17245c160c97344</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="m2016mar21a22.cdx.gz" source="original">
+    <mtime>1458624778</mtime>
+    <size>199531</size>
+    <md5>fb504577a44019e4fdeb14d42119303f</md5>
+    <crc32>fe813e9b</crc32>
+    <sha1>c7b777549ab7b9be856ab54bef811655223ddc9c</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="m2016mar21a22_archive.torrent" source="metadata">
+    <btih>aaa0f43e3ca882fbca0880fb72b0a137138c4c18</btih>
+    <mtime>1458624778</mtime>
+    <size>28399</size>
+    <md5>ae89a634c8cdee1729357a87bcc6dac7</md5>
+    <crc32>b7d53856</crc32>
+    <sha1>d33aab37720f68a2fc31175ec977581717d14c92</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="m2016mar21a22_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>d46554efc6e6669e7c9a71d90db59474</md5>
+  </file>
+</files>

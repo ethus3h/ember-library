@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations>
+<annotation id="annotation_1478951187" type="text" style="highlightText" logable="false">
+  
+  <segment spaceRelative="annotation_3614222209">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3614222209" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3614222209" type="highlight" log_data="l-class=5&amp;a-type=3&amp;len-sec=325&amp;a-id=annotation_3614222209&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fbeautifulvibesmusic%3Fsub_confirmation%3D1">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="14.22300" h="7.21100" t="0:05.370"/>
+      <rectRegion x="0.00000" y="0.00000" w="14.22300" h="7.21100" t="5:31.093"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/beautifulvibesmusic?sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:54c9d574-0000-2051-ab96-001a113d4b18" style="video" type="promotion"
+            log_data="ret-exp=-4&amp;msg=0&amp;link-id=idWW1a8ossA&amp;a-v=ZRuGPap6DVc&amp;a-id=54c9d574-0000-2051-ab96-001a113d4b18&amp;ret-smrt=1&amp;a-type=13&amp;len-sec=15&amp;ret-t=15&amp;is-live=0&amp;xble=1&amp;a-ch=UC6K7DD3kRrO96q7lFixx_IQ">
+  <data>{&quot;is_mobile&quot;: false, &quot;video_duration&quot;: &quot;4:14&quot;, &quot;start_ms&quot;: 317000, &quot;is_live&quot;: false, &quot;end_ms&quot;: 332000, &quot;text_line_1&quot;: &quot;Suggested by Beautiful Vibes&quot;, &quot;text_line_2&quot;: &quot;The Notorious B.I.G. - Everyday Struggle (James Carter, DFLV \u0026 Erik Remix)&quot;, &quot;image_url&quot;: &quot;https:\/\/i.ytimg.com\/vi\/idWW1a8ossA\/mqdefault.jpg&quot;, &quot;collapse_delay_ms&quot;: 86400000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=idWW1a8ossA&amp;src_vid=ZRuGPap6DVc&amp;feature=iv&amp;annotation_id=54c9d574-0000-2051-ab96-001a113d4b18"/>
+  </action>
+</annotation>
+</annotations></document>

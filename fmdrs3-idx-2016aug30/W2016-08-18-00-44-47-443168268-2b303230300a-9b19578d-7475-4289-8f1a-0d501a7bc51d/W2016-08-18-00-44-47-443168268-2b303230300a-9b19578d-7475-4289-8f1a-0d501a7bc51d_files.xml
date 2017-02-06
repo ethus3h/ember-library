@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="upload.wikimedia.org-wikipedia-commons-archive-7-7f-20061117161128-Tartan_Ribbon.jpg-2016-08-16-d222e572-00000.warc.gz" source="original">
+    <mtime>1471473893</mtime>
+    <size>4216</size>
+    <md5>49cb88a5294445c78a94914ff0c1a151</md5>
+    <crc32>c5341048</crc32>
+    <sha1>2613fd34feb24f34bf801221d5d769d91cc979e6</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="W2016-08-18-00-44-47-443168268-2b303230300a-9b19578d-7475-4289-8f1a-0d501a7bc51d_meta.sqlite" source="original">
+    <mtime>1471473905</mtime>
+    <size>9216</size>
+    <md5>4d770b9e43209d9b5c50d5be207dd53c</md5>
+    <crc32>b8ace19d</crc32>
+    <sha1>fde823c4743ff37f34275d80bd29f8295942491d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-18-00-44-47-443168268-2b303230300a-9b19578d-7475-4289-8f1a-0d501a7bc51d_meta.xml" source="original">
+    <mtime>1471473910</mtime>
+    <size>838</size>
+    <md5>5eefd69e09f97ada5ff6efe2f2b23a86</md5>
+    <crc32>42697a75</crc32>
+    <sha1>ab7a7f52656966420c8ee06b6ddb1eb67494b3f2</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="upload.wikimedia.org-wikipedia-commons-archive-7-7f-20061117161128-Tartan_Ribbon.jpg-2016-08-16-d222e572-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>upload.wikimedia.org-wikipedia-commons-archive-7-7f-20061117161128-Tartan_Ribbon.jpg-2016-08-16-d222e572-00000.warc.gz</original>
+    <mtime>1471473916</mtime>
+    <size>309</size>
+    <md5>680db8cb2179e53f6136a9ab25016a3b</md5>
+    <crc32>d9af0d1d</crc32>
+    <sha1>d7515e2e0b43e8e4205dd5c1d224decbcfcc12bb</sha1>
+  </file>
+  <file name="W2016-08-18-00-44-47-443168268-2b303230300a-9b19578d-7475-4289-8f1a-0d501a7bc51d.cdx.idx" source="original">
+    <mtime>1471473927</mtime>
+    <size>95</size>
+    <md5>fdcd4fba93b9d9c22b49c3e8056ce95f</md5>
+    <crc32>609614a4</crc32>
+    <sha1>3248232efe94ff8f900919248a5b4ae62dae732f</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-18-00-44-47-443168268-2b303230300a-9b19578d-7475-4289-8f1a-0d501a7bc51d.cdx.gz" source="original">
+    <mtime>1471473927</mtime>
+    <size>309</size>
+    <md5>2f4e950eb06dd674579a2beeae389796</md5>
+    <crc32>bb449def</crc32>
+    <sha1>13996d95a481beb558e4387f213c1f9913228a51</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-18-00-44-47-443168268-2b303230300a-9b19578d-7475-4289-8f1a-0d501a7bc51d_archive.torrent" source="metadata">
+    <btih>adb7a8658866e5647052d9031c804d2b9d345822</btih>
+    <mtime>1471473928</mtime>
+    <size>3116</size>
+    <md5>72b68d96c0594d3fbb481b0202c34912</md5>
+    <crc32>d6978a4f</crc32>
+    <sha1>d4ddc4fb05517a8c903eff87cea75b5941e7a4a8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-18-00-44-47-443168268-2b303230300a-9b19578d-7475-4289-8f1a-0d501a7bc51d_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>0538f223297f5abcfec44fd972c14c4f</md5>
+  </file>
+</files>

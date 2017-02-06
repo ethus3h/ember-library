@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="mdsc-web-2015july19a20-00000.warc.gz" source="original">
+    <mtime>1437390572</mtime>
+    <size>524707076</size>
+    <md5>e485d0ef9eb6949005528e72b17c177c</md5>
+    <crc32>fb82a3c5</crc32>
+    <sha1>172127068c922c17b21c68545d1724f38905554c</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="mdsc-web-2015july19a20-00001.warc.gz" source="original">
+    <mtime>1437395928</mtime>
+    <size>330673799</size>
+    <md5>b85a9032cc1552b8e652cc22d0ff8abe</md5>
+    <crc32>5d69aca9</crc32>
+    <sha1>a5ab6c7dad9e34257740019ad14fc65089ea9038</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="Terminal Saved Output md5sums 2015july19a20.txt" source="original">
+    <mtime>1437395935</mtime>
+    <size>142978</size>
+    <md5>96eefd7c62aaaee5b2fc037bc5f83029</md5>
+    <crc32>b89efcaf</crc32>
+    <sha1>ecda75ff3edd9962da426feed3566dbbd25500dc</sha1>
+    <format>Text</format>
+  </file>
+  <file name="mdsc-web-2015july19a20-meta.warc.gz" source="original">
+    <mtime>1437395933</mtime>
+    <size>182868</size>
+    <md5>b067d43ba0cdc02e453d19c008e16024</md5>
+    <crc32>e7e5c00b</crc32>
+    <sha1>3ed113dac312db8eca59a8e3431455f4780a9dcb</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="mdsc-web-2015july19a20-00000.warc_meta.sqlite" source="original">
+    <mtime>1437395943</mtime>
+    <size>14336</size>
+    <format>Metadata</format>
+    <md5>aaf9f5b0c9e1d201a28decdb2aad3ecc</md5>
+    <crc32>6cf9f3cb</crc32>
+    <sha1>79be8498c557e5ad0989ba7ef3cb8665fd5c153c</sha1>
+  </file>
+  <file name="mdsc-web-2015july19a20-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>mdsc-web-2015july19a20-00000.warc.gz</original>
+    <mtime>1437395986</mtime>
+    <size>29226</size>
+    <md5>132ededc95b31c506fa42191929923de</md5>
+    <crc32>1d920fce</crc32>
+    <sha1>c7ccec04196f6e3cb9c3770cc2d4df284037c2b2</sha1>
+  </file>
+  <file name="mdsc-web-2015july19a20-meta.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>mdsc-web-2015july19a20-meta.warc.gz</original>
+    <mtime>1437395993</mtime>
+    <size>47</size>
+    <md5>2162bc813c54056620192e24a35ade98</md5>
+    <crc32>01f1a1d7</crc32>
+    <sha1>9a4af81ab3b6e210f6a0dbe4a7caeedadf9d4aeb</sha1>
+  </file>
+  <file name="mdsc-web-2015july19a20-00000.warc_meta.xml" source="original">
+    <mtime>1437395998</mtime>
+    <size>989</size>
+    <format>Metadata</format>
+    <md5>48ad2e0c3b8a9fade48dcef1d5d81d41</md5>
+    <crc32>89a82cb9</crc32>
+    <sha1>2c97457a4bbab23953d9e397d17324dcd367c097</sha1>
+  </file>
+  <file name="mdsc-web-2015july19a20-00001.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>mdsc-web-2015july19a20-00001.warc.gz</original>
+    <mtime>1437395991</mtime>
+    <size>22674</size>
+    <md5>4c9fb76158bbc0f07fab0565947f4a90</md5>
+    <crc32>6db8eb39</crc32>
+    <sha1>6da68c99f7b2fd84afddea88c523e42d4d528107</sha1>
+  </file>
+  <file name="mdsc-web-2015july19a20-00000.warc.cdx.idx" source="original">
+    <mtime>1437396015</mtime>
+    <size>50</size>
+    <md5>02da13ff2166b4463c5afd0ab6c6fa53</md5>
+    <crc32>cebc82ac</crc32>
+    <sha1>041a768394d4d54a5c21f5f8ee4b9b7d195e7e54</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="mdsc-web-2015july19a20-00000.warc.cdx.gz" source="original">
+    <mtime>1437396015</mtime>
+    <size>36786</size>
+    <md5>7d206ab39ca76c2fad8ab8e2124dbf03</md5>
+    <crc32>5c9ae11c</crc32>
+    <sha1>f3abdabd7ed8e36ea800e4e21e8334e58bea7eda</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="MdscMemberspartialDownloaded2015july19a20Compressed2015july19a20sameDay.zip" source="original">
+    <format>ZIP</format>
+    <title>MDSC members (partial) downloaded 2015july19a20 compressed 2015july19a20 (same day)</title>
+    <mtime>1437402811</mtime>
+    <size>491808367</size>
+    <md5>c886854488b4dbb10c76f0aa4ef0010c</md5>
+    <crc32>87d4ecd1</crc32>
+    <sha1>230fcf05b93f9f86b91468eee8af5793c4df34c9</sha1>
+  </file>
+  <file name="mdsc-web-2015july19a20-00000.warc_archive.torrent" source="metadata">
+    <btih>a0cc1c08c021631443150be6191bd174c609544d</btih>
+    <mtime>1437403699</mtime>
+    <size>29356</size>
+    <md5>6adba519e2ece4dd7a8ee583a4d6a998</md5>
+    <crc32>37ce9804</crc32>
+    <sha1>6a76d875aaaefebb33e0d314f00242f530adb17a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="mdsc-web-2015july19a20-00000.warc_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>387296fcd3e8f65777f8c3639b8508b8</md5>
+  </file>
+</files>

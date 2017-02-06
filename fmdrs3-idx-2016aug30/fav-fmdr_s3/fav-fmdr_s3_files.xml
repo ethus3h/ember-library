@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="fav-fmdr_s3_meta.xml" source="original">
+    <mtime>1445708496</mtime>
+    <size>450</size>
+    <format>Metadata</format>
+    <md5>9255557eadb8aa3cc89b507a42592279</md5>
+    <crc32>130f19ec</crc32>
+    <sha1>2a30c63de7d74bd91672fcd564bde65781a39543</sha1>
+  </file>
+  <file name="fav-fmdr_s3_members.json" source="original">
+    <mtime>1471265617</mtime>
+    <size>772</size>
+    <format>JSON</format>
+    <md5>728cea59cdb8adb5312e633236d3f8c1</md5>
+    <crc32>3e197ee3</crc32>
+    <sha1>d2e8b8b0a2caa4ae810e623c1266121c9040b307</sha1>
+  </file>
+  <file name="fav-fmdr_s3_archive.torrent" source="metadata">
+    <btih>94a37b23c99ab03fcc9a15e844a82c060fb5c05f</btih>
+    <mtime>1471265617</mtime>
+    <size>1469</size>
+    <md5>97d46258bc525e6e8b99c8b38e19db9c</md5>
+    <crc32>121e91cb</crc32>
+    <sha1>97574e54de743a66afc40d7f34e9fb524a870532</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="fav-fmdr_s3_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>9110bab016d9736220a31a15bf741f23</md5>
+  </file>
+</files>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="W2016-08-31-17-09-07-124100241-2b303230300a-8ad6ce21-7156-4fa1-8278-69ac839913ca_meta.sqlite" source="original">
+    <mtime>1472656180</mtime>
+    <size>9216</size>
+    <md5>47689fa154e8a6f7559885524ab9186c</md5>
+    <crc32>33a3be9e</crc32>
+    <sha1>e93e818e0af89a6819db47ff4dc7ba2b00fedf49</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="W2016-08-31-17-09-07-124100241-2b303230300a-8ad6ce21-7156-4fa1-8278-69ac839913ca_meta.xml" source="original">
+    <mtime>1472656185</mtime>
+    <size>838</size>
+    <md5>b50bfe6876543326b23bc660ae99e423</md5>
+    <crc32>9ce1c26a</crc32>
+    <sha1>dca3f73fa27c67dffdd330992366508ebd93a3ee</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="dl-production.firefall.com-installer-client-production-EU-prod-1962-FirefallInstaller.7z-2016-08-31-52039605-00000.warc.gz" source="original">
+    <mtime>1472656163</mtime>
+    <size>4088</size>
+    <md5>d649f99ad0b69597b7d29870682cd924</md5>
+    <crc32>485955d5</crc32>
+    <sha1>d597b6622d22f9b31c0e0d7120dd56b7f9b8b1aa</sha1>
+    <format>Web ARChive GZ</format>
+  </file>
+  <file name="dl-production.firefall.com-installer-client-production-EU-prod-1962-FirefallInstaller.7z-2016-08-31-52039605-00000.warc.os.cdx.gz" source="derivative">
+    <format>WARC CDX Index</format>
+    <original>dl-production.firefall.com-installer-client-production-EU-prod-1962-FirefallInstaller.7z-2016-08-31-52039605-00000.warc.gz</original>
+    <mtime>1472656195</mtime>
+    <size>301</size>
+    <md5>8e37be6686c373c7862c426423c67699</md5>
+    <crc32>1702574a</crc32>
+    <sha1>fb714c65607551943d12756fde1027d528db0e09</sha1>
+  </file>
+  <file name="W2016-08-31-17-09-07-124100241-2b303230300a-8ad6ce21-7156-4fa1-8278-69ac839913ca.cdx.gz" source="original">
+    <mtime>1472656217</mtime>
+    <size>301</size>
+    <md5>3991f56066936a012597c041628d5587</md5>
+    <crc32>ae00062e</crc32>
+    <sha1>9d528a5cfa0480ba5fbf7f24630809ecaf758657</sha1>
+    <format>Item CDX Index</format>
+  </file>
+  <file name="W2016-08-31-17-09-07-124100241-2b303230300a-8ad6ce21-7156-4fa1-8278-69ac839913ca.cdx.idx" source="original">
+    <mtime>1472656217</mtime>
+    <size>95</size>
+    <md5>ca9ae8b3492734517abbca1de396c78f</md5>
+    <crc32>db640ff0</crc32>
+    <sha1>3273628c677d6a0cacdf35c45bb881bfdc5b7287</sha1>
+    <format>Item CDX Meta-Index</format>
+  </file>
+  <file name="W2016-08-31-17-09-07-124100241-2b303230300a-8ad6ce21-7156-4fa1-8278-69ac839913ca_archive.torrent" source="metadata">
+    <btih>33f84d2e74d092949a51a02b3c1f188fbf399a96</btih>
+    <mtime>1472656217</mtime>
+    <size>3126</size>
+    <md5>bf24bbea8ed54c43246a3f75e5209523</md5>
+    <crc32>00b6bbeb</crc32>
+    <sha1>932a67fd546518ac070f9c23d0fbd5aa5c8eb686</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="W2016-08-31-17-09-07-124100241-2b303230300a-8ad6ce21-7156-4fa1-8278-69ac839913ca_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>2d1a80a42f5aa05ad390f688508417b9</md5>
+  </file>
+</files>
