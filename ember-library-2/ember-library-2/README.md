@@ -1,4 +1,4 @@
-# Ember Library
+# Ember Library: Section 2
 
 The Ember Library is part of the Ember project.
 
